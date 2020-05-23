@@ -31,5 +31,5 @@ module.exports = {
   `gatsby-transformer-sharp`,
   `gatsby-plugin-sharp`,
   ],
-  pathPrefix: "/raseliniste"
+  pathPrefix: "/mirecol"
 }
