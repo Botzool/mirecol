@@ -2,10 +2,21 @@
 import originCultural from "../images/projects/originCultural.jpg";
 import eurofens from "../images/projects/eurofens.jpg";
 import bryo from "../images/projects/bryo.jpg";
+import bryo from "../images/projects/greenland.jpg";
 
 export const projectsEn = {
   
   currentProjectsList: [
+    {
+      title: `Boreal land snail diversification promoted by isolation in space and time`,
+      identification: `GA20-18827S`,
+      applicant: `doc. Jeffrey Nekola, Ph.D.`,
+      duration: `1/2020 - 12/2022`,
+      investor: `Czech Science Foundation – Standard Projects`,
+      abstract: `This project will consider the fundamental drivers underlying boreal fauna diversification by investigating the dramatic biogeographic transition in the boreal North Atlantic between the European and eastern North American terrestrial gastropod provinces. This research will determine how much of species and genetic turnover is correlated to environment vs. geography, in particular ocean and ice sheet barriers. The Greenland Ice Sheet is the only place in the modern world where the effectiveness of ice barriers on biological isolation and allopatric speciation can still be observed. We will then use this data to document the role of isolation barriers over deeper macroevolutionary time scales by predicting range limits and dispersal barriers in the Late Glacial Maximum (LGM). These insights can then be used to inform optimum conservation strategies for boreal biodiversity in the face of unprecedented global climate change.`,
+      link: ``,
+      img: greenland
+    },
     {
       title: `Current and future diversity of European fens in a changing world`,
       identification: `GA19-01775S`,
@@ -188,6 +199,16 @@ for biodiversity`,
 export const projectsCz = {
   
   currentProjectsList: [
+{
+      title: `Diverzifikace boreálních suchozemských plžů podmíněná izolací v prostoru a čase`,
+      identification: `GA20-18827S`,
+      applicant: `doc. Jeffrey Nekola, Ph.D.`,
+      duration: `1/2020 - 12/2022`,
+      investor: `Grantová agentura ČR - Standardní projekty`,
+      abstract: `GProjekt bude zaměřen na zásadní faktory podmiňující diverzifikaci boreální fauny, které budou zkoumány v oblasti strmé biogeografické hranice v severním Atlantiku mezi Evropou a východní Severní Amerikou, představující odlišné provincie terestrických plžů. Bude zjištěno, do jaké míry je změna druhového složení korelována s podmínkami prostředí vs. geografií, konkrétně bariérami v podobě oceánu nebo ledovce. Grónský ledovec je v současnosti jediné místo na světě, kde lze vliv ledovcových bariér na biologickou izolaci a alopatrickou speciaci stále sledovat. Tato data budou následně použita pro stanovení role disperzních bariér napříč hlubšími makroevolučními časovými škálami, prostřednictvím predikce limitů rozšíření a disperzních bariér v posledním glaciálním maximu (LGM). Tyto poznatky mohou být využity pro stanovení optimálních strategií ochrany boreální biodiverzity při současné dramatické globální změně klimatu.`,
+      link: ``,
+      img: greenland
+    },
     {
       title: `Současná a budoucí diverzita evropských slatinišť v měnícím se světě `,
       identification: `GA19-01775S`,
