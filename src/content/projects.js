@@ -2,7 +2,7 @@
 import originCultural from "../images/projects/originCultural.jpg";
 import eurofens from "../images/projects/eurofens.jpg";
 import bryo from "../images/projects/bryo.jpg";
-import bryo from "../images/projects/greenland.jpg";
+import greenland from "../images/projects/greenland.jpg";
 
 export const projectsEn = {
   
