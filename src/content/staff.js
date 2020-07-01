@@ -48,6 +48,7 @@ export const staffEn = [
     phoneNumber: `549493884`,
     researchgate: `https://www.researchgate.net/scientific-contributions/76164856_Jeffrey_C_Nekola`,
     is: `https://is.muni.cz/auth/osoba/115710`,
+    personal: `https://www.sci.muni.cz/botany/nekola/`,
     img: nekola
   },
   {
@@ -248,6 +249,7 @@ export const staffCz = [
     phoneNumber: `549493884`,
     researchgate: `https://www.researchgate.net/scientific-contributions/76164856_Jeffrey_C_Nekola`,
     is: `https://is.muni.cz/auth/osoba/115710`,
+    personal: `https://www.sci.muni.cz/botany/nekola/`,
     img: nekola
   },
   {

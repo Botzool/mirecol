@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 import researchgate from '../../images/social-researchgate.png'
 import is from '../../images/social-is.png'
-
+import personal from '../../images/personal.png'
 
 
 class PersonBox extends Component {
@@ -47,6 +47,9 @@ class PersonBox extends Component {
                 <a  target="_blank" rel="noopener noreferrer" href={personInfo.is || '#'}>
                   <img src={is} alt="is" height="40px" />
                 </a>
+                {personInfo.personal &&  <a  style={{marginLeft: 15}} target="_blank" rel="noopener noreferrer" href={personInfo.personal || '#'}>
+                  <img src={personal} alt="personal-website" height="40px" />
+                </a>}
               </P>
             </div>
             {!showDetail &&
