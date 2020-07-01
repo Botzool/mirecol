@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/vegsci"
+  to = "http://vegsci.netlify.app/vegsci"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/vegsci/*"
+  to = "http://vegsci.netlify.app/mirecol/:splat"
+  status = 200
+  force = true
