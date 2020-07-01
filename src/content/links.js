@@ -34,6 +34,14 @@ export const databasesCz = [
   ];
 export const media = [
   {
+    name: `23/05/2020 Unikátní louka v Bílých Karpatech, Události ČT`,
+    link: `https://www.ceskatelevize.cz/porady/1097181328-udalosti/220411000100523/video/769384`
+  },
+  {
+    name: `21/04/2020 Koronavirus zbrzdí biologům práci o rok a ohrozí expedice, Magazín M`,
+    link: `https://www.em.muni.cz/veda-a-vyzkum/12806-koronavirus-zbrzdi-biologum-praci-o-rok-a-ohrozi-expedice`
+  },
+  {
     name: `04/04/2019 České expedice do Antarktidy jsou mezinárodně čím dál známější. Zkoumají řasy, ledovce i bakterie, Český rozhlas`,
     link: `https://wave.rozhlas.cz/ceske-expedice-do-antarktidy-jsou-mezinarodne-cim-dal-znamejsi-zkoumaji-rasy-7869204`
   },
