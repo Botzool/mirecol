@@ -1,6 +1,4 @@
-﻿import holoceneDevelopment from "../images/projects/holoceneDevelopment.jpg";
-import originCultural from "../images/projects/originCultural.jpg";
-import eurofens from "../images/projects/eurofens.jpg";
+﻿import eurofens from "../images/projects/eurofens.jpg";
 import bryo from "../images/projects/bryo.jpg";
 import greenland from "../images/projects/greenland.jpg";
 
@@ -37,30 +35,24 @@ export const projectsEn = {
       (hypothetically relict) species in European landscape and communities during the Holocene. Deeper knowledge of species’ genetic diversity, ecological and habitat requirements will facilitate their in situ protection.`,
       link: `https://www.muni.cz/vyzkum/projekty/44389`,
       img: bryo
-    },    
+    }
+  ],
+
+  completedProjectsList: [
     {
       title: `Holocene development of temperate European biota: effects of climate, refugia and local factors tested by complex datasets of independent proxies`,
       identification: `GA17-05696S`,
       applicant: `prof. RNDr. Michal Horsák, Ph.D.`,
       duration: `1/2017 - 12/2019`,
-      investor: `Czech Science Foundation – Standard Projects`,
-      abstract: `Palaeoecology experiences increasing demands from global change biology because of its ability to cover ecosystem developments under changing climate over large temporal scales. Our project covers the last 15.000 years and represents an innovative interconnection of local sequences, their spatial heterogeneity, reconstructions of regional macroclimate using independent abiotic (stable isotopes) and biotic proxies, modelling of past landscape patterns and testing their effect on recent diversity, and continental-scale comparisons. Geographically, the project is focused on the Western Carpathians as the major biogeographical interface within Europe, and Northern France as a reference region with a different refugial history. Fossils of terrestrial molluscs in calcareous deposits, which are well-preserved and identifiable at the species level, act as a principal proxy. Pollen, testate amoebae and plant macrofossils act as important proxies for validations of local developments, macroclimate reconstructions and spatial modelling of past landscape diversification.`,
-      link: `https://www.muni.cz/vyzkum/projekty/36126`,
-      img: holoceneDevelopment
+      link: `https://www.muni.cz/vyzkum/projekty/36126`
     },
     {
       title: `The origin of cultural landscape in Moravia: investigation of a unique Neolithic well from Uničov`,
       identification: `GA17-11711S`,
-      coapplicant: `Mgr. Libor Petr, Ph.D.`,
+      applicant: `Mgr. Libor Petr, Ph.D.`,
       duration: `1/2017 - 12/2019`,
-      investor: `Czech Science Foundation – Standard Projects`,
-      abstract: `Hunter and gatherer communities switched to the Neolithic way of life round the mid-6th millennium BC. The sedentary way of life was related to plant cultivation and livestock breeding, which induced the origin of long-time settlement areas. Communities of the first farmers chose another strategy in exploitation of surrounding landscape; one of them was the assurance of access to water sources. The excavation of a Neolithic settlement in Uničov – U Kravína at the end of 2015, which yielded the discovery of a wooden well with sediment infill from the beginning of the Neolithic, enabled to study this topic by a multi-proxy approach using a set of different methods. By analysing and interconnecting the data from archaeological and environmental research we will be able to answer the questions of how the first farmers could have influenced their environment, to what extent the environment has changed through the Neolithic and how the prehistoric cultural landscape emerged in Moravia. The results will be compared with information from finished excavations of Neolithic sites in both Moravia and a wider Central European region.`,
-      link: `https://www.muni.cz/vyzkum/projekty/36141`,
-      img: originCultural
-    }
-  ],
-
-  completedProjectsList: [
+      link: `https://www.muni.cz/vyzkum/projekty/36141`
+    },
     {
       title: `The coexistence of aquatic invertebrates in spring fens: the role of abiotic heterogeneity and biotic interactions at regional and local scale`,
       identification: `GA16-03881S`,
@@ -228,31 +220,24 @@ export const projectsCz = {
       abstract: `Rašeliniště ve střední Evropě představují pro ohrožené cévnaté rostliny a mechorosty refugia ostrovní povahy. Ačkoliv jsou tyto druhy důležité z hlediska ochrany přírody a zároveň fungují jako modelové organismy v ostrovní biogeografii, nejsou téměř žádné studie o jejich genetické diversitě a stanovištních podmínkách na geografické škále od boreální po temperátní zónu. Naším cílem je prozkoumat propojenost populací rašelinných druhů v rámci užších oblastí i mezi nimi, lišícími se zastoupením rašelinišť v krajině, reliéfem a mírou lidského vlivu. Využijeme data z moderní molekulárně ekologické metody (new-generation sequencing) v kombinaci s paleoekologickými a vegetačními daty ke zjištění mechanismů přežívání rašelinných specialistů (předpokládaných reliktů) ve středoevropské krajině a společenstvech během holocénu. Hlubší znalost genetické diversity, ekologických a stanovištních nároků podpoří ochranu jednotlivých druhů.`,
       link: `https://www.muni.cz/vyzkum/projekty/44389`,
       img: bryo
-    },
-    {
-      title: `Holocenní vývoj evropské bioty mírného pásu: vlivy klimatu, refugií a lokálních faktorů
-        testované na komplexních datech nezávislých proxy`,
-      identification: `GA17-05696S`,
-      applicant: `prof. RNDr. Michal Horsák, Ph.D.`,
-      duration: `1/2017 - 12/2019`,
-      investor: `Grantová agentura ČR - Standardní projekty`,
-      abstract: `Ze strany biologie globálních změn vzrůstá zájem o paleoekologii, protože umožňuje popsat vývoj ekosystémů způsobený klimatickými změnami za dlouhá časová období. Tento projekt pokrývá posledních 15 tis. let a představuje inovativní propojení lokálního záznamu, jeho prostorové variability, rekonstrukcí regionálního klimatu za pomocí stabilních izotopů a biotických proxy, modelování povahy krajinných změn v minulosti a testování vlivu těchto efektů na současnou diverzitu, včetně srovnání na kontinentální škále. Geograficky je projekt zaměřen na Západní Karpaty jako jedno z hlavních biogeografických rozhraní v rámci Evropy, a severní Francii jako referenční území s odlišnou refugiální historií. Subfosilní ulity měkkýšů, zde představující hlavní biotické proxy, se dobře zachovávají ve vápnitých sedimentech a umožňují spolehlivé určení do druhové úrovně. Pylový záznam, krytenky a rostlinné makrozbytky jsou součástí projektu jako další důležitá proxy pro ověření lokálního vývoje, makroklimatických rekonstrukcí a pro prostorové modelování diverzifikace krajiny.`,
-      link: `https://www.muni.cz/vyzkum/projekty/36126`,
-      img: holoceneDevelopment
-    },
-    {
-      title: `Počátek kulturní krajiny na Moravě: výzkum unikátní neolitické studny z Uničova`,
-      identification: `GA17-11711S`,
-      coapplicant: `Mgr. Libor Petr, Ph.D.`,
-      duration: `1/2017 - 12/2019`,
-      investor: `Grantová agentura ČR - Standardní projekty`,
-      abstract: `V polovině 6. tisíciletí BC došlo v povodí řeky Moravy k procesu neolitizace. Z lovců a sběračů se stali zemědělci a chovatelé zvířat. Lidé začali stavět domy a žili ve větších komunitách. V hmotné kultuře se tato změna projevuje přítomností keramických nádob, broušených nástrojů a artefaktů spojených se zpracováním obilí. Zemědělský způsob života spojený s chovem zvířat byl usedlý a vyžadoval skladování potravin. Lidé začali okolní krajinu více využívat a nutností bylo také zajištění přístupu ke zdrojům vody. Výzkumem neolitického sídliště v Uničově-U Kravína na konci roku 2015, spojeným s objevem studny s původní výdřevou a výplní z počátku neolitu, byla získána možnost tuto problematiku řešit novými metodami. Využijí se i informace z řady již realizovaných výzkumů neolitických lokalit nejen na Moravě, ale i v širším regionu střední Evropy. Analýzou dat z archeologických, kulturně antropologických, archeobotanických, archeozologických, geologických, pedologických, klimatologických výzkumů a jejich vzájemným propojením můžeme přispět k řešení problematiky, do jaké míry první zemědělci na počátku neolitu mohli ovlivnit přírodní prostřední, jak se přírodní prostředí měnilo v průběhu neolitu a jakým způsobem došlo ke vzniku pravěké kulturní krajiny na Moravě.`,
-      link: `https://www.muni.cz/vyzkum/projekty/36141`,
-      img: originCultural
     }
   ],
   
   completedProjectsList: [
+    {
+      title: `Holocenní vývoj evropské bioty mírného pásu: vlivy klimatu, refugií a lokálních faktorů testované na komplexních datech nezávislých proxy`,
+      identification: `GA17-05696S`,
+      applicant: `prof. RNDr. Michal Horsák, Ph.D.`,
+      duration: `1/2017 - 12/2019`,
+      link: `https://www.muni.cz/vyzkum/projekty/36126`
+    }, 
+    {
+      title: `Počátek kulturní krajiny na Moravě: výzkum unikátní neolitické studny z Uničova`,
+      identification: `GA17-11711S`,
+      applicant: `Mgr. Libor Petr, Ph.D.`,
+      duration: `1/2017 - 12/2019`,
+      link: `https://www.muni.cz/vyzkum/projekty/36141`
+    }, 
     {
       title: `Koexistence vodních bezobratlých na prameništních slatiništích: úloha abiotické
         heterogenity a biotických interakcí na regionální a lokální škále`,
