@@ -31,19 +31,6 @@ export const studentsEn = [
     img: frodlova
   },
   {
-    id: `lizonova`,
-    name: `Zuzana Lizoňová`,
-    email: `375896@mail.muni.cz`,
-    description: `Zuzana Lizoňová got her degree in Ecological and evolutionary biology and Zoology at Masaryk
-    University in Brno, where she graduated in 2016. Her bachelor and master theses dealt with
-    ecology of testate amoebae inhabiting minerothophic mires and she currently continues her
-    research as a Ph.D. student focusing on variability of testate amoebae communities on small
-    spatial scales.`,
-    researchgate: `https://www.researchgate.net/publication/314031327_Contrasting_diversity_of_testate_amoebae_communities_in_Sphagnum_and_brown-moss_dominated_patches_in_relation_to_shell_counts.`,
-    is: `https://www.muni.cz/lide/375896-zuzana-lizonova`,
-    img: lizonova
-  },
-  {
     id: `lorencova`,
     name: `Erika Lorencová`,
     email: `erikalorencova@mail.muni.cz`,
@@ -138,19 +125,6 @@ export const studentsCz = [
       researchgate: `https://www.researchgate.net/profile/Jitka_Frodlova`,
       is: `https://www.muni.cz/lide/356427-jitka-frodlova`,
       img: frodlova
-    },
-    {
-      id: `lizonova`,
-      name: `Zuzana Lizoňová`,
-      email: `375896@mail.muni.cz`,
-      description: `Zuzana Lizoňová vystudovala obor Ekologická a evoluční biologie na Masarykově univerzitě v
-      Brně, v magisterském studiu zde pokračovala v oboru Zoologie. Diplomovou práci věnovanou
-      krytenkám minerotrofních rašelinišť obhájila v roce 2016. Ve výzkumu těchto organizmů
-      pokračuje i nadále v rámci doktorského studia, jež je zaměřeno na distribuci a variabilitu
-      společenstev krytenek na malých prostorových škálách.`,
-      researchgate: `https://www.researchgate.net/publication/314031327_Contrasting_diversity_of_testate_amoebae_communities_in_Sphagnum_and_brown-moss_dominated_patches_in_relation_to_shell_counts.`,
-      is: `https://www.muni.cz/lide/375896-zuzana-lizonova`,
-      img: lizonova
     },
     {
       id: `lorencova`,
