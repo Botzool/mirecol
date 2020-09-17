@@ -6,6 +6,7 @@ import prochazkova from '../images/people/prochazkova.jpg'
 import lorencova from '../images/people/lorencova.jpg'
 import nemec from '../images/people/nemec.jpg'
 import coufal from '../images/people/coufal.jpg'
+import winterova from '../images/people/winterova.jpg'
 
 export const studentsEn = [
   {
@@ -100,6 +101,15 @@ export const studentsEn = [
     researchgate: `https://www.researchgate.net/profile/Patricia_Durcanova`,
     is: `https://is.muni.cz/osoba/447157`,
     img: durcanova
+  },
+  {
+    id: `winterova`,
+    name: `Barbora Winterová`,
+    email: `423852@mail.muni.cz`,
+    description: `Barbora Winterová studied Zoology with specialisation in Vertabratology, at Faculty of Science of Masaryk University. She graduated in 2020. Even though working on behavioural ecology of amphibians in her Bachelor and Master theses, her PhD studies are focused on more general macroecology questions, in particular how dispersal barriers influence biodiversity and community ecology patterns of coral reefs from local to global scales.  `,
+    researchgate: `https://www.researchgate.net/profile/Barbora_Winterova2`,
+    is: `https://is.muni.cz/auth/osoba/423852`,
+    img: winterova
   }
 ]
 
@@ -196,5 +206,14 @@ export const studentsCz = [
       researchgate: `https://www.researchgate.net/profile/Patricia_Durcanova`,
       is: `https://is.muni.cz/osoba/447157`,
       img: durcanova
-    }
-  ]
+    },
+    {
+    id: `winterova`,
+    name: `Barbora Winterová`,
+    email: `423852@mail.muni.cz`,
+    description: `Barbora Winterová vystudovala Zoologii, směr Vertebratologie, na Přírodovědecké fakultě Masarykovy univerzity. Promovala roku 2020. Ačkoli se během svých bakalářských a magisterských studií věnovala behaviorální ekologii obojživelníků, během současného, doktorského, studia oboru Ekologie se zaměřuje na obecnější otázky makroekologie. Konkrétně se věnuje vlivu bariér na biodiverzitu a ekologii společenstev, který by ráda zkoumala na různých škálách, od lokálních po globální, a na různých modelových systémech, včetně korálových útesů.`,
+    researchgate: `https://www.researchgate.net/profile/Barbora_Winterova2`,
+    is: `https://is.muni.cz/auth/osoba/423852`,
+    img: winterova
+  }
+ ]
