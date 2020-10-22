@@ -28,7 +28,7 @@ export const studentsEn = [
     effects. Currently, as a Ph.D. student, she studies the Holocene molluscan successions at spring
     fens, extending the region of interest to the Western Carpathians.`,
     researchgate: `https://www.researchgate.net/profile/Jitka_Frodlova`,
-    is: `https://www.muni.cz/lide/356427-jitka-frodlova`,
+    is: `https://is.muni.cz/auth/osoba/356427`,
     img: frodlova
   },
   {
@@ -133,7 +133,7 @@ export const studentsCz = [
       vzorkovacího designu. Na doktorském studiu se dále věnuje holocenní sukcesi měkkýšů na
       pěnovcových prameništích napříč Západními Karpaty.`,
       researchgate: `https://www.researchgate.net/profile/Jitka_Frodlova`,
-      is: `https://www.muni.cz/lide/356427-jitka-frodlova`,
+      is: `https://is.muni.cz/auth/osoba/356427`,
       img: frodlova
     },
     {

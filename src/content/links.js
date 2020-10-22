@@ -34,6 +34,18 @@ export const databasesCz = [
   ];
 export const media = [
   {
+    name: `12/07/2020 Ochrana některých druhů se bez zásahů člověka neobejde, Magazín M`,
+    link: `https://www.em.muni.cz/veda-a-vyzkum/13092-ochrana-nekterych-druhu-se-bez-zasahu-cloveka-neobejde`
+  },
+  {
+    name: `09/07/2020 Unikátní louky v Žítkové, Události ČT`,
+    link: `https://www.ceskatelevize.cz/porady/1097181328-udalosti/220411000100709/video/778102`
+  },
+ {
+    name: `28/06/2020 Jak čelit nájezdům plzáků, Český rozhlas, Vysočina`,
+    link: `https://vysocina.rozhlas.cz/poradek-na-zahrade-je-idealni-preventivni-zpusob-jak-celit-najezdum-plzaku-8234631`
+  },
+  {
     name: `23/05/2020 Unikátní louka v Bílých Karpatech, Události ČT`,
     link: `https://www.ceskatelevize.cz/porady/1097181328-udalosti/220411000100523/video/769384`
   },
@@ -134,10 +146,9 @@ link: `
     http://ziva.avcr.cz/files/ziva/pdf/malakozoologuv-pruvodce-makro-ekologii.pdf`
   },
   {
-    name: `Ekologie hlavních vegetačních formací na Zemi (Vesmír 88, 829, 2009/12)`,
+    name: `Hájek M. (2009): Ekologie hlavních vegetačních formací na Zemi (Vesmír 88, 829, 2009/12)`,
     link: `
-    https://vesmir.cz/cz/casopis/archiv-casopisu/2009/cislo-12/ekologie-hlavnich-vegetacnich-formaci-
-    zemi.html`
+    https://vesmir.cz/cz/casopis/archiv-casopisu/2009/cislo-12/ekologie-hlavnich-vegetacnich-formaci-zemi.html`
   },
   {
     name: `Schenková V., Čáp Hlaváč J. & Horsák M. (2013): Vrkoč rašelinný - další z glaciálních reliktů - z červené
