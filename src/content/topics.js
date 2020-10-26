@@ -1,13 +1,14 @@
 ﻿import React from "react";
+import { Link } from "gatsby";
 
 export const cryptogamologyTextCz = (
   <span>
     Zabýváme se detailním výzkumem řas, mechorostů a lišejníků. Tyto skupiny se
     dříve řadily do skupiny tajnosnubných (výtrusných) rostlin, tak zvaných
-    kryptogamů. Náš zájem o kryptogamy dává smysl, protože <a href="/topic-mires">rašeliniště</a> i některé 
-    další <a href="/topic-relict">reliktní ekosystémy</a> se vyznačují velkou pestrostí kryptogamů a jejich klíčovými rolemi ve
+    kryptogamů. Náš zájem o kryptogamy dává smysl, protože <Link to="/topic-mires">rašeliniště</Link> i některé 
+    další <Link to="/topic-relict">reliktní ekosystémy</Link> se vyznačují velkou pestrostí kryptogamů a jejich klíčovými rolemi ve
     fungování těchto ekosystémů. Kryptogamy mají rovněž značný význam jako
-    biondikátory v <a href="/topic-paleo">paleoekologii</a>. Náš zájem o
+    biondikátory v <Link to="/topic-paleo">paleoekologii</Link>. Náš zájem o
     řasy, mechorosty a lišejníky však tyto zmíněné obory přesahuje. Zabýváme se
     rovněž taxonomií, genetickou strukturou a ekologií různých skupin krytogamů,
     kromě rašeliništních druhů například i epifytickými mechorosty,
@@ -17,7 +18,7 @@ export const cryptogamologyTextCz = (
     křemičitou schránkou k nejdůležitějším primárním producentům. Snažíme se
     rozluštit celou řadu rozsivkových taxonomických záhad a přispět tím k
     lepšímu pochopení biogeografie mikroorganismů. Rozsivkové schránky zachované
-    v sedimentech studujeme v rámci multiproxy <a href="/topic-paleo">paleoekologických projektů</a>. Neomezujeme se
+    v sedimentech studujeme v rámci multiproxy <Link to="/topic-paleo">paleoekologických projektů</Link>. Neomezujeme se
     však jen na rozsivky, objekty našeho zájmu jsou i sinice a řasy v řekách,
     rybnících nebo jeskyních Moravského Krasu. Bryologický a lichenologický
     výzkum se zabývá druhovou diverzitou v chráněných územích s důrazem na
@@ -36,10 +37,10 @@ export const cryptogamologyTextEn = (
   <span>
     We focus in detail on the research of algae, bryophytes and lichens. These
     groups were all formerly classified as “cryptogams” (spore plants). Our
-    interest in cryptogams makes sense, because <a href="/topic-mires">mires</a> as well as other <a href="/topic-relict">relict ecosystems</a>, have uniquely rich
+    interest in cryptogams makes sense, because <Link to="/topic-mires">mires</Link> as well as other <Link to="/topic-relict">relict ecosystems</Link>, have uniquely rich
     communities of cryptogams, which play key roles for the functioning of these
     ecosystems. Cryptogams are also of significant importance as bioindicators
-    in <a href="/topic-paleo">palaeoecology</a>. However, our interest in
+    in <Link to="/topic-paleo">palaeoecology</Link>. However, our interest in
     algae, bryophytes and lichens exceeds the above mentioned research fields.
     We also deal with the taxonomy, genetic structure and ecology of various
     cryptogam groups, not only mire species, but also epiphytic bryophytes,
@@ -49,7 +50,7 @@ export const cryptogamologyTextEn = (
     represent the most important primary producers. We try to disentangle a
     variety of diatom taxonomical mysteries and contribute to a better
     understanding of the biogeography of microorganisms. Diatom shells,
-    preserved in sediments, are studied in the course of multiproxy <a href="/topic-paleo">palaeoecological projects</a>. However, we do not
+    preserved in sediments, are studied in the course of multiproxy <Link to="/topic-paleo">palaeoecological projects</Link>. However, we do not
     restrict our focus to diatoms, as we also deal with the blue-green algae and
     algae in rivers, ponds and caves of the Moravian Karst. Bryological and
     lichenological research focuses on the species diversity in protected areas,
@@ -77,19 +78,19 @@ export const mireEcologyTextEn = (
     our research we focus on both these mire types, with a greater emphasis on
     more threatened fens. We study the influence of water chemistry on the
     species diversity of various groups of fen organisms, especially plants and
-    molluscs, but also <a href="/topic-crypto">algae</a>, protozoans and
+    molluscs, but also <Link to="/topic-crypto">algae</Link>, protozoans and
     fungi. We are interested in both mineral content of groundwater, which
     drives the variation among well- preserved fens, and nutrient availability,
     which varies due to the human interference with the biogeochemical cycles.
     Apart from water chemistry we also explore other important ecological
     variables. These are mainly temperature and hydrology, i.e. factors that
     severely change upon the influence of current climate changes, making mire
-    ecosystems so easily vulnerable. Using the methods of <a href="/topic-paleo">palaeoecology</a> we also include <a href="/topic-relict">historical
-    factors</a> to our analyses, which often appear as key for the species diversity of mires.
+    ecosystems so easily vulnerable. Using the methods of <Link to="/topic-paleo">palaeoecology</Link> we also include <Link to="/topic-relict">historical
+    factors</Link> to our analyses, which often appear as key for the species diversity of mires.
     Comparing multiple taxonomic groups we are able to reach more generalData
     conclusions and higher resolution in our understanding of relationships
     between biotic and abiotic factors. We also deal with the functional links
-    between the individual groups of organisms, such as <a href="/topic-crypto">bryophytes</a> and vascular plants. To obtain a
+    between the individual groups of organisms, such as <Link to="/topic-crypto">bryophytes</Link> and vascular plants. To obtain a
     broader picture of the vulnerability of mires, we explore these ecosystems
     across the whole of Europe. We synthesize literature data, but we also
     collect our own accurate data about various organisms and environmental
@@ -114,18 +115,18 @@ export const mireEcologyTextCz = (
     klíčové role v biogeochemických cyklech. V našem výzkumu se zaměřujeme na
     oba tyto hlavní typy rašelinišť, s větším důrazem na ohroženější slatiniště.
     Zkoumáme vliv chemismu prostředí na druhovou pestrost různých rašeliništních
-    organismů, zejména rostlin a měkkýšů, ale i <a href="/topic-crypto">řas</a>, prvoků nebo hub. Zajímá nás jak vliv
+    organismů, zejména rostlin a měkkýšů, ale i <Link to="/topic-crypto">řas</Link>, prvoků nebo hub. Zajímá nás jak vliv
     minerálů ve vodě, který ovlivňuje druhové rozdíly mezi dobře zachovalými
     rašeliništi, tak i vliv přístupnosti živin, který se mění kvůli lidským
     zásahům do biogeochemických cyklů. Kromě chemismu prostředí sledujeme i
     další důležité ekologické faktory. K nim patří teplota a hydrologický režim,
     tedy faktory, které se během současných klimatických změn prudce mění a tím
-    se rašeliniště stávají zranitelnými. Pomocí <a href="/topic-paleo">paleoekologických metod</a> zahrnujeme do našich
-    analýz i <a href="/topic-relict">historické faktory</a>, které se mnohdy ukazují pro diverzitu
+    se rašeliniště stávají zranitelnými. Pomocí <Link to="/topic-paleo">paleoekologických metod</Link> zahrnujeme do našich
+    analýz i <Link to="/topic-relict">historické faktory</Link>, které se mnohdy ukazují pro diverzitu
     rašelinišť jako klíčové. Srovnáváním různých
     taxonomických skupin jsme schopni dosáhnout větší míry zobecnění a přesnosti
     v našem chápání vztahů mezi neživou a živou přírodou. Zkoumáme i funkční
-    vazby mezi jednotlivými skupinami organismů, například mezi <a href="/topic-crypto">mechorosty</a> a cévnatými rostlinami. Abychom
+    vazby mezi jednotlivými skupinami organismů, například mezi <Link to="/topic-crypto">mechorosty</Link> a cévnatými rostlinami. Abychom
     dobře pochopili naše ohrožené biotopy rašelinišť, zkoumáme rašeliniště v
     celé Evropě. Syntetizujeme data z literatury, ale získáváme i nová, přesná
     data o různých skupinách organismů a parametrech prostředí pomocí stejné
@@ -146,7 +147,7 @@ export const palaeoEcologyTextEn = (
     is called „palaeoecology“, i.e. the study of interactions between organisms
     and their past environments. The sources of information and objects of our
     interest are represented by various sediment types, preserving remains of
-    organisms. We focus mainly on the <a href="/topic-mires">organic sediments of lakes, bogs and fens</a>, in
+    organisms. We focus mainly on the <Link to="/topic-mires">organic sediments of lakes, bogs and fens</Link>, in
     which we can read as if we had a rare chronicle, but which capture a time
     period far longer than any human- made documents do. The development of
     these “natural archives” is facilitated by a slow accumulation of sediments
@@ -158,7 +159,7 @@ export const palaeoEcologyTextEn = (
     as well as quantitatively using modern statistical tools (i.e. transfer
     functions). The core of our research territory lies in the Western
     Carpathians and adjacent regions, such as Eastern Carpathians, eastern
-    Sudetes and Morava valleys. We identify a broad <a href="/topic-crypto">spectrum of organisms</a>: mainly pollen, seeds,
+    Sudetes and Morava valleys. We identify a broad <Link to="/topic-crypto">spectrum of organisms</Link>: mainly pollen, seeds,
     fruits, plant tissues, bryophytes, wood, shells of diatoms (link) and
     testate amoebae, chitinous remains of invertebrates (e.g. chironomid larvae)
     and mollusc shells. The combination of multiple taxa makes the
@@ -168,7 +169,7 @@ export const palaeoEcologyTextEn = (
     knowledge that we obtain is also interconnected with current ecology – we
     study the influence of past landscape development on the contemporary
     variation of flora and fauna and distribution of species, including
-    threatened <a href="/topic-relict">relicts</a>.
+    threatened <Link to="/topic-relict">relicts</Link>.
   </span>
 );
 
@@ -180,8 +181,8 @@ export const palaeoEcologyTextCz = (
     současné živé přírody. Takový výzkum označujeme jako paleoekologii, což je
     věda o vztazích organismů a jejich prostředí v minulosti. Zdrojem informací
     a objektem zkoumání jsou nejrůznější sedimenty obsahující zachovalé zbytky
-    organizmů. V případě našeho výzkumu se většinou jedná o <a href="/topic-mires">
-    organické sedimenty jezer, vrchovišť a slatinišť</a>, ve kterých čteme jako ve vzácné kronice, ale zachycující výrazně delší
+    organizmů. V případě našeho výzkumu se většinou jedná o <Link to="/topic-mires">
+    organické sedimenty jezer, vrchovišť a slatinišť</Link>, ve kterých čteme jako ve vzácné kronice, ale zachycující výrazně delší
     časový úsek než všechny lidské písemnosti. Postupného ukládání sedimentu a
     vzniku těchto „přírodních archivů“ je dosaženo díky vysoké hladině vody,
     která zabraňuje rozkladu zbytků většiny organizmů. Využíváme jak analýzu
@@ -191,7 +192,7 @@ export const palaeoEcologyTextCz = (
     to jak kvalitativně, tak i kvantitativně pomocí moderních statistických
     nástrojů (tzv. přenosové funkce). Oblastí našeho výzkumu jsou celé Západní
     Karpaty a území s nimi sousedící, jako jsou například Východní Karpaty,
-    východní Sudety nebo moravské úvaly. Určujeme široké spektrum <a href="/topic-crypto">zbytků organismů</a>: nejčastěji pylová zrna,
+    východní Sudety nebo moravské úvaly. Určujeme široké spektrum <Link to="/topic-crypto">zbytků organismů</Link>: nejčastěji pylová zrna,
     semena, plody a pletiva rostlin, mechorosty, dřevo, schránky rozsivek a
     krytenek, chitinové zbytky bezobratlých (např. larev pakomárů) a ulity
     měkkýšů. Kombinace více skupin rekonstrukci zpřesňuje a umožňuje odhadovat
@@ -199,14 +200,14 @@ export const palaeoEcologyTextCz = (
     měkkýši) a úživnosti (rozsivky). Zjištěné výsledky rovněž propojujeme se
     současnou ekologií – ověřujeme vliv dávné historie naší krajiny na současnou
     pestrost flóry a fauny a současné rozšíření jednotlivých druhů, včetně
-    ohrožených <a href="/topic-relict">reliktů</a>.
+    ohrožených <Link to="/topic-relict">reliktů</Link>.
   </span>
 );
 
 export const relictEcosystemsTextEn = (
   <span>
-    One of the most fascinating and unique characters of <a href="/topic-mires">mires 
-    and fens</a> is their ability to act as refugia for relict populations of species which
+    One of the most fascinating and unique characters of <Link to="/topic-mires">mires 
+    and fens</Link> is their ability to act as refugia for relict populations of species which
     were more widely distributed during the end of the last Glacial and Early
     Holocene periods. This fact makes it particularly interesting for us to
     study relict ecosystems, i.e. those that resemble the landscape character in
@@ -214,10 +215,10 @@ export const relictEcosystemsTextEn = (
     case of mires we focus on the distribution, ecology and conservation issues
     of relict plant and mollusc species, their disjunct distributions and
     long-term in situ survivals. The possibility of accurate dating and
-    information about the  <a href="/topic-paleo">historical 
-    development</a> allow us to interconnect the site age with the occurrence of relict
+    information about the  <Link to="/topic-paleo">historical 
+    development</Link> allow us to interconnect the site age with the occurrence of relict
     populations, or even with the number of relict species at a particular site.
-    Except for mires we study other <a href="/topic-crypto">relict ecosystems</a> as well, such as dry
+    Except for mires we study other <Link to="/topic-crypto">relict ecosystems</Link> as well, such as dry
     grasslands, salt marshes, lichen-rich pine forests and treeless alpine
     grasslands. In a particular detail, we focus on the relict semi-dry
     grasslands in the White Carpathians and elsewhere in the peripheral zone of
@@ -246,7 +247,7 @@ export const relictEcosystemsTextEn = (
 
 export const relictEcosystemsTextCz = (
   <span>
-    Jednou z pozoruhodných a unikátních vlastností <a href="/topic-mires">vrchovišť a slatinišť</a> je jejich schopnost
+    Jednou z pozoruhodných a unikátních vlastností <Link to="/topic-mires">vrchovišť a slatinišť</Link> je jejich schopnost
     poskytnout útočiště mnoha reliktním populacím řady druhů z konce poslední
     doby ledové a počátku současné doby poledové. Právě proto nás baví zkoumat
     reliktní ekosystémy, tedy takové, které různou mírou připomínají stav
@@ -254,10 +255,10 @@ export const relictEcosystemsTextCz = (
     tisíci lety. V případě rašelinišť sledujeme rozšíření, ekologii a
     ochranářské otázky týkající se reliktních druhů rostlin a měkkýšů, jejich
     disjunktního rozšíření a dlouhodobého přežívání na lokalitách. Možnost
-    přesného datování stáří rašelinišť a poznání jejich <a href="/topic-paleo">historického vývoje</a> nám umožňuje dávat do
+    přesného datování stáří rašelinišť a poznání jejich <Link to="/topic-paleo">historického vývoje</Link> nám umožňuje dávat do
     souvislosti stáří lokalit a výskyt jednotlivých reliktních populací nebo i
     počet reliktních druhů na dané lokalitě. Vyjma rašelinišť se věnujeme i
-    dalším  <a href="/topic-crypto">reliktním ekosystémům</a>, jako jsou
+    dalším  <Link to="/topic-crypto">reliktním ekosystémům</Link>, jako jsou
     stepní trávníky, slaniska, lišejníkové bory nebo alpínské bezlesí. K
     nejdetailněji zkoumaným reliktním ekosystémům patří zejména stepní louky v
     Bílých Karpatech a jinde na obvodu Karpat. Tyto louky patří k druhově
