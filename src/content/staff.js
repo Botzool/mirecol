@@ -2,6 +2,7 @@
 import horsakova from '../images/people/horsakova.jpg'
 import hajek from '../images/people/hajek.jpg'
 import mikulaskova from '../images/people/mikulaskova.jpg'
+import novakova from '../images/people/novakova.jpg'
 import hajkova from '../images/people/hajkova.jpg'
 import nekola from '../images/people/nekola.jpg'
 import liznarova from '../images/people/liznarova.jpg'
@@ -160,6 +161,18 @@ export const staffEn = [
     researchgate: `https://www.researchgate.net/profile/Eva_Mikulaskova`,
     is: `https://is.muni.cz/osoba/klicek`,
     img: mikulaskova
+  },
+  {
+    id: `novakova`,
+    name: `Markéta Nováková`,
+    position: `Researcher`,
+    description:
+    `Markéta Nováková graduated her Bachelor's and Master's degree in Microbiology at the Faculty of Science, Masaryk University (2007-2012). During her Ph.D. study at the Department of Biology and Wildlife Diseases, University of Veterinary Sciences Brno she focused on rickettsial endosymbionts of ornitophilic ticks (2012-2016). She then continued as a researcher at the Department of Biology, Faculty of Medicine, Masaryk University, studying genomics and molecular phylogenetics of human and veterinary pathogens of the genera Treponema and Borrelia (2017-2021).  Currently Markéta works as a research assistant and is interested in molecular phylogenetics of pulmonate land snails at the Department of Botany and Zoology, Faculty of Science, Masaryk University, and in selected bacterial endosymbionts of ixodid ticks at CEITEC, Univerity of Veterinary Sciences Brno.`,
+    email: `novakova.marke@gmail.com`,
+    phoneNumber: `549495163`,
+    researchgate: `https://www.researchgate.net/profile/Marketa-Novakova-6`,
+    is: `https://is.muni.cz/osoba/mnovakova`,
+    img: novakova
   },
   {
     id: `peterka`,
@@ -347,6 +360,18 @@ export const staffCz = [
     researchgate: `https://www.researchgate.net/profile/Eva_Mikulaskova`,
     is: `https://is.muni.cz/osoba/klicek`,
     img: mikulaskova
+  },
+  {
+    id: `novakova`,
+    name: `Markéta Nováková`,
+    position: `Odborná pracovnice`,
+    description:
+    `Markéta Nováková absolvovala bakalářský a magisterský obor Mikrobiologie na Přírodovědecké fakultě Masarykovy univerzity (2007-2012). Během svého studia Ph.D. na Ústavu biologie a chorob volně žijících zvířat Veterinární univerzity Brno se zabývala molekulární diverzitou a biologií rickettsiálních endosymbiontů přenášených ornitofilními klíšťaty (2012-2016). Během svého působení na Biologickém ústavu Lékařské fakulty Masarykovy univerzity se věnovala genomice a molekulární fylogenezi humánně a veterinárně patogenních spirochét rodu Treponema a Borrelia (2017-2021). V současnosti se Markéta zabývá molekulární fylogenezí suchozemských plžů na Ústavu botaniky a zoologie Přírodovědecké fakulty Masarykovy univerzity a vybranými skupinami bakteriálních endosymbiontů klíšťat na pracovišti CEITEC Veterinární univerzity Brno.`,
+    email: `novakova.marke@gmail.com`,
+    phoneNumber: `549495163`,
+    researchgate: `https://www.researchgate.net/profile/Marketa-Novakova-6`,
+    is: `https://is.muni.cz/osoba/mnovakova`,
+    img: novakova
   },
   {
       id: `peterka`,
