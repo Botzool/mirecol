@@ -34,6 +34,18 @@ export const databasesCz = [
   ];
 export const media = [
   {
+    name: `24/09/2021 Vzhůru do minulosti bez stroje času, YouTube`,
+    link: `https://www.youtube.com/watch?v=dwtKNrGNTr0`
+  }, 
+  {
+    name: `06/09/2021 Studentka využila šanci studovat na více univerzitách zároveň, Magazín M`,
+    link: `https://www.em.muni.cz/udalosti/14280-studentka-vyuzila-sanci-studovat-na-vice-univerzitach-zaroven`
+  }, 
+  {
+    name: `27/08/2020 Rašeliništím se v Česku nedaří, říká nový červený seznam biotopů: Magazín M, Český rozhlas`,
+    link: `https://www.em.muni.cz/veda-a-vyzkum/13188-raselinistim-se-v-cesku-nedari-rika-novy-cerveny-seznam-biotopu`
+  }, 
+  {
     name: `12/07/2020 Ochrana některých druhů se bez zásahů člověka neobejde, Magazín M`,
     link: `https://www.em.muni.cz/veda-a-vyzkum/13092-ochrana-nekterych-druhu-se-bez-zasahu-cloveka-neobejde`
   },
@@ -104,6 +116,24 @@ export const media = [
 ];
 
 export const popularization = [
+  {
+    name: `Roleček J., Abraham V. & Horsák M. (2021): Pestrá minulost
+druhové rozmanitosti (Vesmír 100, 776-779, 2021/12)`,
+    link: `
+    https://vesmir.cz/cz/casopis/archiv-casopisu/2021/cislo-12/pestra-minulost-druhove-rozmanitosti.html`
+  },
+  {
+    name: `Horsák M. & Hájková P. (2020): Kulturní,
+a přesto cenné. Překvapivý původ reliktních karpatských mokřadů (Vesmír 99, 712-715, 2020/12)`,
+    link: `
+    https://vesmir.cz/cz/casopis/archiv-casopisu/2020/cislo-12/kulturni-presto-cenne.html`
+  },
+  {
+    name: `Horsáková V., Nekola J.C. & Horsák M. (2020): Kryptické
+druhy a příběh kuželíků (Vesmír 99, 158-161, 2020/3)`,
+    link: `
+    https://vesmir.cz/cz/casopis/archiv-casopisu/2020/cislo-3/krypticke-druhy-pribeh-kuzeliku.html`
+  },
   {
     name: `Roleček J. & Hájek M. (2019): Comeback středoevropské lesostepi (Vesmír 98, 424, 2019/7)`,
     link: `
