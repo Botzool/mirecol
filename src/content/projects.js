@@ -2,10 +2,21 @@
 import bryo from "../images/projects/bryo.jpg";
 import greenland from "../images/projects/greenland.jpg";
 import homogenization from "../images/projects/homogenization.jpg";
+import nuclearDNA from "../images/projects/nuclearDNA.jpg";
 
 export const projectsEn = {
   
   currentProjectsList: [
+    {
+      title: `dentifying and optimizing novel nuclear DNA regions for species-level phylogenetic signal in pulmonate snails`,
+      identification: `GA22-23005S`,
+      applicant: `doc. Jeffrey Nekola, Ph.D.`,
+      duration: `1/2022 - 12/2024`,
+      investor: `Czech Science Foundation – Standard Projects`,
+      abstract: `This project’s aim is to employ a novel search strategy to locate additional nDNA regions for species-scale taxonomic revision in land snails, the second largest terrestrial invertebrate group. Targets will be identified by locating Ultra Conserved Elements (UCEs) which flank introns or analogous non-coding regions. We used this strategy to find, design universal primers, amplify product, obtain and align sequence from Intron 8 in the ELAV gene. This region provided the same amount of phylogentic information as previously used species-scale nDNA signals but without multiple copy variation issues in an amplicon of half the size. We will repeat this process at least an additional 24-36 times. Developing multiple nDNA species-scale targets will allow land snail taxonomists across a wide array of budget capacities the ability to empirically confront taxonomic hypotheses. Publication of this general search strategy will also allow other taxonomists the ability to locate empirical species-scale signal across all groups.`,
+      link: `https://www.muni.cz/en/research/projects/64148`,
+      img: nuclearDNA
+    },
     {
       title: `Boreal land snail diversification promoted by isolation in space and time`,
       identification: `GA20-18827S`,
@@ -202,6 +213,16 @@ for biodiversity`,
 export const projectsCz = {
   
   currentProjectsList: [
+{
+      title: `Identifikace a optimalizace nových úseků jaderné DNA pro fylogenetickou analýzu plicnatých plžů na druhové úrovni `,
+      identification: `GA22-23005S`,
+      applicant: `doc. Jeffrey Nekola, Ph.D.`,
+      duration: `1/2022 - 12/2024`,
+      investor: `Grantová agentura ČR - Standardní projekty`,
+      abstract: `Cílem tohoto projektu je zavedení nové strategie vyhledávání úseků jaderné DNA pro taxonomickou revizi suchozemských plžů, druhé nejpočetnější skupiny terestrických bezobratlých, na druhové úrovni. Markery budou identifikovány pomocí vyhledávání Ultra Conserved Elements (UCEs), které ohraničují některé introny nebo jiné nekódující sekvence. Tento postup jsme použili pro nalezení, návrh univerzálních primerů, amplifikaci produktu, získání a přiložení sekvence intronu 8 genu ELAV. Tento region poskytl stejné množství fylogenetické informace jako dva dříve používané jaderné markery, avšak bez problémů spojených s nežádoucími vícečetnými kopiemi, navíc při poloviční délce fragmentu. Tento postup budeme opakovat nejméně 24-36krát. Vývoj sady jaderných markerů pro druhové rozlišení umožní taxonomům suchozemských plžů po celém světě finančně dostupným způsobem empiricky konfrontovat taxonomické hypotézy. Publikace tohoto obecného schématu jej umožní aplikovat při detekci druhově specifického signálu také u ostatních skupin organizmů.`,
+      link: `https://www.muni.cz/en/research/projects/64148`,
+      img: nuclearDNA
+    },
 {
       title: `Diverzifikace boreálních suchozemských plžů podmíněná izolací v prostoru a čase`,
       identification: `GA20-18827S`,
