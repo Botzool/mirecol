@@ -8,7 +8,7 @@ export const projectsEn = {
   
   currentProjectsList: [
     {
-      title: `dentifying and optimizing novel nuclear DNA regions for species-level phylogenetic signal in pulmonate snails`,
+      title: `Identifying and optimizing novel nuclear DNA regions for species-level phylogenetic signal in pulmonate snails`,
       identification: `GA22-23005S`,
       applicant: `doc. Jeffrey Nekola, Ph.D.`,
       duration: `1/2022 - 12/2024`,
