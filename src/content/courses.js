@@ -20,6 +20,10 @@
     link: `https://is.muni.cz/auth/predmet/sci/podzim2019/Bi7350`
   },
   {
+    name: `Conservation biology (in English)`,
+    link: `https://is.muni.cz/auth/predmet/sci/jaro2022/BI8370`
+  },
+  {
     name: `Fundamentals of ecology (in English)`,
     link: `https://is.muni.cz/auth/predmet/sci/podzim2019/Bi7370`
   },

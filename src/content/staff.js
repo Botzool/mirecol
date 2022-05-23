@@ -1,4 +1,5 @@
-﻿import horsak from '../images/people/horsak.jpg'
+﻿import durcanova from '../images/people/durcanova.jpg'
+import horsak from '../images/people/horsak.jpg'
 import horsakova from '../images/people/horsakova.jpg'
 import hajek from '../images/people/hajek.jpg'
 import mikulaskova from '../images/people/mikulaskova.jpg'
@@ -226,6 +227,21 @@ export const staffEn = [
     is: `https://is.muni.cz/osoba/75764`,
     img: smerdova
   }
+  {
+    id: `singh`,
+    name: `Patrícía Singh`,
+    position: `Researcher`,
+    description:
+    `Patrícia Ďurčanová studied biology at The Constantine the Philosopher University in Nitra and
+    was graduated 2005. Her diploma thesis dealt with wetland vegetation of Kysuce region in
+    Slovakia. Currently she is a PhD student of Department of Botany in Brno. She defended her PhD thesis in 2022, focusing on
+    succession of minerotrophic mires and its relationship with availability of nutrients.`,
+    email: `patadurcanova@gmail.com`,
+    phoneNumber: ``,
+    researchgate: `https://www.researchgate.net/profile/Patricia_Durcanova`,
+    is: `https://is.muni.cz/osoba/447157`,
+    img: durcanova
+  }
 ]
 
 export const staffCz = [
@@ -421,5 +437,20 @@ export const staffCz = [
     researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
     is: `https://is.muni.cz/osoba/75764`,
     img: smerdova
+  }
+  {
+    id: `singh`,
+    name: `Patrícía Singh`,
+    position: `Odborná pracovnice`,
+    description: `Patrícia Ďurčanová absolvovala bakalářské a magisterské studium na Přírodovědecké fakultě
+      Univerzity Konštantína Filozofa v Nitře obor Biologie v roce 2015 a obhájila diplomovou práci
+      zabývající se vegetací mokřadů Kysuc na Slovensku. Dizertační práci obhájila v roce 2022 na 
+      Ústavu botaniky a zoologie PřF MU v Brně. Tématem její dizertační práce byla Sukcese na
+      minerotrofních rašeliništích ve vztahu k přístupnosti živin.`,
+    email: `patadurcanova@gmail.com`,
+    phoneNumber: ``,
+    researchgate: `https://www.researchgate.net/profile/Patricia_Durcanova`,
+    is: `https://is.muni.cz/osoba/447157`,
+    img: durcanova
   }
 ]

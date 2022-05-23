@@ -285,6 +285,28 @@ export const relictEcosystemsTextCz = (
 
 export const results = {
   mireEcologyResults: [
+    `Hájek, M., Těšitel, J., Tahvanainen, T., Peterka, T., Jiménez-Alfaro, B., Jansen, F., Pérez-Haase, A., 
+	Garbolino, E., Carbognani, M., Kolari, T.H.M., Hájková, P., Jandt, U., Aunina, L., Pawlikowski, P., 
+	Ivchenko, T., Tomaselli, M., Tichý, L., Dítě, D., Plesková, Z., & Mikulášková, E. (2022). Rising temperature 
+	modulates pH niches of fen species. Global Change Biology, 28, 1023-1037.`,
+    `Nekola, J.C., & Horsák, M. (2022). The impact of empirically unverified taxonomic concepts on 
+	ecological assemblage patterns across multiple spatial scales. Ecography, 2022, e06063.`,
+    `Hájek, M., Jiménez-Alfaro, B., Hájek, O., Brancaleoni, L., Cantonati, M., Carbognani, M., Dedić, A., 
+	Dítě, D., Gerdol, R., Hájková, P., Horsáková, V., Jansen, F., Kamberović, J., Kapfer, J., Kolari, T.H.M., 
+	Lamentowicz, M., Lazarević, P., Mašić, E., Moeslund, J.E., Pérez-Haase, A., Peterka, T., 
+	Petraglia, A., Pladevall-Izard, E., Plesková, Z., Segadelli, S., Semeniuk, Y., Singh, P.,
+	 Šímová, A., Šmerdová, E., Tahvanainen, T., Tomaselli, M., Vystavna, Y., Biţă-Nicolae, C., & Horsák, M. 
+	(2021). A European map of groundwater pH and calcium. Earth System Science Data, 13, 1089-1105. `,
+    `Hájek, M., Dítě, D., Horsáková, V., Mikulášková, E., Peterka, T., Navrátilová, J., Jiménez-Alfaro, B., 
+	Hájková, P., Tichý, L., & Horsák, M. (2020). Towards the pan-European bioindication system: 
+	Assessing and testing updated hydrological indicator values for vascular plants and bryophytes in mires. 
+	Ecological Indicators, 116, 106527.`,
+    `Hájek, M., Horsáková, V., Hájková, P., Coufal, R., Dítě, D., Němec, T., & Horsák, M. (2020). Habitat extremity 
+	and conservation management stabilise endangered calcareous fens in a changing world. 
+	Science of the Total Environment, 719, 134693.`,
+    `Horsáková, V., Nekola, J.C., & Horsák, M. (2019). When is a "cryptic" species not a cryptic 
+	species: A consideration from the Holarctic micro-landsnail genus Euconulus (Gastropoda: Stylommatophora). 
+	Molecular Phylogenetics and Evolution, 132, 307-320.`,
     `Horsáková, V., Hájek, M., Hájková, P., Dítě, D., & Horsák, M. (2018). Principal factors controlling the
         species richness of European fens differ between habitat specialists and matrix‐derived species. Diversity
         and Distributions, 24, 742-754.`,
@@ -317,6 +339,18 @@ export const results = {
         studies. Perspectives in Plant Ecology, Evolution and Systematics, 8, 97-114.`
   ],
   palaeoEcologyResults: [
+    `Divíšek, J., Hájek, M., Jamrichová, E., Petr, L., Večeřa, M., Tichý, L., Willner, W., & Horsák, M. (2020). 
+	Holocene matters: Landscape history accounts for current species richness of vascular plants in forests 
+	and grasslands of eastern Central Europe. Journal of Biogeography, 47, 721-735.`,
+    `Hájková, P., Jamrichová, E., Šolcová, A., Frodlová, J., Petr, L., Dítě, D., Hájek, M., & Horsák, M. (2020). 
+	Can relict-rich communities be of an anthropogenic origin? Palaeoecological insight into conservation strategy 
+	for endangered Carpathian travertine fens. Quaternary Science Reviews, 234, 106241.`,
+    `Horsák, M., Limondin-Lozouet, N., Granai, S., Dabkowski, J., Divíšek, J., & Hájková, P. (2020). 
+	Colonisation dynamic and diversity patterns of holocene forest snail fauna across temperate Europe: 
+	The imprint of palaeoclimate changes. Quaternary Science Reviews, 240, 106367.`,
+    `Šímová, A., Pánek, T., Gałka, M., Zernitskaya, V., Hájková, P., Brodská, H., Jamrichová, E., & Hájek, M. (2019). 
+	Landslides increased Holocene habitat diversity on a flysch bedrock in the Western Carpathians. 
+	Quaternary Science Reviews, 219, 68-83.`,
     `Frodlová, J., Hájková, P. & Horsák, M. (2018). Effect of sample size and resolution on palaeomalacological
     interpretation: a case study from Holocene calcareous-fen deposits. Journal of Quaternary Science, 33,
     68-78.`,
@@ -343,6 +377,13 @@ export const results = {
     Mountains. The Holocene, 23, 230-242.`
   ],
   relictEcosystemsResults: [
+    `Horsák, M., Horsáková, V., Divíšek, J. & Nekola, J.C. (2022). Ecological niche divergence between 
+	extant and glacial land snail populations explained. Scientific Reports, 12, 806.`,
+    `Peterka, T., Tichý, L., Horsáková, V., Hájková, P., Coufal, R., Petr, L., Dítě, D, Hradílek, Z., Hrivnák, R., 
+	Jiroušek, M., Plášek, V., Plesková, Z., Singh, P., Šmerdová, E., Štechová, T., Mikulášková, E., Horsák, M., & Hájek, M. (2022). 
+	The long history of rich fens supports persistence of plant and snail habitat specialists. Biodiversity and Conservation, 31, 39-57.`,
+    `Hájek, M., Hájková, P. & Roleček, J. (2020). A novel dataset of permanent plots in extremely species-rich temperate grasslands. 
+	Folia Geobotanica, 55, 257-268.`,
     `Dítě, D., Hájek, M., Svitková, I., Košuthová, A., Šoltés, R., & Kliment, J. (2018). Glacial-relict symptoms in
     the Western Carpathian flora. Folia Geobotanica, 53, 277-300.`,
     `Horsák, M., Hájek, M., Horsáková, V., Hlaváč, J., Hájková, P., Dítě, D., Peterka, T., Divíšek, J., Potůčková, A.

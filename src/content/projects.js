@@ -1,6 +1,4 @@
-﻿import eurofens from "../images/projects/eurofens.jpg";
-import bryo from "../images/projects/bryo.jpg";
-import greenland from "../images/projects/greenland.jpg";
+﻿import greenland from "../images/projects/greenland.jpg";
 import homogenization from "../images/projects/homogenization.jpg";
 import nuclearDNA from "../images/projects/nuclearDNA.jpg";
 
@@ -36,31 +34,24 @@ export const projectsEn = {
       abstract: `In response to global change, biotic communities are undergoing a compositional change in species identity and dominance. This leads to a loss of taxonomic and/or functional differences among communities at different spatial scales, i.e. homogenization, which might have serious ecological impact. Due to many confounding factors and a lack of reliable historical data, a little evidence of homogenization directly related to climate change has been found in lotic habitats, which are strongly threatened by changes in their thermal and hydrological regime. By comparing (a) historical data in reference streams, (b) groundwater-dependent habitats of contrasting thermal stability, and (c) perennial streams with those recently becoming intermittent, we want to examine if an increase of temperature and drought homogenizes taxonomic and/or functional composition of invertebrate communities. We will control for other important environmental drivers and consider relevant species traits.`,
       link: `https://www.muni.cz/vyzkum/projekty/51247`,
       img: homogenization
-    },
-    {
-      title: `Current and future diversity of European fens in a changing world`,
-      identification: `GA19-01775S`,
-      applicant: `doc. Mgr. Michal Hájek, Ph.D.`,
-      duration: `1/2019 - 12/2021`,
-      investor: `Czech Science Foundation – Standard Projects`,
-      abstract: `Global climate and environmental change is expected to become a major threat to biodiversity and functioning of ecosystems, mainly those of island-like nature. While fens belong to the most endangered European habitats, being refugia for rare species and important carbon sinks, no study has explored relations between their functioning and changes in environmental conditions on the continental scale. To fill this gap we aim to extend the available European-wide compositional datasets in order to calibrate them with the existing and newly assembled environmental measurements. These data will be used to examine whether and by which mechanisms climate variation impacts fen biodiversity. We will test a set of hypotheses dealing with beta diversity and compositional changes of bryophytes, vascular plants, and molluscs in relation to macroclimate, hydrology and chemical conditions. Our decadal monitoring of permanent and experimental plots will complete our knowledge of general patterns by involving disturbance effects in order to suggest appropriate measures against undesirable succession.`,
-      link: `https://www.muni.cz/vyzkum/projekty/44246`,
-      img: eurofens
-    },
-    {
-      title: `Current refugia of endangered fen plants and drivers of their genetic diversity along the large-scale gradient of habitat connectivity`,
-      identification: `GJ19-20530Y`,
-      applicant: `Mgr. Eva Mikulášková, Ph.D.`,
-      duration: `1/2019 - 12/2021`,
-      investor: `Czech Science Foundation – Junior Grants`,
-      abstract: `Mires represent island-like refugia of endangered vascular plants and bryophytes in Central European landscape. Whereas these species act as one of main objects for nature protection and potential model organisms of island biogeography, hardly no studies aimed at their genetic diversity and habitat conditions along geographical gradient from boreal to temperate zone. We aim to explore population connectivity of mire species within and among areas that differ in the density of mire islands in the landscape matrix, landscape relief and intensity of human impact. We will leverage combination of data from modern molecular ecology method (new-generation sequencing) with paleoecological and vegetation data to investigate survival mechanisms of mire specialists 
-      (hypothetically relict) species in European landscape and communities during the Holocene. Deeper knowledge of species’ genetic diversity, ecological and habitat requirements will facilitate their in situ protection.`,
-      link: `https://www.muni.cz/vyzkum/projekty/44389`,
-      img: bryo
     }
   ],
 
   completedProjectsList: [
+    {
+      title: `Current and future diversity of European fens in a changing worlds`,
+      identification: `GA19-01775S`,
+      applicant: `doc. Mgr. Michal Hájek, Ph.D.`,
+      duration: `1/2019 - 12/2021`,
+      link: `https://www.muni.cz/vyzkum/projekty/44246`
+    },
+    {
+      title: `Current refugia of endangered fen plants and drivers of their genetic diversity along the large-scale gradient of habitat connectivitys`,
+      identification: `GJ19-20530Y`,
+      applicant: `Mgr. Eva Mikulášková, Ph.D.`,
+      duration: `1/2019 - 12/2021`,
+      link: `https://www.muni.cz/vyzkum/projekty/44389`
+    },
     {
       title: `Holocene development of temperate European biota: effects of climate, refugia and local factors tested by complex datasets of independent proxies`,
       identification: `GA17-05696S`,
@@ -242,30 +233,24 @@ export const projectsCz = {
       abstract: `V odpovědi na globální změny se mění druhové složení a dominance druhů ve společenstvech. Dochází ke ztrátě taxonomických a/nebo funkčních rozdílů mezi společenstvy na různých prostorových škálách, k tzv. homogenizaci, která může mít závažné ekologické dopady. V tekoucích vodách, které jsou silně ohrožené změnami teplotního a hydrologického režimu, je doloženo pouze málo případů homogenizace přímo souvisejících se změnou klimatu, a to z důvodu mnoha korelovaných faktorů a nedostatku spolehlivých historických záznamů. Pomocí porovnání (a) historických dat z referenčních toků, (b) podzemní vodou sycených stanovišť s rozdílnou teplotní stabilitou a (c) permanentních vs. aktuálně vysychavých toků chceme zkoumat, zda nárůst teploty a doby sucha homogenizuje taxonomické a/nebo funkční složení společenstev bezobratlých. Zahrneme přitom vliv dalších důležitých faktorů prostředí a použijeme relevantní druhové vlastnosti.`,
       link: `https://www.muni.cz/vyzkum/projekty/51247`,
       img: homogenization
-    },
+    }
+  ],
+  
+  completedProjectsList: [
     {
-      title: `Současná a budoucí diverzita evropských slatinišť v měnícím se světě `,
+      title: `Současná a budoucí diverzita evropských slatinišť v měnícím se světě`,
       identification: `GA19-01775S`,
       applicant: `doc. Mgr. Michal Hájek, Ph.D.`,
       duration: `1/2019 - 12/2021`,
-      investor: `Grantová agentura ČR - Standardní projekty`,
-      abstract: `Globální změny klimatu a prostředí jsou závažnou hrozbou pro druhovou pestrost a fungování ekosystémů, zejména těch ostrovní povahy. Přestože slatiniště patří mezi nejvíce ohrožené biotopy v Evropě, fungující jako refugia vzácných druhů a významné přirozené rezervoáry uhlíku, nebyla dosud žádná studie věnována vztahu mezi fungováním slanitišť a měnícím se prostředím na kontinentální škále. Naším cílem je rozšířit a využít existující datové soubory o druhovém složení evropských slatinišť. Za pomoci existujících a nově uskutečněných měření je plánujeme kalibrovat tak, aby bylo možné zjistit, zda a jakými mechanismy ovlivňuje variabilita klimatu biologickou pestrost slatinišť. Budeme testovat sérii hypotéz zabývajících se beta-diverzitou a druhovým složením společenstev mechů, cévnatých rostlin a měkkýšů ve vztahu k makroklimatu, hydrologii a chemismu prostředí. Monitoring existujících trvalých a experimentálních ploch pak do této obecné znalosti zahrne i vliv lokálních disturbancí s cílem navrhnout vhodná opatření ke zmírnění nežádoucích sukcesních změn.`,
-      link: `https://www.muni.cz/vyzkum/projekty/44246`,
-      img: eurofens
-    },
+      link: `https://www.muni.cz/vyzkum/projekty/44246`
+    }, 
     {
       title: `Současná refugia ohrožených slatiništních rostlin a určující faktory jejich genetické diverzity napříč širokým gradientem propojenosti biotopů (Refugia slatiništních rostlin)`,
       identification: `GJ19-20530Y`,
       applicant: `Mgr. Eva Mikulášková, Ph.D.`,
       duration: `1/2019 - 12/2021`,
-      investor: `Grantová agentura ČR - Juniorské granty`,
-      abstract: `Rašeliniště ve střední Evropě představují pro ohrožené cévnaté rostliny a mechorosty refugia ostrovní povahy. Ačkoliv jsou tyto druhy důležité z hlediska ochrany přírody a zároveň fungují jako modelové organismy v ostrovní biogeografii, nejsou téměř žádné studie o jejich genetické diversitě a stanovištních podmínkách na geografické škále od boreální po temperátní zónu. Naším cílem je prozkoumat propojenost populací rašelinných druhů v rámci užších oblastí i mezi nimi, lišícími se zastoupením rašelinišť v krajině, reliéfem a mírou lidského vlivu. Využijeme data z moderní molekulárně ekologické metody (new-generation sequencing) v kombinaci s paleoekologickými a vegetačními daty ke zjištění mechanismů přežívání rašelinných specialistů (předpokládaných reliktů) ve středoevropské krajině a společenstvech během holocénu. Hlubší znalost genetické diversity, ekologických a stanovištních nároků podpoří ochranu jednotlivých druhů.`,
-      link: `https://www.muni.cz/vyzkum/projekty/44389`,
-      img: bryo
-    }
-  ],
-  
-  completedProjectsList: [
+      link: `https://www.muni.cz/vyzkum/projekty/44389`
+    }, 
     {
       title: `Holocenní vývoj evropské bioty mírného pásu: vlivy klimatu, refugií a lokálních faktorů testované na komplexních datech nezávislých proxy`,
       identification: `GA17-05696S`,

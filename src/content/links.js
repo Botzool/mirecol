@@ -117,6 +117,11 @@ export const media = [
 
 export const popularization = [
   {
+    name: `Šlachtová E., Beran L., Horsáková V. & Horsák M. (2022): Severoamerický kružník malý v Evropě – příběh s nečekaným koncem (Živa 2/2022: 78-79)`,
+    link: `
+    https://ziva.avcr.cz/2022-2/severoamericky-kruznik-maly-v-evrope-pribeh-s-necekanym-koncem.html`
+  },
+  {
     name: `Roleček J., Abraham V. & Horsák M. (2021): Pestrá minulost
 druhové rozmanitosti (Vesmír 100, 776-779, 2021/12)`,
     link: `

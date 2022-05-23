@@ -1,5 +1,4 @@
-﻿import durcanova from '../images/people/durcanova.jpg'
-import frodlova from '../images/people/frodlova.jpg'
+﻿import frodlova from '../images/people/frodlova.jpg'
 import lizonova from '../images/people/lizonova.jpg'
 import simova from '../images/people/simova.jpg'
 import prochazkova from '../images/people/prochazkova.jpg'
@@ -33,12 +32,12 @@ export const studentsEn = [
   },
   {
     id: `lorencova`,
-    name: `Erika Lorencová`,
+    name: `Erika Šlachtová`,
     email: `erikalorencova@mail.muni.cz`,
     description: `Erika Lorencová studied Ecology at Masaryk University in Brno, graduating Bachelor degree in
     2014 with a thesis study the spreading of non-native freshwater molluscs in the Czech Republic.
     Since her Master thesis, defended in 2017, she studied metacommunities of freshwater molluscs
-    in lowland stagnant waters. At her PhD thesis she is dealing with the wide range distribution of
+    in lowland stagnant waters. In her PhD thesis, defended in 2022, she was dealing with the wide range distribution of
     molluscs metacommunities in the area from the Czech Republic to Albania with the interest to
     environmental and spatial factors and in the future also the genetic structure of the populations
     of selected species.`,
@@ -91,18 +90,6 @@ export const studentsEn = [
     img: simova
   },
   {
-    id: `singh`,
-    name: `Patrícía Singh`,
-    email: `patadurcanova@gmail.com`,
-    description: `Patrícia Ďurčanová studied biology at The Constantine the Philosopher University in Nitra and
-    was graduated 2005. Her diploma thesis dealt with wetland vegetation of Kysuce region in
-    Slovakia. Currently she is a PhD student of Department of Botany in Brno. Her PhD thesis
-    concerns succession of minerotrophic mires and its relationship with availability of nutrients.`,
-    researchgate: `https://www.researchgate.net/profile/Patricia_Durcanova`,
-    is: `https://is.muni.cz/osoba/447157`,
-    img: durcanova
-  },
-  {
     id: `winterova`,
     name: `Barbora Winterová`,
     email: `423852@mail.muni.cz`,
@@ -138,12 +125,12 @@ export const studentsCz = [
     },
     {
       id: `lorencova`,
-      name: `Erika Lorencová`,
+      name: `Erika Šlachtová`,
       email: `erikalorencova@mail.muni.cz`,
       description: `Erika Lorencová studuje Ekologii na Masarykově univerzitě v Brně, Bakalářský stupeň ukončila v
       roce 2014, kdy zpracovala bakalářskou práci na téma šíření nepůvodních sladkovodních
       měkkýšů v České republice. Od magisterského stupně se věnuje studiu metaspolečenstev
-      měkkýšů v nížinných stojatých vodách. Ve své disertační práci se zabývá distribucí
+      měkkýšů v nížinných stojatých vodách. Ve své disertační práci, obhájené v roce 2022, se zabývala distribucí
       metaspolečenstev sladkovodních měkkýšů na velké škále v oblasti od České republiky až po
       Albánii, a do budoucna pak také genetickou strukturou populací vybraných druhů.`,
       researchgate: `https://www.researchgate.net/profile/Erika_Lorencova2`,
@@ -193,19 +180,6 @@ export const studentsCz = [
       researchgate: `https://www.researchgate.net/profile/Anna_Simova`,
       is: `https://is.muni.cz/auth/osoba/376226`,
       img: simova
-    },
-    {
-      id: `singh`,
-      name: `Patrícía Singh`,
-      email: `patadurcanova@gmail.com`,
-      description: `Patrícia Ďurčanová absolvovala bakalářské a magisterské studium na Přírodovědecké fakultě
-      Univerzity Konštantína Filozofa v Nitře obor Biologie v roce 2015 a obhájila diplomovou práci
-      zabývající se vegetací mokřadů Kysuc na Slovensku. Nyní je studentkou doktorského studia na
-      Ústavu botaniky a zoologie PřF MU v Brně. Tématem její dizertační práce je Sukcese na
-      minerotrofních rašeliništích ve vztahu k přístupnosti živin.`,
-      researchgate: `https://www.researchgate.net/profile/Patricia_Durcanova`,
-      is: `https://is.muni.cz/osoba/447157`,
-      img: durcanova
     },
     {
     id: `winterova`,
