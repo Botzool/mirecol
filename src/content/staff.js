@@ -226,7 +226,7 @@ export const staffEn = [
     researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
     is: `https://is.muni.cz/osoba/75764`,
     img: smerdova
-  }
+  },
   {
     id: `singh`,
     name: `Patrícía Singh`,
@@ -437,7 +437,7 @@ export const staffCz = [
     researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
     is: `https://is.muni.cz/osoba/75764`,
     img: smerdova
-  }
+  },
   {
     id: `singh`,
     name: `Patrícía Singh`,
