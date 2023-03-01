@@ -1,10 +1,21 @@
 ﻿import greenland from "../images/projects/greenland.jpg";
 import homogenization from "../images/projects/homogenization.jpg";
 import nuclearDNA from "../images/projects/nuclearDNA.jpg";
+import calibrations from "../images/projects/calibrations.jpg";
 
 export const projectsEn = {
   
   currentProjectsList: [
+    {
+      title: `New calibration and indicator systems for reconstruction of Holocene climate corrected by local habitat development`,
+      identification: `GA23-05132S`,
+      applicant: `Mgr. Petra Hájková, PhD.`,
+      duration: `1/2023 - 12/2025`,
+      investor: `Czech Science Foundation – Standard Projects`,
+      abstract: `Holocene climate changes are among the most important drivers of modern ecosystems. Data on ecosystem responses to climate change provide important information for modelling their future responses and optimising conservation strategies. This project will develop some new and validate the conventional calibration and indicator systems for climate reconstruction based on various biotic and abiotic proxies. The methods used include (i) transfer functions of modern calibration datasets applied to the species composition of fossil samples; (ii) stable isotope analyses from different fossil materials; and (iii) global circulation model simulations with decadal temporal resolution (CCSM3 model). They will be applied and tested on selected precise fossil records in the Western Carpathians. The main objectives of the project are both the reconstruction of Holocene climate parameters and the comparison of reconstruction consistency between individual methods and proxies. By validating their applicability and limitations, we will make recommendations of general value.`,
+      link: `https://www.muni.cz/en/research/projects/69459`,
+      img: calibrations
+    },
     {
       title: `Identifying and optimizing novel nuclear DNA regions for species-level phylogenetic signal in pulmonate snails`,
       identification: `GA22-23005S`,
@@ -204,6 +215,15 @@ for biodiversity`,
 export const projectsCz = {
   
   currentProjectsList: [
+{
+      title: `Nové kalibrační a indikační systémy pro rekonstrukci holocenního klimatu zohledňující lokální vývoj`,
+      applicant: `Mgr. Petra Hájková, Ph.D.`,
+      duration: `1/2023 - 12/2025`,
+      investor: `Grantová agentura ČR - Standardní projekty`,
+      abstract: `Změny klimatu během holocénu jsou jedním z klíčových faktorů, které formovaly složení dnešních ekosystémů. Znalost míry schopnosti ekosystémů odolávat nebo se přizpůsobovat změnám klimatu je důležitá pro modelování jejich budoucího vývoje a pro plánování strategií v ochraně přírody a krajiny. V tomto projektu chceme vyvinout nové a testovat konvenční kalibrační a indikační systémy pro rekonstrukci klimatu. Ty zahrnují (i) recentní kalibrační soubory aplikované na fosilní druhová data pomocí tzv. přenosových funkcí, (ii) analýzy stabilních izotopů v různých fosilních materiálech a (iii) simulace globálních cirkulačních modelů s časovým rozlišením desítek let (CCSM3 model). Budou aplikovány na referenční profily s precizním fosilním záznamem v Západních Karpatech. Cílem projektu bude jak rekonstruovat holocenní změny klimatu, tak také porovnat rekonstrukce založené na různých proxy metodách a na základě toho dát obecná doporučení o použitelnosti těchto metod, jejich spolehlivosti či možných omezení v paleoekologickém výzkumu.`,
+      link: `https://www.muni.cz/vyzkum/projekty/69459`,
+      img: calibrations
+    },
 {
       title: `Identifikace a optimalizace nových úseků jaderné DNA pro fylogenetickou analýzu plicnatých plžů na druhové úrovni `,
       identification: `GA22-23005S`,
