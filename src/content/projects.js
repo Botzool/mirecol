@@ -217,6 +217,7 @@ export const projectsCz = {
   currentProjectsList: [
 {
       title: `Nové kalibrační a indikační systémy pro rekonstrukci holocenního klimatu zohledňující lokální vývoj`,
+identification: `GA23-05132S`,
       applicant: `Mgr. Petra Hájková, Ph.D.`,
       duration: `1/2023 - 12/2025`,
       investor: `Grantová agentura ČR - Standardní projekty`,
