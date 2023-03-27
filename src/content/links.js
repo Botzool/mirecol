@@ -34,6 +34,11 @@ export const databasesCz = [
   ];
 export const media = [
   {
+    name: `07/11/2022 Člověk a krajina v proměnách věků, YouTube`,
+    link: `https://www.youtube.com/watch?v=3CBVjcywJ7M`
+  }, 
+  {
+  {
     name: `24/09/2021 Vzhůru do minulosti bez stroje času, YouTube`,
     link: `https://www.youtube.com/watch?v=dwtKNrGNTr0`
   }, 
@@ -116,6 +121,11 @@ export const media = [
 ];
 
 export const popularization = [
+  {
+    name: Horsáková V., Divíšek J., Nekola J.C. & Horsák M. (2022): Svědectví zrnovky z Islandu: o jednu glaciální záhadu méně (Živa 6/2022: 310-313)`,
+    link: `
+    https://ziva.avcr.cz/2022-6/svedectvi-zrnovky-z-islandu-o-jednu-glacialni-zahadu-mene.html`
+  },
   {
     name: `Šlachtová E., Beran L., Horsáková V. & Horsák M. (2022): Severoamerický kružník malý v Evropě – příběh s nečekaným koncem (Živa 2/2022: 78-79)`,
     link: `

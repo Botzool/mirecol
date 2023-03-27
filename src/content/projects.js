@@ -1,6 +1,4 @@
-﻿import greenland from "../images/projects/greenland.jpg";
-import homogenization from "../images/projects/homogenization.jpg";
-import nuclearDNA from "../images/projects/nuclearDNA.jpg";
+﻿import nuclearDNA from "../images/projects/nuclearDNA.jpg";
 import calibrations from "../images/projects/calibrations.jpg";
 
 export const projectsEn = {
@@ -25,30 +23,24 @@ export const projectsEn = {
       abstract: `This project’s aim is to employ a novel search strategy to locate additional nDNA regions for species-scale taxonomic revision in land snails, the second largest terrestrial invertebrate group. Targets will be identified by locating Ultra Conserved Elements (UCEs) which flank introns or analogous non-coding regions. We used this strategy to find, design universal primers, amplify product, obtain and align sequence from Intron 8 in the ELAV gene. This region provided the same amount of phylogentic information as previously used species-scale nDNA signals but without multiple copy variation issues in an amplicon of half the size. We will repeat this process at least an additional 24-36 times. Developing multiple nDNA species-scale targets will allow land snail taxonomists across a wide array of budget capacities the ability to empirically confront taxonomic hypotheses. Publication of this general search strategy will also allow other taxonomists the ability to locate empirical species-scale signal across all groups.`,
       link: `https://www.muni.cz/en/research/projects/64148`,
       img: nuclearDNA
-    },
+    }
+  ],
+
+  completedProjectsList: [
     {
       title: `Boreal land snail diversification promoted by isolation in space and time`,
       identification: `GA20-18827S`,
       applicant: `doc. Jeffrey Nekola, Ph.D.`,
       duration: `1/2020 - 12/2022`,
-      investor: `Czech Science Foundation – Standard Projects`,
-      abstract: `This project will consider the fundamental drivers underlying boreal fauna diversification by investigating the dramatic biogeographic transition in the boreal North Atlantic between the European and eastern North American terrestrial gastropod provinces. This research will determine how much of species and genetic turnover is correlated to environment vs. geography, in particular ocean and ice sheet barriers. The Greenland Ice Sheet is the only place in the modern world where the effectiveness of ice barriers on biological isolation and allopatric speciation can still be observed. We will then use this data to document the role of isolation barriers over deeper macroevolutionary time scales by predicting range limits and dispersal barriers in the Late Glacial Maximum (LGM). These insights can then be used to inform optimum conservation strategies for boreal biodiversity in the face of unprecedented global climate change.`,
-      link: `https://www.muni.cz/vyzkum/projekty/51248`,
-      img: greenland
+      link: `https://www.muni.cz/vyzkum/projekty/51248`
     },
     {
       title: `Climatically promoted homogenization of aquatic invertebrates tested on three model lotic systems and historical data`,
       identification: `GA20-17305S`,
       applicant: `prof. RNDr. Michal Horsák, Ph.D.`,
       duration: `1/2020 - 12/2022`,
-      investor: `Czech Science Foundation – Standard Projects`,
-      abstract: `In response to global change, biotic communities are undergoing a compositional change in species identity and dominance. This leads to a loss of taxonomic and/or functional differences among communities at different spatial scales, i.e. homogenization, which might have serious ecological impact. Due to many confounding factors and a lack of reliable historical data, a little evidence of homogenization directly related to climate change has been found in lotic habitats, which are strongly threatened by changes in their thermal and hydrological regime. By comparing (a) historical data in reference streams, (b) groundwater-dependent habitats of contrasting thermal stability, and (c) perennial streams with those recently becoming intermittent, we want to examine if an increase of temperature and drought homogenizes taxonomic and/or functional composition of invertebrate communities. We will control for other important environmental drivers and consider relevant species traits.`,
-      link: `https://www.muni.cz/vyzkum/projekty/51247`,
-      img: homogenization
-    }
-  ],
-
-  completedProjectsList: [
+      link: `https://www.muni.cz/vyzkum/projekty/51247`
+    },
     {
       title: `Current and future diversity of European fens in a changing worlds`,
       identification: `GA19-01775S`,
@@ -234,30 +226,24 @@ identification: `GA23-05132S`,
       abstract: `Cílem tohoto projektu je zavedení nové strategie vyhledávání úseků jaderné DNA pro taxonomickou revizi suchozemských plžů, druhé nejpočetnější skupiny terestrických bezobratlých, na druhové úrovni. Markery budou identifikovány pomocí vyhledávání Ultra Conserved Elements (UCEs), které ohraničují některé introny nebo jiné nekódující sekvence. Tento postup jsme použili pro nalezení, návrh univerzálních primerů, amplifikaci produktu, získání a přiložení sekvence intronu 8 genu ELAV. Tento region poskytl stejné množství fylogenetické informace jako dva dříve používané jaderné markery, avšak bez problémů spojených s nežádoucími vícečetnými kopiemi, navíc při poloviční délce fragmentu. Tento postup budeme opakovat nejméně 24-36krát. Vývoj sady jaderných markerů pro druhové rozlišení umožní taxonomům suchozemských plžů po celém světě finančně dostupným způsobem empiricky konfrontovat taxonomické hypotézy. Publikace tohoto obecného schématu jej umožní aplikovat při detekci druhově specifického signálu také u ostatních skupin organizmů.`,
       link: `https://www.muni.cz/en/research/projects/64148`,
       img: nuclearDNA
-    },
-{
+    }
+  ],
+  
+  completedProjectsList: [
+    {
       title: `Diverzifikace boreálních suchozemských plžů podmíněná izolací v prostoru a čase`,
       identification: `GA20-18827S`,
-      applicant: `doc. Jeffrey Nekola, Ph.D.`,
+      applicant: `doc. Jeffrey Nekola, Ph.D`,
       duration: `1/2020 - 12/2022`,
-      investor: `Grantová agentura ČR - Standardní projekty`,
-      abstract: `Projekt bude zaměřen na zásadní faktory podmiňující diverzifikaci boreální fauny, které budou zkoumány v oblasti strmé biogeografické hranice v severním Atlantiku mezi Evropou a východní Severní Amerikou, představující odlišné provincie terestrických plžů. Bude zjištěno, do jaké míry je změna druhového složení korelována s podmínkami prostředí vs. geografií, konkrétně bariérami v podobě oceánu nebo ledovce. Grónský ledovec je v současnosti jediné místo na světě, kde lze vliv ledovcových bariér na biologickou izolaci a alopatrickou speciaci stále sledovat. Tato data budou následně použita pro stanovení role disperzních bariér napříč hlubšími makroevolučními časovými škálami, prostřednictvím predikce limitů rozšíření a disperzních bariér v posledním glaciálním maximu (LGM). Tyto poznatky mohou být využity pro stanovení optimálních strategií ochrany boreální biodiverzity při současné dramatické globální změně klimatu.`,
-      link: `https://www.muni.cz/vyzkum/projekty/51248`,
-      img: greenland
-    },
+      link: `https://www.muni.cz/vyzkum/projekty/51248`
+    }, 
     {
       title: `Klimaticky podmíněná homogenizace vodních bezobratlých testovaná na třech modelových systémech a historických datech`,
       identification: `GA20-17305S`,
       applicant: `prof. RNDr. Michal Horsák, Ph.D.`,
       duration: `1/2020 - 12/2022`,
-      investor: `Grantová agentura ČR - Standardní projekty`,
-      abstract: `V odpovědi na globální změny se mění druhové složení a dominance druhů ve společenstvech. Dochází ke ztrátě taxonomických a/nebo funkčních rozdílů mezi společenstvy na různých prostorových škálách, k tzv. homogenizaci, která může mít závažné ekologické dopady. V tekoucích vodách, které jsou silně ohrožené změnami teplotního a hydrologického režimu, je doloženo pouze málo případů homogenizace přímo souvisejících se změnou klimatu, a to z důvodu mnoha korelovaných faktorů a nedostatku spolehlivých historických záznamů. Pomocí porovnání (a) historických dat z referenčních toků, (b) podzemní vodou sycených stanovišť s rozdílnou teplotní stabilitou a (c) permanentních vs. aktuálně vysychavých toků chceme zkoumat, zda nárůst teploty a doby sucha homogenizuje taxonomické a/nebo funkční složení společenstev bezobratlých. Zahrneme přitom vliv dalších důležitých faktorů prostředí a použijeme relevantní druhové vlastnosti.`,
-      link: `https://www.muni.cz/vyzkum/projekty/51247`,
-      img: homogenization
-    }
-  ],
-  
-  completedProjectsList: [
+      link: `https://www.muni.cz/vyzkum/projekty/51247`
+    }, 
     {
       title: `Současná a budoucí diverzita evropských slatinišť v měnícím se světě`,
       identification: `GA19-01775S`,

@@ -1,5 +1,4 @@
-﻿import frodlova from '../images/people/frodlova.jpg'
-import lizonova from '../images/people/lizonova.jpg'
+﻿import lizonova from '../images/people/lizonova.jpg'
 import simova from '../images/people/simova.jpg'
 import prochazkova from '../images/people/prochazkova.jpg'
 import lorencova from '../images/people/lorencova.jpg'
@@ -16,19 +15,6 @@ export const studentsEn = [
     researchgate: `https://www.researchgate.net/profile/Radovan_Coufal2`,
     is: `https://is.muni.cz/auth/osoba/241288`,
     img: coufal
-  },
-  {
-    id: `frodlova`,
-    name: `Jitka Frodlová`,
-    email: `356427@mail.muni.cz`,
-    description: `Jitka Frodlová studied Zoology at Masaryk University in Brno, graduating in 2015. Since
-    Bachelor thesis she focused on Holocene molluscan successions in the White Carpathians. Her
-    Master thesis dealt both with the palaeoecology of spring fens and with specific sampling design
-    effects. Currently, as a Ph.D. student, she studies the Holocene molluscan successions at spring
-    fens, extending the region of interest to the Western Carpathians.`,
-    researchgate: `https://www.researchgate.net/profile/Jitka_Frodlova`,
-    is: `https://is.muni.cz/auth/osoba/356427`,
-    img: frodlova
   },
   {
     id: `lorencova`,
@@ -109,19 +95,6 @@ export const studentsCz = [
     researchgate: `https://www.researchgate.net/profile/Radovan_Coufal2`,
     is: `https://is.muni.cz/auth/osoba/241288`,
     img: coufal
-    },
-    {
-      id: `frodlova`,
-      name: `Jitka Frodlová`,
-      email: `356427@mail.muni.cz`,
-      description: `Jitka Frodlová studovala obor zoologie na Masarykově univerzitě v Brně, diplomovou práci
-      obhájila v roce 2015. Od bakalářského studia se zabývá holocenní sukcesí měkkýšů v Bílých
-      Karpatech. Její diplomová práce je zaměřena na paleoekologii pěnovcových pramenišť a na vliv
-      vzorkovacího designu. Na doktorském studiu se dále věnuje holocenní sukcesi měkkýšů na
-      pěnovcových prameništích napříč Západními Karpaty.`,
-      researchgate: `https://www.researchgate.net/profile/Jitka_Frodlova`,
-      is: `https://is.muni.cz/auth/osoba/356427`,
-      img: frodlova
     },
     {
       id: `lorencova`,
