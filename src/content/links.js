@@ -38,7 +38,6 @@ export const media = [
     link: `https://www.youtube.com/watch?v=3CBVjcywJ7M`
   }, 
   {
-  {
     name: `24/09/2021 Vzhůru do minulosti bez stroje času, YouTube`,
     link: `https://www.youtube.com/watch?v=dwtKNrGNTr0`
   }, 
