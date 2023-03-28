@@ -121,7 +121,7 @@ export const media = [
 
 export const popularization = [
   {
-    name: Horsáková V., Divíšek J., Nekola J.C. & Horsák M. (2022): Svědectví zrnovky z Islandu: o jednu glaciální záhadu méně (Živa 6/2022: 310-313)`,
+    name: `Horsáková V., Divíšek J., Nekola J.C. & Horsák M. (2022): Svědectví zrnovky z Islandu: o jednu glaciální záhadu méně (Živa 6/2022: 310-313)`,
     link: `
     https://ziva.avcr.cz/2022-6/svedectvi-zrnovky-z-islandu-o-jednu-glacialni-zahadu-mene.html`
   },
