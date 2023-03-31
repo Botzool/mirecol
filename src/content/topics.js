@@ -87,8 +87,7 @@ export const mireEcologyTextEn = (
     severely change upon the influence of current climate changes, making mire
     ecosystems so easily vulnerable. Using the methods of <Link to="/topic-paleo">palaeoecology</Link> we also include <Link to="/topic-relict">historical
     factors</Link> to our analyses, which often appear as key for the species diversity of mires.
-    Comparing multiple taxonomic groups we are able to reach more generalData
-    conclusions and higher resolution in our understanding of relationships
+    Comparing multiple taxonomic groups we are able to reach more general conclusions and higher resolution in our understanding of relationships
     between biotic and abiotic factors. We also deal with the functional links
     between the individual groups of organisms, such as <Link to="/topic-crypto">bryophytes</Link> and vascular plants. To obtain a
     broader picture of the vulnerability of mires, we explore these ecosystems
