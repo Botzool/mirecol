@@ -5,7 +5,7 @@
     menuTheses: "Theses",
     menuCourses: "Courses",
     menuGallery: "Gallery",
-    menuLinks: "Links"
+    menuLinks: "Links",
   },
   footer: {
     botzool: "Department of Botany and Zoology, ",
@@ -15,12 +15,12 @@
     physicalAddressHeading: `Physical Address: `,
     postalAddress: "Kotlářská 267/2, 611 37, Brno, Czech Republic",
     physicalAddress: `Campus Bohunice, building A32, Kamenice 753/5, 625 00, Brno, Czech Republic`,
-    links: "Links"
+    links: "Links",
   },
   gallery: {
     excursions: "Excursions",
     plantsAndAnimals: "Plants and Animals",
-    fieldworks: "Fieldworks"
+    fieldworks: "Fieldworks",
   },
   mainHeader: "Mire Ecology Group",
   muni: "Masaryk university",
@@ -52,6 +52,7 @@
   cryptogamology: "Cryptogamology",
   staff: `Staff`,
   phD: `PhD Students`,
+  researchers: "Associated researchers",
   showMore: "Show more...",
   showLess: "Show less...",
   publications: "Publications",
@@ -60,7 +61,7 @@
   paleoDatabase: `Palaeoecological profiles`,
   vegetationDatabase: `Vegetation-plot databases`,
   media: "Media",
-  popularization: "Popularization Papers"
+  popularization: "Popularization Papers",
 };
 
 export const cz = {
@@ -70,7 +71,7 @@ export const cz = {
     menuTheses: "Témata prací",
     menuCourses: "Výuka",
     menuGallery: "Galerie",
-    menuLinks: "Odkazy"
+    menuLinks: "Odkazy",
   },
   footer: {
     botzool: "Ústav botaniky a zoologie, ",
@@ -81,12 +82,12 @@ export const cz = {
     postalAddress: "Kotlářská 267/2, 611 37, Brno, Czech Republic",
     physicalAddress: `Univerzitní
     kampus Bohunice, budova A32, Kamenice 753/5, 625 00, Brno, Česká republika`,
-    links: "Odkazy"
+    links: "Odkazy",
   },
   gallery: {
     excursions: "Exkurze",
     plantsAndAnimals: "Rostliny a živočichové",
-    fieldworks: "Terény"
+    fieldworks: "Terény",
   },
   mainHeader: "Skupina pro výzkum rašelinišť",
   muni: "Masarykova univerzita",
@@ -118,6 +119,7 @@ export const cz = {
   cryptogamology: "Kryptogamologie",
   staff: `Zaměstnanci`,
   phD: `PhD Studenti`,
+  researchers: "Výzkumní spolupracovníci",
   showMore: "Ukázat detail...",
   showLess: "Skrýt detail...",
   publications: "Publikace",
@@ -126,5 +128,5 @@ export const cz = {
   paleoDatabase: `Paleoekologické profily`,
   vegetationDatabase: `Databáze vegetačních snímků`,
   media: "Média",
-  popularization: "Popularizační články"
+  popularization: "Popularizační články",
 };

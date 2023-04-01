@@ -1,10 +1,8 @@
-﻿import lizonova from '../images/people/lizonova.jpg'
-import simova from '../images/people/simova.jpg'
-import prochazkova from '../images/people/prochazkova.jpg'
-import lorencova from '../images/people/lorencova.jpg'
-import nemec from '../images/people/nemec.jpg'
-import coufal from '../images/people/coufal.jpg'
-import winterova from '../images/people/winterova.jpg'
+﻿import simova from "../images/people/simova.jpg";
+import prochazkova from "../images/people/prochazkova.jpg";
+import nemec from "../images/people/nemec.jpg";
+import coufal from "../images/people/coufal.jpg";
+import winterova from "../images/people/winterova.jpg";
 
 export const studentsEn = [
   {
@@ -14,22 +12,7 @@ export const studentsEn = [
     description: `Radovan Coufal studied Ecology bachelors program and Hydrobiology masters program at the Department of Ecology, Palacký University, Olomouc (2014-2019). In his masters thesis, he studied fen mollusc communities on Bohemian-Moravian Highlands. Currently, he is a PhD student at the Department of Botany and Zoology, Masaryk university and in his PhD thesis he is studying effect of fragmentation and succession on fen mollusc communities with attention to glacial relics.`,
     researchgate: `https://www.researchgate.net/profile/Radovan_Coufal2`,
     is: `https://is.muni.cz/auth/osoba/241288`,
-    img: coufal
-  },
-  {
-    id: `lorencova`,
-    name: `Erika Šlachtová`,
-    email: `erikalorencova@mail.muni.cz`,
-    description: `Erika Lorencová studied Ecology at Masaryk University in Brno, graduating Bachelor degree in
-    2014 with a thesis study the spreading of non-native freshwater molluscs in the Czech Republic.
-    Since her Master thesis, defended in 2017, she studied metacommunities of freshwater molluscs
-    in lowland stagnant waters. In her PhD thesis, defended in 2022, she was dealing with the wide range distribution of
-    molluscs metacommunities in the area from the Czech Republic to Albania with the interest to
-    environmental and spatial factors and in the future also the genetic structure of the populations
-    of selected species.`,
-    researchgate: `https://www.researchgate.net/profile/Erika_Lorencova2`,
-    is: `https://is.muni.cz/auth/osoba/393897`,
-    img: lorencova
+    img: coufal,
   },
   {
     id: `nemec`,
@@ -43,7 +26,7 @@ export const studentsEn = [
     malacophagous predators, diet of land snails should also be evaluated using a specific approach
     consisting in stable isotope analyses.`,
     is: `https://is.muni.cz/auth/osoba/422930`,
-    img: nemec
+    img: nemec,
   },
   {
     id: `prochazkova`,
@@ -56,7 +39,7 @@ export const studentsEn = [
     science with maternity currently :-).`,
     researchgate: `https://www.researchgate.net/profile/Jana_Prochazkova6`,
     is: `https://is.muni.cz/auth/osoba/jana.prochazkova`,
-    img: prochazkova
+    img: prochazkova,
   },
   {
     id: `simova`,
@@ -73,7 +56,7 @@ export const studentsEn = [
     help of testate amoebae.`,
     researchgate: `https://www.researchgate.net/profile/Anna_Simova`,
     is: `https://is.muni.cz/auth/osoba/376226`,
-    img: simova
+    img: simova,
   },
   {
     id: `winterova`,
@@ -82,9 +65,9 @@ export const studentsEn = [
     description: `Barbora Winterová studied Zoology with specialisation in Vertabratology, at Faculty of Science of Masaryk University. She graduated in 2020. Even though working on behavioural ecology of amphibians in her Bachelor and Master theses, her PhD studies are focused on more general macroecology questions, in particular how dispersal barriers influence biodiversity and community ecology patterns of coral reefs from local to global scales.  `,
     researchgate: `https://www.researchgate.net/profile/Barbora_Winterova2`,
     is: `https://is.muni.cz/auth/osoba/423852`,
-    img: winterova
-  }
-]
+    img: winterova,
+  },
+];
 
 export const studentsCz = [
   {
@@ -94,27 +77,13 @@ export const studentsCz = [
     description: `Radovan Coufal vystudoval bakalářský obor Ekologie a ochrana životního prostředí na Katedře ekologie Univerzity Palackého v Olomouci a následně magisterské studium Hydrobiologie (2014-2019). Ve své magisterské práci se věnoval společenstvům slatiništních měkkýšů na Českomoravské vysočině.  V současné době je doktorandem na Ústavu botaniky a zoologie a ve své dizertační práci se zabývá vlivem fragmentace a sukcese na slatiništní měkkýší společenstva s důrazem na glaciální relikty.`,
     researchgate: `https://www.researchgate.net/profile/Radovan_Coufal2`,
     is: `https://is.muni.cz/auth/osoba/241288`,
-    img: coufal
-    },
-    {
-      id: `lorencova`,
-      name: `Erika Šlachtová`,
-      email: `erikalorencova@mail.muni.cz`,
-      description: `Erika Lorencová studuje Ekologii na Masarykově univerzitě v Brně, Bakalářský stupeň ukončila v
-      roce 2014, kdy zpracovala bakalářskou práci na téma šíření nepůvodních sladkovodních
-      měkkýšů v České republice. Od magisterského stupně se věnuje studiu metaspolečenstev
-      měkkýšů v nížinných stojatých vodách. Ve své disertační práci, obhájené v roce 2022, se zabývala distribucí
-      metaspolečenstev sladkovodních měkkýšů na velké škále v oblasti od České republiky až po
-      Albánii, a do budoucna pak také genetickou strukturou populací vybraných druhů.`,
-      researchgate: `https://www.researchgate.net/profile/Erika_Lorencova2`,
-      is: `https://is.muni.cz/auth/osoba/393897`,
-      img: lorencova
-    },
-    {
-      id: `nemec`,
-      name: `Tomáš Němec`,
-      email: `422930@mail.muni.cz`,
-      description: `Tomáš Němec vystudoval Zoologii na Masarykově univerzitě v Brně, promoval v roce 2018.
+    img: coufal,
+  },
+  {
+    id: `nemec`,
+    name: `Tomáš Němec`,
+    email: `422930@mail.muni.cz`,
+    description: `Tomáš Němec vystudoval Zoologii na Masarykově univerzitě v Brně, promoval v roce 2018.
       Během bakalářských a magisterských studií se zaměřoval na studii predátorů suchozemských
       plžů, které lze identifikovat na základě analýz prázdných ulit. Ve své diplomové práci porovnával
       predační chování různých predátorů v pěti odlišných typech biotopů. V současné době je
@@ -122,27 +91,27 @@ export const studentsCz = [
       úlohou suchozemských plžů v potravních řetězcích. Vyjma predátorů by měla tato práce
       hodnotit rovněž potravní nároky suchozemských plžů, a to především pomocí metody
       spočívající v analýze stabilních izotopů.`,
-      is: `https://is.muni.cz/auth/osoba/422930`,
-      img: nemec
-    },
-    {
-      id: `prochazkova`,
-      name: `Jana „malunka“ Procházková`,
-      email: `jana.prochazkova@mail.muni.cz`,
-      description: `Jana Procházková studovala obor Botanika, směr Ekologie rostlin, na Přírodovědecké fakultě
+    is: `https://is.muni.cz/auth/osoba/422930`,
+    img: nemec,
+  },
+  {
+    id: `prochazkova`,
+    name: `Jana „malunka“ Procházková`,
+    email: `jana.prochazkova@mail.muni.cz`,
+    description: `Jana Procházková studovala obor Botanika, směr Ekologie rostlin, na Přírodovědecké fakultě
       Masarykovy univerzity v Brně. Absolvovala v roce 2014. Její diplomová práce byla zaměřena na
       ekologii epifytických mechorostů. Toto téma, zejména pak vliv člověka (znečištění ovzduší,
       lesního hospodářství) na strukturu společenstev epifytických mechorostů, je také výzkumným
       směrem jejího dizertačního projektu. V současné době se snaží zkombinovat vědu a mateřství :-).`,
-      researchgate: `https://www.researchgate.net/profile/Jana_Prochazkova6`,
-      is: `https://is.muni.cz/auth/osoba/jana.prochazkova`,
-      img: prochazkova
-    },
-    {
-      id: `simova`,
-      name: `Anna Šímová`,
-      email: `simova39@gmail.com`,
-      description: `Anna Šímová studovala Ekologickou a evoluční biologii na Přírodovědecké fakultě Masarykovy
+    researchgate: `https://www.researchgate.net/profile/Jana_Prochazkova6`,
+    is: `https://is.muni.cz/auth/osoba/jana.prochazkova`,
+    img: prochazkova,
+  },
+  {
+    id: `simova`,
+    name: `Anna Šímová`,
+    email: `simova39@gmail.com`,
+    description: `Anna Šímová studovala Ekologickou a evoluční biologii na Přírodovědecké fakultě Masarykovy
       Univerzity v Brně. Ve své bakalářské práci, kterou obhájila v roce 2013, se zabývala vztahem
       druhového složení společenstev krytenek k faktorům prostředí na rašeliništích v Západních
       Karpatech. Její diplomová práce, obhájena v roce 2016, pojednávala o holocenním vývoji
@@ -150,17 +119,17 @@ export const studentsCz = [
       fosilních skupin krytenek. Nyní je studentkou doktorského studia (obor Ekologie) na Ústavu
       botaniky a zoologie, PřF MU a tématem její dizertační práce je rekonstrukce holocenních změn
       vlhkosti na karpatských rašeliništích pomocí krytenek.`,
-      researchgate: `https://www.researchgate.net/profile/Anna_Simova`,
-      is: `https://is.muni.cz/auth/osoba/376226`,
-      img: simova
-    },
-    {
+    researchgate: `https://www.researchgate.net/profile/Anna_Simova`,
+    is: `https://is.muni.cz/auth/osoba/376226`,
+    img: simova,
+  },
+  {
     id: `winterova`,
     name: `Barbora Winterová`,
     email: `423852@mail.muni.cz`,
     description: `Barbora Winterová vystudovala Zoologii, směr Vertebratologie, na Přírodovědecké fakultě Masarykovy univerzity. Promovala roku 2020. Ačkoli se během svých bakalářských a magisterských studií věnovala behaviorální ekologii obojživelníků, během současného, doktorského, studia oboru Ekologie se zaměřuje na obecnější otázky makroekologie. Konkrétně se věnuje vlivu bariér na biodiverzitu a ekologii společenstev, který by ráda zkoumala na různých škálách, od lokálních po globální, a na různých modelových systémech, včetně korálových útesů.`,
     researchgate: `https://www.researchgate.net/profile/Barbora_Winterova2`,
     is: `https://is.muni.cz/auth/osoba/423852`,
-    img: winterova
-  }
- ]
+    img: winterova,
+  },
+];

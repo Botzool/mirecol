@@ -7,19 +7,27 @@ import Backarrow from "../components/atoms/Backarrow";
 import ContainerWrapper from "../components/atoms/ContainerWrapper";
 import { Consumer } from "../layouts/Context";
 import { cz, en } from "../content/general";
-import { mireEcologyTextCz, mireEcologyTextEn, results } from "../content/topics";
+import {
+  mireEcologyTextCz,
+  mireEcologyTextEn,
+  results,
+} from "../content/topics";
 import Img from "gatsby-image";
-
+import { UlStyled } from "../components/atoms/Ul";
 const Relicts = ({ data }) => {
-  const getResults = results => {
+  const getResults = (results) => {
     return results.map((i, index) => <li key={index}>{i}</li>);
   };
   const windowGlobal = typeof window !== "undefined" && window;
   const imgs = data.images.edges.map((i, index) => (
-    <Img key={index} fluid={i.node.childImageSharp.fluid} style={{marginBottom: 5}}/>
+    <Img
+      key={index}
+      fluid={i.node.childImageSharp.fluid}
+      style={{ marginBottom: 5 }}
+    />
   ));
-  const smallWidthImgs = imgs.slice(0,6)
-  const finalImgs = windowGlobal.innerWidth > 1600 ? smallWidthImgs : imgs
+  const smallWidthImgs = imgs.slice(0, 6);
+  const finalImgs = windowGlobal.innerWidth > 1600 ? smallWidthImgs : imgs;
   return (
     <Consumer>
       {({ int }) => (
@@ -29,7 +37,7 @@ const Relicts = ({ data }) => {
             <h2>{int === "en" ? en.mireEcology : cz.mireEcology}</h2>
             <div>{int === "en" ? mireEcologyTextEn : mireEcologyTextCz}</div>
             <h2>{int === "en" ? en.mainResults : cz.mainResults}</h2>
-            <div>{getResults(results.mireEcologyResults)}</div>
+            <UlStyled>{getResults(results.mireEcologyResults)}</UlStyled>
           </div>
           <div style={{ flex: 1 }}>{finalImgs}</div>
           <Databases text={int === "en" ? en : cz} style={{ flex: 1 }} />
@@ -42,7 +50,7 @@ const Relicts = ({ data }) => {
 export default Relicts;
 
 Relicts.propTypes = {
-  location: PropTypes.object
+  location: PropTypes.object,
 };
 
 export const query = graphql`
