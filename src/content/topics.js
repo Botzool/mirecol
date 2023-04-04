@@ -284,6 +284,7 @@ export const relictEcosystemsTextCz = (
 
 export const results = {
   mireEcologyResults: [
+`Hájková, P., Horsáková, V., Peterka, T., Janeček, Š., Galvánek, D., Dítě, D., ... & Hájek, M. (2022). Conservation and restoration of Central European fens by mowing: A consensus from 20 years of experimental work. Science of The Total Environment, 846, 157293.`,
     `Hájek, M., Těšitel, J., Tahvanainen, T., Peterka, T., Jiménez-Alfaro, B., Jansen, F., Pérez-Haase, A., 
 	Garbolino, E., Carbognani, M., Kolari, T.H.M., Hájková, P., Jandt, U., Aunina, L., Pawlikowski, P., 
 	Ivchenko, T., Tomaselli, M., Tichý, L., Dítě, D., Plesková, Z., & Mikulášková, E. (2022). Rising temperature 
@@ -338,7 +339,8 @@ export const results = {
         studies. Perspectives in Plant Ecology, Evolution and Systematics, 8, 97-114.`
   ],
   palaeoEcologyResults: [
-    `Divíšek, J., Hájek, M., Jamrichová, E., Petr, L., Večeřa, M., Tichý, L., Willner, W., & Horsák, M. (2020). 
+`Hájková, P., Petr, L., Horsák, M., Jamrichová, E., & Roleček, J. (2022). Holocene history of the landscape at the biogeographical and cultural crossroads between Central and Eastern Europe (Western Podillia, Ukraine). Quaternary Science Reviews, 288, 107610.`,
+        `Divíšek, J., Hájek, M., Jamrichová, E., Petr, L., Večeřa, M., Tichý, L., Willner, W., & Horsák, M. (2020). 
 	Holocene matters: Landscape history accounts for current species richness of vascular plants in forests 
 	and grasslands of eastern Central Europe. Journal of Biogeography, 47, 721-735.`,
     `Hájková, P., Jamrichová, E., Šolcová, A., Frodlová, J., Petr, L., Dítě, D., Hájek, M., & Horsák, M. (2020). 
@@ -410,6 +412,8 @@ export const results = {
     Europe. Journal of Biogeography, 37, 1450-1462.`
   ],
   cryptogamologyResults: [
+`Chattová, B., Cahova, T., Pinseel, E., Kopalová, K., Kohler, T. J., Hrbáček, F., ... & Nývlt, D. (2022). Diversity, ecology, and community structure of the terrestrial diatom flora from Ulu Peninsula (James Ross Island, NE Antarctic Peninsula). Polar Biology, 45(5), 873-894.`,
+`Cahová, T., & Chattová, B. (2021). Diversity and species composition of diatom communities of Ardley Island, South Shetland Islands. Czech Polar Reports, 11(1), 25-40.`,
     `Chattová, B., Lebouvier, M., & Van de Vijver, B. (2018). Morphological and taxonomical analysis of the
     terrestrial diatom genus Humidophila (Bacillariophyta) on Ile Amsterdam and Ile Saint-Paul (Southern
     Indian Ocean). Phytotaxa, 336, 28-42.`,
