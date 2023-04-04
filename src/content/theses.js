@@ -1,5 +1,33 @@
 ﻿export const thesesEn = {
   bachelorThesesList: [
+{
+      name: `Methods of studying foraging strategies of land snails, bachelor's thesis, Ondřej Mácha, 24. 6. 2022`,
+      link: `https://is.muni.cz/th/wob2u/?lang=en`
+    },
+{
+      name: `Late-glacial and Holocene succession of mire vegetation in Pihoviny site (Českomoravská vrchovina Mts) using plant macrofossil analysis, bachelor's thesis, Adéla Široká, 20. 6. 2022`,
+      link: `https://is.muni.cz/th/k5wh1/?lang=en`
+    },
+{
+      name: `Cyanobacteria and algae of Bohemian Karst, bachelor's thesis, Veronika Bezdíčková, 20. 6. 2022`,
+      link: `https://is.muni.cz/th/plzyj/?lang=en`
+    },
+{
+      name: `Movement and dispersion of land snails, bachelor's thesis, Hedvika Dušková, 17. 6. 2022`,
+      link: `https://is.muni.cz/th/ie4jz/?lang=en`
+    },
+{
+      name: `Current vegetation development in fen grasslands of the Chvojnov Nature Reserve, bachelor's thesis, Petra Macková, 23. 6. 2021`,
+      link: `https://is.muni.cz/th/bdu3a/?lang=en`
+    },
+{
+      name: `Ecology of freshwater molluscs and their small scale distribution, bachelor's thesis, Ondřej Jandáček, 3. 7. 2020`,
+      link: `https://is.muni.cz/th/hy8zq/?lang=en`
+    },
+{
+      name: `The effect of former ploughing on grassland species composition in the Hutě Nature Reserve (White Carpathians), bachelor's thesis, Karolína Slachová, 2. 7. 2020`,
+      link: `https://is.muni.cz/th/v60d7/?lang=en`
+    },
     {
       name: `Review of dated fosil records of mire plant specialists in the Bohemian-Moravian Highlands,
     bachelor's thesis, Mgr. Žaneta Blahová, 20. 6. 2013`,
@@ -39,11 +67,15 @@
   
   masterThesesList: [
     {
+      name: `Ecology and diversity of soil diatoms (Bacillariophyta) of Ile Amsterdam and Ile Saint-Paul (TAAF, Southern Indian Ocean), master's thesis, Tereza Cahová, 10. 6. 2019`,
+      link: `https://is.muni.cz/th/b97qq/?lang=en`
+    },
+    {
       name: `Specific damages of snail shells as the evidence of predation, master's thesis, Mgr. Tomáš Němec, 11. 6. 2018`,
       link: `https://is.muni.cz/th/q3hjm/`
     },
     {
-      name: `Wet and fen meadows vegetation of the Rožnovská Bečva valley and its changes under different management practices ,master's thesis, Mgr. Monika Dršková, 12. 6. 2017`,
+      name: `Wet and fen meadows vegetation of the Rožnovská Bečva valley and its changes under different management practices, master's thesis, Mgr. Monika Dršková, 12. 6. 2017`,
       link: `https://is.muni.cz/th/q5j3l/`
     },
     {
@@ -96,6 +128,34 @@
 export const thesesCz = {
   bachelorThesesList: [
     {
+      name: `Metody studia potravních strategií suchozemských plžů, bakalářská práce, Ondřej Mácha, 24. 6. 2022`,
+      link: `https://is.muni.cz/th/wob2u/`
+    },
+    {
+      name: `Pozdně-glaciální a holocenní sukcese rašelinné vegetace na lokalitě Pihoviny (Českomoravská vrchovina) rekonstruovaná pomocí makrozbytkové analýzy, bakalářská práce, Adéla Široká, 20. 6. 2022`,
+      link: `https://is.muni.cz/th/k5wh1/`
+    },
+    {
+      name: `Sinice a řasy Českého krasu, bakalářská práce, Veronika Bezdíčková, 20. 6. 2022`,
+      link: `https://is.muni.cz/th/plzyj/`
+    },
+    {
+      name: `Pohybová aktivita a disperse suchozemských plžů, bakalářská práce, Hedvika Dušková, 17. 6. 2022`,
+      link: `https://is.muni.cz/th/ie4jz/`
+    },
+    {
+      name: `Současný vývoj vegetace na rašelinných loukách v PR Chvojnov, bakalářská práce, Petra Macková, 23. 6. 2021`,
+      link: `https://is.muni.cz/th/bdu3a/`
+    },
+    {
+      name: `Ekologie vodních měkkýšů a jejich maloškálová distribuce, bakalářská práce, Ondřej Jandáček, 3. 7. 2020`,
+      link: `https://is.muni.cz/th/hy8zq/`
+    },
+    {
+      name: `Vliv minulé orby na druhové složení luk v PR Hutě v Bílých Karpatech, bakalářská práce, Karolína Slachová, 2. 7. 2020`,
+      link: `https://is.muni.cz/th/v60d7/`
+    },
+    {
       name: `Rešerše datovaných fosilních nálezů druhů specializovaných na rašeliniště na Českomoravské vrchovině, bakalářská práce, Mgr. Žaneta Blahová, 20. 6. 2013`,
       link: `https://is.muni.cz/th/av2jf/`
     },
@@ -129,6 +189,10 @@ export const thesesCz = {
     }
   ],
   masterThesesList: [
+    {
+      name: `Ekologie a diverzita půdních rozsivek ostrova Nový Amsterdam a ostrova Svatého Pavla (TAAF, Jižní Indický oceán), diplomová práce, Tereza Cahová, 10. 6. 2019`,
+      link: `https://is.muni.cz/th/b97qq/`
+    },
     {
       name: `Specifická poškození ulit plžů jako doklad predace, diplomová práce, Mgr. Tomáš Němec, 11. 6. 2018`,
       link: `https://is.muni.cz/th/q3hjm/`
