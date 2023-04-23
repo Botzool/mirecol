@@ -12,10 +12,11 @@ const People = ({ researchersData, staffData, studentsData, data }) => {
   const [detailOpened, setDetailOpened] = useState(null);
 
   useEffect(() => {
-    if (windowGlobal.history.state && windowGlobal.history.state.person) {
-      setDetailOpened(windowGlobal.history.state.person);
+    const historyState = windowGlobal.history && windowGlobal.history.state;
+    if (historyState && historyState.person) {
+      setDetailOpened(historyState.person);
     } else setDetailOpened(null);
-  }, [windowGlobal.history.state.person]);
+  }, []);
 
   const researchers = researchersData.map((i) => (
     <PersonBox
