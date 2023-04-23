@@ -99,7 +99,7 @@ const Crypto = ({ data }) => {
             </div>
             <div>
               {" "}
-              <LinkStyled to="/people/" state={{ person: "slachtova" }}>
+              <LinkStyled to="/people/" state={{ person: "lorencova" }}>
                 Erika Šlachtová{" "}
               </LinkStyled>
               <a href="mailto:er.slachtova@gmail.com">er.slachtova@gmail.com</a>

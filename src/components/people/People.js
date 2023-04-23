@@ -10,18 +10,12 @@ const windowGlobal = typeof window !== "undefined" && window;
 
 const People = ({ researchersData, staffData, studentsData, data }) => {
   const [detailOpened, setDetailOpened] = useState(null);
+
   useEffect(() => {
-    console.log(windowGlobal.location);
-    if (
-      windowGlobal.location.state &&
-      (windowGlobal.location.state.person || windowGlobal.history.state.person)
-    ) {
-      setDetailOpened(
-        windowGlobal.location.state.person || windowGlobal.history.state.person
-      );
-      windowGlobal.scrollTo(0, 0);
+    if (windowGlobal.history.state && windowGlobal.history.state.person) {
+      setDetailOpened(windowGlobal.history.state.person);
     } else setDetailOpened(null);
-  }, [windowGlobal.location.state]);
+  }, [windowGlobal.history.state.person]);
 
   const researchers = researchersData.map((i) => (
     <PersonBox

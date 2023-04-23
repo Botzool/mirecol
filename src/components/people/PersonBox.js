@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React, { Fragment, useEffect } from "react";
 import styled from "styled-components";
 import PropTypes from "prop-types";
 
@@ -8,9 +8,10 @@ import personal from "../../images/personal.png";
 
 const PersonBox = ({ personInfo, data, detailOpened, setDetailOpened }) => {
   const hasDetail = personInfo.description.length > 0;
+
   return (
     <Fragment>
-      <Box>
+      <Box id={personInfo.id}>
         <BoxPart style={{ flex: 1, paddingLeft: 0 }}>
           <div style={{ paddingTop: 10 }}>
             {personInfo.img ? (
