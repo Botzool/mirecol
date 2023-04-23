@@ -10,6 +10,8 @@ import { cz, en } from "../content/general";
 import { results } from "../content/topics";
 import Img from "gatsby-image";
 import { UlStyled } from "../components/atoms/Ul";
+import { Link } from "gatsby";
+import styled from "styled-components";
 
 const Crypto = ({ data }) => {
   const getResults = (results) => {
@@ -31,52 +33,78 @@ const Crypto = ({ data }) => {
         <ContainerWrapper>
           <div style={{ flex: 3, paddingRight: "1em" }}>
             <Backarrow to="topic-malacology" />
-            <h3>{int === "en" ? en.groupmembers : cz.groupmembers}</h3>
+            <h2>{int === "en" ? en.groupmembers : cz.groupmembers}</h2>
             <div>
-              Michal Horsák{" "}
+              <LinkStyled to="/people/" state={{ person: "horsak" }}>
+                Michal Horsák{" "}
+              </LinkStyled>
               <a href="mailto:horsak@sci.muni.cz">horsak@sci.muni.cz</a>
             </div>
             <div>
-              Jeffrey Nekola{" "}
+              {" "}
+              <LinkStyled to="/people/" state={{ person: "nekola" }}>
+                Jeffrey Nekola{" "}
+              </LinkStyled>
               <a href="mailto:nekola@sci.muni.cz">nekola@sci.muni.cz</a>
             </div>
             <div>
-              Veronika Horsáková{" "}
+              {" "}
+              <LinkStyled to="/people/" state={{ person: "horsakova" }}>
+                Veronika Horsáková{" "}
+              </LinkStyled>
               <a href="mailto:veronika.horsakova@seznam.cz">
                 veronika.horsakova@seznam.cz
               </a>
             </div>
             <div>
-              Markéta Nováková{" "}
+              {" "}
+              <LinkStyled to="/people/" state={{ person: "novakova" }}>
+                Markéta Nováková{" "}
+              </LinkStyled>
               <a href="mailto:novakova.marke@gmail.com">
                 novakova.marke@gmail.com
               </a>
             </div>
             <div>
-              Eva Líznarová{" "}
+              {" "}
+              <LinkStyled to="/people/" state={{ person: "liznarova" }}>
+                Eva Líznarová{" "}
+              </LinkStyled>
               <a href="mailto:liznarovaeva@centrum.cz">
                 liznarovaeva@centrum.cz
               </a>
             </div>
             <div>
-              Takumi Saito{" "}
+              {" "}
+              <LinkStyled to="/people/" state={{ person: "saito" }}>
+                Takumi Saito{" "}
+              </LinkStyled>
               <a href="mailto:saito.zef@gmail.com">saito.zef@gmail.com</a>
             </div>
             <div>
-              Radovan Coufal{" "}
+              {" "}
+              <LinkStyled to="/people/" state={{ person: "coufal" }}>
+                Radovan Coufal{" "}
+              </LinkStyled>
               <a href="mailto:radovan.coufal39@seznam.cz">
                 radovan.coufal39@seznam.cz
               </a>
             </div>
             <div>
-              Tomáš Němec{" "}
+              {" "}
+              <LinkStyled to="/people/" state={{ person: "nemec" }}>
+                Tomáš Němec{" "}
+              </LinkStyled>
               <a href="mailto:422930@mail.muni.cz">422930@mail.muni.cz</a>
             </div>
             <div>
-              Erika Šlachtová{" "}
+              {" "}
+              <LinkStyled to="/people/" state={{ person: "slachtova" }}>
+                Erika Šlachtová{" "}
+              </LinkStyled>
               <a href="mailto:er.slachtova@gmail.com">er.slachtova@gmail.com</a>
             </div>
-            <h3>{int === "en" ? en.mainResults : cz.mainResults}</h3>
+            <h2>{int === "en" ? en.mainResults : cz.mainResults}</h2>
             <UlStyled>{getResults(results.malacologyResults)}</UlStyled>
           </div>
           <div style={{ flex: 1 }}>{finalImgs}</div>
@@ -113,4 +141,9 @@ export const query = graphql`
       }
     }
   }
+`;
+
+const LinkStyled = styled(Link)`
+  color: ${(props) => props.theme.grey};
+  text-decoration: none;
 `;

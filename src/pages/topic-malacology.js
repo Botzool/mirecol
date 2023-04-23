@@ -19,7 +19,7 @@ const Crypto = ({ data }) => {
       style={{ marginBottom: 5 }}
     />
   ));
-  const smallWidthImgs = imgs.slice(0, 6);
+  const smallWidthImgs = imgs.slice(0, 12);
   const finalImgs = windowGlobal.innerWidth > 1600 ? smallWidthImgs : imgs;
   return (
     <Consumer>

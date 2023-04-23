@@ -126,120 +126,119 @@ export const malacologyTextEn = (
 );
 export const malacologyTextCz = (
   <div>
-    <Link to="/malacology-group">Group members and selected publications</Link>
+    <Link to="/malacology-group">Členové skupiny a vybrané publikace</Link>
     <p>
-      With over 42,000 species, non-marine molluscs make up almost one-half of
-      all molluscan biodiversity. In spite of this the great majority of
-      research remains focused on marine taxa. Our research group is committed
-      to bringing modern approaches and techniques to the empirical analysis of
-      non-marine molluscs. We focus on the patterns and processes ranging from
-      taxonomy, faunistics and evolution to community, paleo- and macro-
-      ecology. From this we are able to better document biodiversity and
-      identify optimum conservation strategies for the second most diverse group
-      of terrestrial organisms.
+      Terestričtí a sladkovodní měkkýši představují s více než 42 000 druhy
+      téměř polovinu veškeré biologické rozmanitosti měkkýšů. Navzdory tomu se
+      převážná většina výzkumu stále zaměřuje na mořské taxony. V naší skupině
+      usilujeme o zavedení moderních analytických přístupů a technologií do
+      empirické analýzy měkkýšů, vyjma mořských. Zabýváme se zákonitostmi a
+      procesy napříč pestrou škálou odvětví malakologie, od taxonomie,
+      faunistiky a evoluce až po ekologii společenstev, paleo- a makroekologii.
+      Tyto poznatky nám umožňují lépe pochopit biologickou rozmanitost a
+      navrhovat účinné strategie ochrany této druhé nejpočetnější skupiny
+      suchozemských organismů.
     </p>
     <ul>
       <li>
-        <b>Taxonomy and evolution.</b> Effective biodiversity protection must be
-        based on empirically validated taxonomic concepts. We address this by
-        conducting integrative taxonomic revisions which identify biologically
-        valid taxa by searching for consensus among mtDNA, nDNA, morphometric,
-        anatomical, ecological and biogeography signals. We use the resulting
-        phylogenetic trees to document evolutionary process, and are especially
-        interested in identifying the mechanisms underlying evolutionary change
-        and diversification rates.
+        <b>Taxonomie a evoluce.</b> Základním pilířem ochrany biodiverzity jsou
+        empiricky ověřené taxonomické jednotky (nejčastěji druhy). Takové
+        jednotky se snažíme dokumentovat prostřednictvím integrativních
+        taxonomických revizí, které nám umožňují identifikovat biologicky
+        validní taxony na základě shody genetických (mitochondriální a jaderná
+        DNA), morfometrických, anatomických, ekologických a biogeografických
+        znaků. Fylogenetické analýzy využíváme také k vyhodnocení evolučních
+        procesů a mechanismů, které souvisí s evolučními změnami a rychlostmi
+        diverzifikace.
       </li>
       <li>
-        <b>Faunistics.</b> Knowing the accurate makeup of molluscan assemblages
-        is an essential foundation for all subsequent ecology and conservation
-        projects. Our group has sampled over 5000 sites across the Holarctic
-        representing 1000s of species and millions of shells, with an emphasis
-        on central and northern Europe, central Asia, and North America. We have
-        also investigated error rates present in mined data sources such as
-        museum records. Our work has lead to numerous reports to conservation
-        and other agencies. We have also produced field guides to allow
-        identification of the fauna.
+        <b>Faunistika.</b> Detailní znalost složení společenstev měkkýšů
+        představuje nezbytný základ pro veškeré navazující ekologické či
+        ochranářské výzkumy. Členové naší skupiny odebírali vzorky měkkýšů na
+        více než 5000 lokalitách v oblasti Holoarktu, čítající tisíce druhů a
+        miliony schránek, především z území střední a severní Evropy, střední
+        Asie a Severní Ameriky. Zkoumali jsme také chybovost v externích
+        zdrojích dat, např. v muzejních záznamech. Podílíme se na přípravě zpráv
+        pro orgány ochrany přírody a dalších publikací, jako jsou brožury a
+        průvodce k určování měkkýší fauny.
       </li>
       <li>
-        <b>Phylogeography.</b> Because mollusc DNA is best preserved in dry
-        material, our samples collected across the northern hemisphere provide a
-        viable substrate for the genetic analyses. When combined with
-        comprehensive datasets on local habitat conditions, fossil record,
-        historical factors, and climate (since the LGM 21,000 yr BP to the
-        present), we are able to draw complex phylogeographic conclusions and
-        explore patterns of colonization dynamics, gene-flow, and role of
-        glacial refugia.
+        <b>Fylogeografie.</b> Měkkýší DNA se nejlépe zachovává v suchém
+        materiálu, což umožňuje využití našich vzorků, sbíraných napříč regiony
+        severní polokoule, pro genetické analýzy. Výsledky těchto analýz
+        propojujeme s rozsáhlými daty o stanovištních podmínkách, historických
+        faktorech a klimatu (od posledního glaciálního maxima zhruba před 21 000
+        lety po současnost), což nám umožňuje vyvozovat obecné fylogeografické
+        závěry a zkoumat kolonizační dynamiku, tok genů nebo roli glaciálních
+        refugií.
       </li>
       <li>
-        <b>Community ecology.</b> Every single individual is set in a complex
-        web of biotic and abiotic interactions within its populations,
-        communities, and ecosystems. In our group we seek to unravel the causes
-        of diversity, composition, and vulnerability of molluscan communities,
-        taking into account ongoing climate and environmental changes. We
-        collect and analyze data on ecological variables, historical factors
-        (using extensive palaeoecological record), and climate, and compare
-        molluscs with other taxa (e.g. vascular plants and bryophytes). By
-        integrating these sources of information we are able to deeply
-        understand the causality behind the composition and functioning of
-        molluscan communities.
+        <b>Ekologie společenstev.</b> Každý jedinec je součástí sítě biotických
+        a abiotických interakcí uvnitř populací, společenstev a ekosystémů. V
+        naší skupině se snažíme odhalit příčiny rozmanitosti, složení a
+        zranitelnosti měkkýších společenstev s ohledem na probíhající klimatické
+        a environmentální změny. Sbíráme a analyzujeme údaje o ekologických
+        podmínkách, historických faktorech (s využitím rozsáhlých
+        paleoekologických záznamů), klimatu a skladbě jiných taxonů v rámci
+        téhož ekosystému (např. cévnatých rostlin a mechorostů). Díky propojení
+        těchto zdrojů informací jsme schopni porozumět příčinným souvislostem,
+        které definují složení a fungování měkkýších společenstev.
       </li>
       <li>
-        <b>Genomics.</b> Currently, species-scale nDNA signal is largely limited
-        to ITS1 and ITS2 in the rRNA Gene Cassette. However, we have recently
-        initiated the project to identify low-copy nDNA regions which provide
-        species-scale signal and can be amplified using universal primers. Our
-        first newly discovered region, Intron 8 in the ELAV gene, not only
-        provides excellent phylogenetic signal within a genus but also recovers
-        deep phylogenetic pattern. We look forward to identifying more areas via
-        additional investigations of genomic data covering the Panpulmonata. We
-        are also involved in comparative genomics and mapping of the mtGenome
-        across the Panpulmonata.
+        <b>Genomika.</b> V současné době je signál nDNA umožňující rozlišení
+        druhů omezen především na rRNA fragmenty ITS1 a ITS2. Náš nedávno
+        zahájený projekt je zaměřen na identifikaci fragmentů nDNA o nízkém
+        počtu kopií, které poskytují druhový signál a které lze amplifikovat
+        pomocí univerzálních primerů. Již první nově objevený úsek DNA, Intron 8
+        v genu ELAV, má nejen vynikající fylogenetický vnitrorodový signál, ale
+        umožňuje také rekonstrukci hlubší fylogeneze. Těšíme se na identifikaci
+        dalších úseků DNA v rámci probíhajících výzkumů genomických dat
+        pokrývajících taxon Panpulmonata. Rovněž se zabýváme srovnávací
+        genomikou a mapováním mitochondriálního genomu plžů.
       </li>
     </ul>
     <p>
-      Our research also covers a variety of other topics, including
-      physiological ecology (using stable isotope analyses), macroecology
-      (barriers and regional species pools), and palaeoecology. Under the
-      guidance of our group members, a variety of bachelor, master and doctoral
-      theses covering all the above-mentioned thematic areas are being
-      conducted. We are keen to cooperate with scientists and mollusc
-      enthusiasts from other countries and institutions, to share and exchange
-      ideas, knowledge, experiences, and study material.
+      Náš výzkum zahrnuje také řadu dalších témat, včetně fyziologie (s využitím
+      analýzy stabilních izotopů), makroekologie (bariéry a regionální druhová
+      bohatost) a paleoekologie. Pod vedením členů naší skupiny vzniká pestrá
+      škála bakalářských, magisterských i doktorských závěrečných prací
+      pokrývajících veškeré výše uvedené tematické okruhy. Jsme vždy nakloněni
+      spolupráci s vědci a milovníky měkkýšů z jiných zemí a institucí, se
+      kterými sdílíme nápady, znalosti, zkušenosti i výzkumný materiál.
     </p>
     <p>
-      <b>Our colleagues and friends from abroad include:</b> Chris Wade, Gary
+      <b>Mezi naše externí kolegy a přátele patří:</b> Chris Wade, Gary
       Rosenberg, Rodrigo Salvador, Martin Haase, Gary Barker, Richard Preece,
       Satoshi Chiba, Robert Cameron, Julien Ryelandt, Eike Neubert, Brian Coles,
-      Barna Páll-Gergely, Duda Michael, Julien Ryelandt, Quentin Wackenheim,
+      Barna Páll- Gergely, Duda Michael, Julien Ryelandt, Quentin Wackenheim,
       Oihana Razkin Aguirre, Adrienne Jochum, Levan Mumladze, Enrico Schwabe,
-      Ted von Proschwitz, Charles Drost, Jacob Vanhouten, Nicole
-      Limondin-Lozouet, Salomé Granai, Olivier Moine, Coenraad Adema, Grita
-      Skujiene, Bert Van Bocxlaer, Bernhard Hausdorf, Anna Sulikowska-Drozd,
-      Edmund Gittenberger, Kazuki Kimura, Frank Koehler, Gary Barker, John
-      Slapcinsky, Timothy A. Pearce, Paul Callomon, Vollrath Wiese, Sigrid Hof,
-      Ira Richling, Emmanuel Fara, Junn Kitt Foon, Karin Urfer, John Stanisic,
+      Ted von Proschwitz, Charles Drost, Jacob Vanhouten, Nicole Limondin-
+      Lozouet, Salomé Granai, Olivier Moine, Coenraad Adema, Grita Skujiene,
+      Bert Van Bocxlaer, Bernhard Hausdorf, Anna Sulikowska-Drozd, Edmund
+      Gittenberger, Kazuki Kimura, Frank Koehler, Gary Barker, John Slapcinsky,
+      Timothy A. Pearce, Paul Callomon, Vollrath Wiese, Sigrid Hof, Ira
+      Richling, Emmanuel Fara, Junn Kitt Foon, Karin Urfer, John Stanisic,
       Francisco Welter-Schultes, Dan Dourson, Owen Griffiths, Peter
       Tattersfield, Ben Rowson, Thomas Neubauer, Anatoly Schileyko, Ivailo
       Dedov, Igor Balashov, Amy Shrader Van Devender, Robert Wayne Van Devender,
       Marco Bodon, Falco Giusti, Kostas Triantis, Jeffrey Pigati, Bin Ye,
       Christian Richter‬, Frank Walter, Heike Reise, John M.C. Hutchinson, David
-      Holyoak. And many others...
+      Holyoak. A mnoho dalších...
     </p>
     <p>
-      We also collaborate and regularly meet with numerous{" "}
-      <b>Czech and Slovak malacologists</b>:{" "}
+      Spolupracujeme a pravidelně se setkáváme s kolegy a přáteli z řad{" "}
+      <b>českých a slovenských malakologů</b>:{" "}
       <a href="http://mollusca.sav.sk/malacology/people.htm">
         http://mollusca.sav.sk/malacology/people.htm
       </a>
     </p>
     <p>
       <u>
-        <b>Join us:</b>
+        <b>Přidejte se k nám:</b>
       </u>
-      <br />
-      For questions, ideas, requests, etc. feel free to contact any member of{" "}
-      <Link to="/malacology-group">our group</Link>. The main person to contact
-      regarding the web page content is Veronika Horsáková (
+      <br />S dotazy, návrhy či připomínkami se neváhejte obracet na členy{" "}
+      <Link to="/malacology-group">naší skupiny</Link>. Za obsah stránky skupiny
+      odpovídá Veronika Horsáková (
       <a href="mailto:veronika.horsakova@seznam.cz">
         veronika.horsakova@seznam.cz
       </a>
@@ -551,42 +550,42 @@ export const relictEcosystemsTextCz = (
 
 export const results = {
   malacologyResults: [
-    `Saito, T., Šlachtová, E., Nováková, M., Horsáková, V., Ye, B., Beran, L., &amp; Horsák, M. (2023). Invasion history
+    `Saito, T., Šlachtová, E., Nováková, M., Horsáková, V., Ye, B., Beran, L., & Horsák, M. (2023). Invasion history
     of Gyraulus chinensis (Gastropoda: Planorbidae) in Europe: a molecular and literature-based approach.
     Hydrobiologia, 1-13.`,
     `
-    Nekola, J. C., Nováková, M., Horsák, M., &amp; Adema, C. M. (2022). ELAV Intron 8: a single-copy sequence
-    marker for shallow to deep phylogeny in Eupulmonata Hasprunar &amp; Huber, 1990 and Hygrophila Férussac, 1822
-    (Gastropoda: Mollusca). Organisms Diversity &amp; Evolution, 1-9.`,
+    Nekola, J. C., Nováková, M., Horsák, M., & Adema, C. M. (2022). ELAV Intron 8: a single-copy sequence
+    marker for shallow to deep phylogeny in Eupulmonata Hasprunar & Huber, 1990 and Hygrophila Férussac, 1822
+    (Gastropoda: Mollusca). Organisms Diversity & Evolution, 1-9.`,
     `
-    Horsák, M., Horsáková, V., Divíšek, J., &amp; Nekola, J. C. (2022). Ecological niche divergence between extant and
+    Horsák, M., Horsáková, V., Divíšek, J., & Nekola, J. C. (2022). Ecological niche divergence between extant and
     glacial land snail populations explained. Scientific Reports, 12, 806.`,
     `
-    Horsáková, V., Líznarová, E., Razkin, O., Nekola, J. C., &amp; Horsák, M. (2022). Deciphering “cryptic” nature of
+    Horsáková, V., Líznarová, E., Razkin, O., Nekola, J. C., & Horsák, M. (2022). Deciphering “cryptic” nature of
     European rock-dwelling Pyramidula snails (Gastropoda: Stylommatophora). Contributions to Zoology, 91, 233-
     260.`,
     `
-    Nekola, J. C., &amp; Horsák, M. (2022). The impact of empirically unverified taxonomic concepts on ecological
+    Nekola, J. C., & Horsák, M. (2022). The impact of empirically unverified taxonomic concepts on ecological
     assemblage patterns across multiple spatial scales. Ecography, 2022(5), e06063.`,
     `
-    Nekola, J. C., Divíšek, J., &amp; Horsák, M. (2022). The nature of dispersal barriers and their impact on regional
+    Nekola, J. C., Divíšek, J., & Horsák, M. (2022). The nature of dispersal barriers and their impact on regional
     species pool richness and turnover. Global Ecology and Biogeography, 31, 1470-1500.`,
     `
-    Coufal, R., Ryelandt, J., Peterka, T., Dítě, D., Hájková, P., Hájek, M., ... &amp; Horsák, M. (2021). Land snail
+    Coufal, R., Ryelandt, J., Peterka, T., Dítě, D., Hájková, P., Hájek, M., ... & Horsák, M. (2021). Land snail
     community patterns related to regional habitat conservation status of European spring fens. Science of The Total
     Environment, 783, 146910.`,
     `
-    Lorencová, E., Beran, L., Nováková, M., Horsáková, V., Rowson, B., Hlaváč, J. Č., ... &amp; Horsák, M. (2021).
+    Lorencová, E., Beran, L., Nováková, M., Horsáková, V., Rowson, B., Hlaváč, J. Č., ... & Horsák, M. (2021).
     Invasion at the population level: a story of the freshwater snails Gyraulus parvus and G. laevis. Hydrobiologia,
     848, 4661-4671.`,
     `
-    Němec, T., &amp; Horsák, M. (2019). Specific damage recognised on land snail shells as a tool for studying
+    Němec, T., & Horsák, M. (2019). Specific damage recognised on land snail shells as a tool for studying
     predation intensity: differences related to habitat and predator types. Contributions to Zoology, 88, 277-296.
-    Horsáková, V., Nekola, J. C., &amp; Horsák, M. (2019). When is a “cryptic” species not a cryptic species: a
+    Horsáková, V., Nekola, J. C., & Horsák, M. (2019). When is a “cryptic” species not a cryptic species: a
     consideration from the Holarctic micro-landsnail genus Euconulus (Gastropoda: Stylommatophora). Molecular
     Phylogenetics and Evolution, 132, 307-320.`,
     `
-    Nekola, J. C., Chiba, S., Coles, B. F., Drost, C. A., Von Proschwitz, T., &amp; Horsák, M. (2018). A phylogenetic
+    Nekola, J. C., Chiba, S., Coles, B. F., Drost, C. A., Von Proschwitz, T., & Horsák, M. (2018). A phylogenetic
     overview of the genus Vertigo OF Müller, 1773 (Gastropoda: Pulmonata: Pupillidae: Vertigininae). Malacologia,
     62, 21-161.`,
     `

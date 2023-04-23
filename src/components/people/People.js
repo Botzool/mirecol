@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { useEffect, useState } from "react";
 import PersonBox from "./PersonBox";
 import H2 from "../atoms/H2";
 import PropTypes from "prop-types";
@@ -6,72 +6,103 @@ import { Link, Element } from "react-scroll";
 import { Container as MenuContainer, Li } from "../../layouts/Navigation";
 import styled from "styled-components";
 
-class People extends Component {
-  render() {
-    const { researchersData, staffData, studentsData, data } = this.props;
-    const researchers = researchersData.map((i) => (
-      <PersonBox personInfo={i} key={i.id} data={data} />
-    ));
-    const people = staffData.map((i) => (
-      <PersonBox personInfo={i} key={i.id} data={data} />
-    ));
-    const students = studentsData.map((i) => (
-      <PersonBox personInfo={i} key={i.id} data={data} />
-    ));
-    return (
-      <React.Fragment>
-        <MenuContainer>
-          <Li isVisible={true}>
-            <StyledLink
-              activeClass="active"
-              to="staff"
-              spy={true}
-              smooth={true}
-              duration={500}
-            >
-              {data.staff}
-            </StyledLink>
-          </Li>
-          <Li isVisible={true}>
-            <StyledLink
-              activeClass="active"
-              to="PhD"
-              spy={true}
-              smooth={true}
-              duration={500}
-            >
-              {data.phD}
-            </StyledLink>
-          </Li>
-          <Li isVisible={true}>
-            <StyledLink
-              activeClass="active"
-              to="researchers"
-              spy={true}
-              smooth={true}
-              duration={500}
-            >
-              {data.researchers}
-            </StyledLink>
-          </Li>
-        </MenuContainer>
+const windowGlobal = typeof window !== "undefined" && window;
 
-        <Element name="staff" className="element">
-          <H2>{data.staff}</H2>
-        </Element>
-        {people}
-        <Element name="PhD" className="element">
-          <H2>{data.phD}</H2>
-        </Element>
-        {students}
-        <Element name="researchers" className="element">
-          <H2>{data.researchers}</H2>
-        </Element>
-        {researchers}
-      </React.Fragment>
-    );
-  }
-}
+const People = ({ researchersData, staffData, studentsData, data }) => {
+  const [detailOpened, setDetailOpened] = useState(null);
+  useEffect(() => {
+    console.log(windowGlobal.location);
+    if (
+      windowGlobal.location.state &&
+      (windowGlobal.location.state.person || windowGlobal.history.state.person)
+    ) {
+      setDetailOpened(
+        windowGlobal.location.state.person || windowGlobal.history.state.person
+      );
+      windowGlobal.scrollTo(0, 0);
+    } else setDetailOpened(null);
+  }, [windowGlobal.location.state]);
+
+  const researchers = researchersData.map((i) => (
+    <PersonBox
+      personInfo={i}
+      key={i.id}
+      data={data}
+      detailOpened={detailOpened === i.id}
+      setDetailOpened={(id) => setDetailOpened(id)}
+    />
+  ));
+  const people = staffData.map((i) => (
+    <PersonBox
+      personInfo={i}
+      key={i.id}
+      data={data}
+      detailOpened={detailOpened === i.id}
+      setDetailOpened={(id) => setDetailOpened(id)}
+    />
+  ));
+  const students = studentsData.map((i) => (
+    <PersonBox
+      personInfo={i}
+      key={i.id}
+      data={data}
+      detailOpened={detailOpened === i.id}
+      setDetailOpened={(id) => setDetailOpened(id)}
+    />
+  ));
+  return (
+    <React.Fragment>
+      <MenuContainer>
+        <Li isVisible={true}>
+          <StyledLink
+            activeClass="active"
+            to="staff"
+            spy={true}
+            smooth={true}
+            duration={500}
+          >
+            {data.staff}
+          </StyledLink>
+        </Li>
+        <Li isVisible={true}>
+          <StyledLink
+            activeClass="active"
+            to="PhD"
+            spy={true}
+            smooth={true}
+            duration={500}
+          >
+            {data.phD}
+          </StyledLink>
+        </Li>
+        <Li isVisible={true}>
+          <StyledLink
+            activeClass="active"
+            to="researchers"
+            spy={true}
+            smooth={true}
+            duration={500}
+          >
+            {data.researchers}
+          </StyledLink>
+        </Li>
+      </MenuContainer>
+
+      <Element name="staff" className="element">
+        <H2>{data.staff}</H2>
+      </Element>
+      {people}
+      <Element name="PhD" className="element">
+        <H2>{data.phD}</H2>
+      </Element>
+      {students}
+      <Element name="researchers" className="element">
+        <H2>{data.researchers}</H2>
+      </Element>
+      {researchers}
+    </React.Fragment>
+  );
+};
 
 export default People;
 

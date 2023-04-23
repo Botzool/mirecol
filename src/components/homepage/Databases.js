@@ -79,6 +79,12 @@ const Databases = ({ text, isHome }) => (
                 {text.vegetationDatabase}
               </StyledLink>
             </p>
+            <p>
+              <img src={snail} alt="snail" height="30em" />
+              <StyledLink href="https://arcg.is/1yqyGH">
+                {text.malacoDatabase}
+              </StyledLink>
+            </p>
           </DatabasesBox>
         </RightPanel>
       );
