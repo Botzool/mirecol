@@ -14,7 +14,7 @@
     postalAddressHeading: "Postal Address: ",
     physicalAddressHeading: `Physical Address: `,
     postalAddress: "Kotlářská 267/2, 611 37, Brno, Czech Republic",
-    physicalAddress: `Campus Bohunice, building A32, Kamenice 753/5, 625 00, Brno, Czech Republic`,
+    physicalAddress: `Campus Bohunice, building D32, Kamenice 753/5, 625 00, Brno, Czech Republic`,
     links: "Links",
   },
   gallery: {
@@ -85,7 +85,7 @@ export const cz = {
     physicalAddressHeading: `Adresa pracoviště: `,
     postalAddress: "Kotlářská 267/2, 611 37, Brno, Czech Republic",
     physicalAddress: `Univerzitní
-    kampus Bohunice, budova A32, Kamenice 753/5, 625 00, Brno, Česká republika`,
+    kampus Bohunice, budova D32, Kamenice 753/5, 625 00, Brno, Česká republika`,
     links: "Odkazy",
   },
   gallery: {
