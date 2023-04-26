@@ -36,73 +36,49 @@ const Crypto = ({ data }) => {
             <h2>{int === "en" ? en.groupmembers : cz.groupmembers}</h2>
             <div>
               <LinkStyled to="/people/" state={{ person: "horsak" }}>
-                Michal Horsák{" "}
+                Michal Horsák <Mail>horsak@sci.muni.cz</Mail>
               </LinkStyled>
-              <a href="mailto:horsak@sci.muni.cz">horsak@sci.muni.cz</a>
             </div>
             <div>
-              {" "}
               <LinkStyled to="/people/" state={{ person: "nekola" }}>
-                Jeffrey Nekola{" "}
+                Jeffrey Nekola <Mail>nekola@sci.muni.cz</Mail>
               </LinkStyled>
-              <a href="mailto:nekola@sci.muni.cz">nekola@sci.muni.cz</a>
             </div>
             <div>
-              {" "}
               <LinkStyled to="/people/" state={{ person: "horsakova" }}>
-                Veronika Horsáková{" "}
+                Veronika Horsáková <Mail>veronika.horsakova@seznam.cz</Mail>
               </LinkStyled>
-              <a href="mailto:veronika.horsakova@seznam.cz">
-                veronika.horsakova@seznam.cz
-              </a>
             </div>
             <div>
-              {" "}
               <LinkStyled to="/people/" state={{ person: "novakova" }}>
-                Markéta Nováková{" "}
+                Markéta Nováková <Mail>novakova.marke@gmail.com</Mail>
               </LinkStyled>
-              <a href="mailto:novakova.marke@gmail.com">
-                novakova.marke@gmail.com
-              </a>
+              <a href="mailto:novakova.marke@gmail.com"></a>
             </div>
             <div>
-              {" "}
               <LinkStyled to="/people/" state={{ person: "liznarova" }}>
-                Eva Líznarová{" "}
+                Eva Líznarová <Mail>liznarovaeva@centrum.cz</Mail>
               </LinkStyled>
-              <a href="mailto:liznarovaeva@centrum.cz">
-                liznarovaeva@centrum.cz
-              </a>
             </div>
             <div>
-              {" "}
-              <LinkStyled to="/people/" state={{ person: "saito" }}>
-                Takumi Saito{" "}
+              <LinkStyled to="/people/" state={{ person: "takumi" }}>
+                Takumi Saito <Mail>saito.zef@gmail.com</Mail>
               </LinkStyled>
-              <a href="mailto:saito.zef@gmail.com">saito.zef@gmail.com</a>
             </div>
             <div>
-              {" "}
               <LinkStyled to="/people/" state={{ person: "coufal" }}>
-                Radovan Coufal{" "}
+                Radovan Coufal <Mail>radovan.coufal39@seznam.cz</Mail>
               </LinkStyled>
-              <a href="mailto:radovan.coufal39@seznam.cz">
-                radovan.coufal39@seznam.cz
-              </a>
             </div>
             <div>
-              {" "}
               <LinkStyled to="/people/" state={{ person: "nemec" }}>
-                Tomáš Němec{" "}
+                Tomáš Němec <Mail>422930@mail.muni.cz</Mail>
               </LinkStyled>
-              <a href="mailto:422930@mail.muni.cz">422930@mail.muni.cz</a>
             </div>
             <div>
-              {" "}
               <LinkStyled to="/people/" state={{ person: "lorencova" }}>
-                Erika Šlachtová{" "}
+                Erika Šlachtová <Mail>er.slachtova@gmail.com</Mail>
               </LinkStyled>
-              <a href="mailto:er.slachtova@gmail.com">er.slachtova@gmail.com</a>
             </div>
             <h2>{int === "en" ? en.mainResults : cz.mainResults}</h2>
             <UlStyled>{getResults(results.malacologyResults)}</UlStyled>
@@ -144,6 +120,8 @@ export const query = graphql`
 `;
 
 const LinkStyled = styled(Link)`
-  color: ${(props) => props.theme.grey};
   text-decoration: none;
+`;
+const Mail = styled.span`
+  color: black;
 `;

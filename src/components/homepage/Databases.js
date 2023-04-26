@@ -81,7 +81,7 @@ const Databases = ({ text, isHome }) => (
             </p>
             <p>
               <img src={snail} alt="snail" height="30em" />
-              <StyledLink href="https://arcg.is/1yqyGH">
+              <StyledLink href="http://mollusca.sav.sk/malacology/checklist.htm">
                 {text.malacoDatabase}
               </StyledLink>
             </p>
