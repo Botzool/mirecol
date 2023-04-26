@@ -580,15 +580,15 @@ export const results = {
     848, 4661-4671.`,
     `
     Němec, T., & Horsák, M. (2019). Specific damage recognised on land snail shells as a tool for studying
-    predation intensity: differences related to habitat and predator types. Contributions to Zoology, 88, 277-296.`,
-    `
-    Horsáková, V., Nekola, J. C., & Horsák, M. (2019). When is a “cryptic” species not a cryptic species: a
+    predation intensity: differences related to habitat and predator types. Contributions to Zoology, 88, 277-296.`, 
+    `Horsáková, V., Nekola, J. C., & Horsák, M. (2019). When is a “cryptic” species not a cryptic species: a
     consideration from the Holarctic micro-landsnail genus Euconulus (Gastropoda: Stylommatophora). Molecular
     Phylogenetics and Evolution, 132, 307-320.`,
     `
     Nekola, J. C., Chiba, S., Coles, B. F., Drost, C. A., Von Proschwitz, T., & Horsák, M. (2018). A phylogenetic
     overview of the genus Vertigo OF Müller, 1773 (Gastropoda: Pulmonata: Pupillidae: Vertigininae). Malacologia,
     62, 21-161.`,
+    `Horsák, M., Juřičková, L., & Picka, J. (2013) Měkkýši České a Slovenské republiky. Molluscs of the Czech and Slovak Republics. Kabourek, Zlín, 264 pp. (in Czech and English)`,
     `
     Horsák, M. (2006). Mollusc community patterns and species response curves along a mineral richness gradient:
     a case study in fens. Journal of Biogeography, 33, 98-107.`,
@@ -632,8 +632,6 @@ export const results = {
         inter‐regional variation in pH niches of fen mosses. Journal of vegetation science, 27, 352-364.`,
     `Peterka, T., Pleskova, Z., Jirousek, M., & Hajek, M. (2014). Testing floristic and environmental
         differentiation of rich fens on the Bohemian Massif. Preslia, 86, 337-366.`,
-    `
-    Horsák, M., Juřičková, L., & Picka, J. (2013). Měkkýši České a Slovenské republiky. Molluscs of the Czech and Slovak Republics. Kabourek, Zlín, 264 pp. (in Czech and English)`,
     `Jiroušek, M., Poulíčková, A., Kintrová, K., Opravilová, V., Hájková, P., Rybníček, K., ... & Králová, Š. (2013).
         Long‐term and contemporary environmental conditions as determinants of the species composition of
         bog organisms. Freshwater Biology, 58, 2196-2207.`,
