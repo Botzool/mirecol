@@ -99,7 +99,7 @@ export const malacologyTextEn = (
       Tattersfield, Ben Rowson, Thomas Neubauer, Anatoly Schileyko, Ivailo
       Dedov, Igor Balashov, Amy Shrader Van Devender, Robert Wayne Van Devender,
       Marco Bodon, Falco Giusti, Kostas Triantis, Jeffrey Pigati, Bin Ye,
-      Christian Richter‬, Frank Walter, Heike Reise, John M.C. Hutchinson, David
+      Christiane Richter‬, Frank Walter, Heike Reise, John M.C. Hutchinson, David
       Holyoak. And many others...
     </p>
     <p>
@@ -222,7 +222,7 @@ export const malacologyTextCz = (
       Tattersfield, Ben Rowson, Thomas Neubauer, Anatoly Schileyko, Ivailo
       Dedov, Igor Balashov, Amy Shrader Van Devender, Robert Wayne Van Devender,
       Marco Bodon, Falco Giusti, Kostas Triantis, Jeffrey Pigati, Bin Ye,
-      Christian Richter‬, Frank Walter, Heike Reise, John M.C. Hutchinson, David
+      Christiane Richter‬, Frank Walter, Heike Reise, John M.C. Hutchinson, David
       Holyoak. A mnoho dalších...
     </p>
     <p>
