@@ -57,7 +57,7 @@
   },
   {
     name: `Fylogeneze a diverzita bezobratlých`,
-    link: `https://is.muni.cz/predmet/sci/podzim2018/Bi1030]`
+    link: `https://is.muni.cz/predmet/sci/podzim2018/Bi1030`
   },
   {
     name: `Evoluce bezobratlých pro pokročilé`,
