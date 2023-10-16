@@ -23,8 +23,8 @@ export const staffEn = [
     name: `Michal Hájek`,
     email: `hajek@sci.muni.cz`,
     phoneNumber: `549494010`,
-    position: `Group Head, Associate professor`,
-    description: `Michal Hájek is an associated professor in botany at Masaryk University, with a research interest in the diversity of peatland and grassland vegetation and its contemporary and historical determinants. What he especially likes are fascinating universes of sedge-moss calcareous fens and extremely species-rich grasslands in the Carpathians. He studied plant systematics and ecology at Palacký University, Olomouc. His diploma thesis, defended in 1997, concerned wetland vegetation in the White Carpathian Mts, and was published as a monograph in 1998. PhD thesis on spring and spring fen vegetation in relation to environmental factors in the Carpathians flysh range was defended in 2002. Since 2000, appointed as a research scientist (2000-2003) and later as an assistant and associated professor. He is a mascot of the Center for Applied Plant Ecology, a virtual common workplace of Department of Botany and Zoology, Masaryk University, and Department of Vegetation Ecology, Institute of Botany of the Czech Academy of Sciences.`,
+    position: `Group Head, Professor`,
+    description: `Michal Hájek is a professor in botany at Masaryk University, with a research interest in the diversity of peatland and grassland vegetation and its contemporary and historical determinants. What he especially likes are fascinating universes of sedge-moss calcareous fens and extremely species-rich grasslands in the Carpathians. He studied plant systematics and ecology at Palacký University, Olomouc. His diploma thesis, defended in 1997, concerned wetland vegetation in the White Carpathian Mts, and was published as a monograph in 1998. PhD thesis on spring and spring fen vegetation in relation to environmental factors in the Carpathians flysh range was defended in 2002. Since 2000, appointed as a research scientist (2000-2003) and later as an assistant, associated professor and now as a professor. He is a mascot of the Center for Applied Plant Ecology, a virtual common workplace of Department of Botany and Zoology, Masaryk University, and Department of Vegetation Ecology, Institute of Botany of the Czech Academy of Sciences.`,
     researchgate: `https://www.researchgate.net/profile/Michal_Hajek`,
     is: `https://is.muni.cz/osoba/16868`,
     img: hajek
@@ -75,7 +75,7 @@ export const staffEn = [
   {
     id: `hajkova`,
     name: `Petra Hájková`,
-    position: `Researcher`,
+    position: `Assistant professor`,
     description:
       `Petra Hájková studied Plant Systematics and Ecology in Palacký University, Olomouc, and was graduated in 1999. Her master thesis was devoted to bryoflora and plant communities of fens and fen meadows in the Hostýnské vrchy Mts. She continued as postgradual student in Masaryk University, Brno. Her PhD thesis concerned ecology and palaeoecology of wetlands in the Western Carpathians, and was defended in 2005. Presently, she is a research assistant in Masaryk University, Brno and in Institute of Botany, Czech Academy of Sciences. Her research interests are phytosociology, ecology and palaeoecology of mires, springs and wet meadows in the Western Carpathians and in Bulgaria. A special attention is paid to bryophytes.`,
     email: `buriana@sci.muni.cz`,
@@ -262,8 +262,8 @@ export const staffCz = [
     name: `Michal Hájek`,
     email: `hajek@sci.muni.cz`,
     phoneNumber: `549494010`,
-    position: `Vedoucí skupiny, docent`,
-    description: `Michal Hájek je docent v oboru botanika na Masarykově univerzitě v Brně, kde vede Pracovní skupinu pro výzkum rašelinišť. Jeho vědecký výzkum je zaměřen na diverzitu rašeliništní a luční vegetace a současné a historické činitele, které ji předurčují. Co má obzvláště rád, jsou fascinující vesmíry ostřicovomechových vápnitých slatinišť a extrémně druhově bohatých luk v Karpatech. Studoval obor Systematická botanika a ekologie na Universitě Palackého v Olomouci. Diplomovou práci o mokřadní vegetaci Bílých Karpat obhájil v roce 1997. Doktorská práce se zabývala vegetací prameništních slatinišť Západních Karpat ve vztahu k faktorům prostředí a byla obhájena v roce 2002. Od roku 2000 pracoval na Masarykově univerzitě jako odborný pracovník, od roku 2003 jako odborný asistent a později jako docent. Menší úvazek měl i na Botanickém ústavu Akademie věd České republiky. Je maskotem Centra aplikované ekologie rostlin, virtuálního společného pracoviště Ústavu botaniky a zoologie Masarykovy univerzity a Oddělení vegetační ekologie Botanického ústavu Akademie věd ČR.`,
+    position: `Vedoucí skupiny, profesor`,
+    description: `Michal Hájek je profesor v oboru botanika na Masarykově univerzitě v Brně, kde vede Pracovní skupinu pro výzkum rašelinišť. Jeho vědecký výzkum je zaměřen na diverzitu rašeliništní a luční vegetace a současné a historické činitele, které ji předurčují. Co má obzvláště rád, jsou fascinující vesmíry ostřicovomechových vápnitých slatinišť a extrémně druhově bohatých luk v Karpatech. Studoval obor Systematická botanika a ekologie na Universitě Palackého v Olomouci. Diplomovou práci o mokřadní vegetaci Bílých Karpat obhájil v roce 1997. Doktorská práce se zabývala vegetací prameništních slatinišť Západních Karpat ve vztahu k faktorům prostředí a byla obhájena v roce 2002. Od roku 2000 pracoval na Masarykově univerzitě jako odborný pracovník, od roku 2003 jako odborný asistent, později jako docent a nyní jako profesor. Menší úvazek měl i na Botanickém ústavu Akademie věd České republiky. Je maskotem Centra aplikované ekologie rostlin, virtuálního společného pracoviště Ústavu botaniky a zoologie Masarykovy univerzity a Oddělení vegetační ekologie Botanického ústavu Akademie věd ČR.`,
     researchgate: `https://www.researchgate.net/profile/Michal_Hajek`,
     is: `https://is.muni.cz/osoba/16868`,
     img: hajek
@@ -314,7 +314,7 @@ export const staffCz = [
   {
     id: `hajkova`,
     name: `Petra Hájková`,
-    position: `Odborná pracovnice`,
+    position: `Odborná asistentka`,
     description: `Petra Hájková studovala obor Systematická biologie a ekologie na Přírodovědecké fakultě Univerzity Palackého v Olomouci. Její diplomová práce se týkala rostlinných společenstev slatinišť a mokřadních luk a jejich bryoflory. Ve studiu pokračovala jako postgraduální student na Katedře botaniky PřF MU v Brně. Její disertační práce se týkala ekologie a palaeoekologie mokřadní vegetace v Západních Karpatech a byla obhájena v únoru 2005. V současné době je odborným pracovníkem na PřF MU v Brně a na Botanickém ústavu Akademie Věd ČR. Ve svém výzkumu se zaměřuje především na fytocenologii, ekologii a paleoekologii rašelinišť, pramenišť a mokrých luk v Západních Karpatech a na Balkáně (především v Bulharsku). Zvláštní pozornost věnuje mechorostům.`,
     email: `buriana@sci.muni.cz`,
     phoneNumber: `549494010`,

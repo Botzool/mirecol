@@ -42,6 +42,10 @@ export const databasesCz = [
 ];
 export const media = [
   {
+    name: `16/09/2023 Slatiniště - mizející paměť krajiny (Za oponou přírody 2/5), ČT2`,
+    link: `https://www.ceskatelevize.cz/porady/13608570834-za-oponou-prirody/320298380160002/`,
+  },
+  {
     name: `07/11/2022 Člověk a krajina v proměnách věků, YouTube`,
     link: `https://www.youtube.com/watch?v=3CBVjcywJ7M`,
   },
