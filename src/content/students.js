@@ -1,10 +1,39 @@
 ﻿import simova from "../images/people/simova.jpg";
 import prochazkova from "../images/people/prochazkova.jpg";
-import nemec from "../images/people/nemec.jpg";
 import coufal from "../images/people/coufal.jpg";
 import winterova from "../images/people/winterova.jpg";
+import kafimola from "../images/people/kafimola.jpg";
+import slachova from "../images/people/slachova.jpg";
+import svobodova from "../images/people/svobodova.jpg";
 
 export const studentsEn = [
+  {
+    id: `slachova`,
+    name: `Karolína Slachová`,
+    email: `473661@mail.muni.cz`,
+    description: `Karolína Slachová studied both the bachelor's and the master's degree programme Ecological and Evolutionary Biology at the Faculty of Science, Masaryk University in Brno. She specializes in vegetation ecology and during bachelor´s and master´s studies she was dealing with grasslands in the area of the White Carpathian Mts. She continues to focus on this vegetation also during her PhD studies, she intends to find out more about its determining factors, distribution and occurrence in other European areas (e.g. in the Balkan Peninsula).`,
+    researchgate: `https://www.researchgate.net/scientific-contributions/Karolina-Slachova-2217674202`,
+    is: `https://is.muni.cz/auth/osoba/473661`,
+    img: slachova,
+  },
+  {
+    id: `kafimola`,
+    name: `Sara Kafimola`,
+    email: `554659@mail.muni.cz`,
+    description: `Sara Kafimola studied Zoology for her bachelor's degree. Then, in her Master's, she specialized in taxonomy and animal systematics. Her Master's thesis focused on the molecular phylogeny of the Anatolian rock lizard in the Middle East. She is a PhD student at the Department of botany and zoology, field Ecology. In her Ph.D. thesis, she works on the role of climatic stability and refugia on the genetic diversity of micro land-snails across the Holarctic.`,
+    researchgate: `https://www.researchgate.net/profile/Sara_Kafimola`,
+    is: `https://is.muni.cz/auth/osoba/554659`,
+    img: kafimola,
+  },
+  {
+    id: `svobodova`,
+    name: `Kristina Svobodová`,
+    email: `470305@mail.muni.cz`,
+    description: `Kristina Svobodová graduated from the Faculty of Science at Masaryk University, majoring in Ecological and Evolutionary Biology. In her bachelor thesis she focused on the role of dead wood and the presence of beech trees in preserving the diversity of forest malacofauna, especially in spruce monocultures. She also devoted herself to this topic during her follow-up master's studies of zoology, which she completed in 2023. Now, during her doctoral studies at the Department of botany and zoology, she is studying the gastropod diversity of Central European forests from a contemporary and historical perspective. She would like to contribute to maintaining species richness of spruce monocultures and help to expand knowledge of nature in the Holocene using paleoecological reconstructions.`,
+    researchgate: ``,
+    is: `https://is.muni.cz/auth/osoba/470305`,
+    img: svobodova,
+  },
   {
     id: `coufal`,
     name: `Radovan Coufal`,
@@ -13,20 +42,6 @@ export const studentsEn = [
     researchgate: `https://www.researchgate.net/profile/Radovan_Coufal2`,
     is: `https://is.muni.cz/auth/osoba/241288`,
     img: coufal,
-  },
-  {
-    id: `nemec`,
-    name: `Tomáš Němec`,
-    email: `422930@mail.muni.cz`,
-    description: `Tomáš Němec studied Zoology at Masaryk University in Brno, graduating in 2018. During
-    Bachelor and Master studies he focused on identifying land snail predators based on empty shell
-    analyses. In his Master thesis he compared predation caused by various predators across five
-    different habitat types. Currently he is a PhD student at the Department of Botany and Zoology,
-    field Ecology. His thesis should handle with role of land snails in food chains. Apart from
-    malacophagous predators, diet of land snails should also be evaluated using a specific approach
-    consisting in stable isotope analyses.`,
-    is: `https://is.muni.cz/auth/osoba/422930`,
-    img: nemec,
   },
   {
     id: `prochazkova`,
@@ -71,28 +86,31 @@ export const studentsEn = [
 
 export const studentsCz = [
   {
-    id: `coufal`,
-    name: `Radovan Coufal`,
-    email: `241288@mail.muni.cz`,
-    description: `Radovan Coufal vystudoval bakalářský obor Ekologie a ochrana životního prostředí na Katedře ekologie Univerzity Palackého v Olomouci a následně magisterské studium Hydrobiologie (2014-2019). Ve své magisterské práci se věnoval společenstvům slatiništních měkkýšů na Českomoravské vysočině.  V současné době je doktorandem na Ústavu botaniky a zoologie a ve své dizertační práci se zabývá vlivem fragmentace a sukcese na slatiništní měkkýší společenstva s důrazem na glaciální relikty.`,
-    researchgate: `https://www.researchgate.net/profile/Radovan_Coufal2`,
-    is: `https://is.muni.cz/auth/osoba/241288`,
-    img: coufal,
+    id: `slachova`,
+    name: `Karolína Slachová`,
+    email: `473661@mail.muni.cz`,
+    description: `Karolína Slachová vystudovala bakalářský a magisterský program Ekologická a evoluční biologie na Přírodovědecké fakultě Masarykovy univerzity v Brně. Jejím zaměřením je vegetační ekologie a ve své bakalářské i diplomové práci se zabývala loukami na území Bílých Karpat. Při svém doktorském studiu se nadále věnuje této vegetaci, zajímá ji zejména její rozšíření i jinde v Evropě (například na balkánském poloostrově) a faktory, které jej předurčují.`,
+    researchgate: `https://www.researchgate.net/scientific-contributions/Karolina-Slachova-2217674202`,
+    is: `https://is.muni.cz/auth/osoba/473661`,
+    img: slachova,
   },
   {
-    id: `nemec`,
-    name: `Tomáš Němec`,
-    email: `422930@mail.muni.cz`,
-    description: `Tomáš Němec vystudoval Zoologii na Masarykově univerzitě v Brně, promoval v roce 2018.
-      Během bakalářských a magisterských studií se zaměřoval na studii predátorů suchozemských
-      plžů, které lze identifikovat na základě analýz prázdných ulit. Ve své diplomové práci porovnával
-      predační chování různých predátorů v pěti odlišných typech biotopů. V současné době je
-      doktorandem na Ústavu botaniky a zoologie, obor Ekologie. Jeho práce by se měla zabývat
-      úlohou suchozemských plžů v potravních řetězcích. Vyjma predátorů by měla tato práce
-      hodnotit rovněž potravní nároky suchozemských plžů, a to především pomocí metody
-      spočívající v analýze stabilních izotopů.`,
-    is: `https://is.muni.cz/auth/osoba/422930`,
-    img: nemec,
+    id: `kafimola`,
+    name: `Sara Kafimola`,
+    email: `554659@mail.muni.cz`,
+    description: `Sara Kafimola získala bakalářský titul v oboru Zoologie. V magisterském studiu se poté specializovala na taxonomii a systematiku živočichů. Ve své diplomové práci se věnovala molekulární fylogenezi ještěrek anatolských na Blízkém východě. Nyní je studentkou doktorského programu na Ústavu botaniky a zoologie, obor Ekologie. Ve svém doktorském studiu se zabývá vlivem klimatické stability a refugií na genetickou diverzitu drobných suchozemských plžů holarktické oblasti.`,
+    researchgate: `https://www.researchgate.net/profile/Sara_Kafimola`,
+    is: `https://is.muni.cz/auth/osoba/554659`,
+    img: kafimola,
+  },
+  {
+    id: `svobodova`,
+    name: `Kristina Svobodová`,
+    email: `470305@mail.muni.cz`,
+    description: `Kristina Svobodová vystudovala na Přírodovědecké fakultě Masarykovy univerzity obor Ekologická a evoluční biologie. V rámci své bakalářské práce se zaměřila na úlohu mrtvého dřeva a přítomnosti buku pro zachování diverzity lesní malakofauny především ve smrkových monokulturách. Tomuto tématu se věnovala i při navazujícím magisterském studiu oboru zoologie, které dokončila v roce 2023. Nyní se při svém doktorském studiu na Ústavu botaniky a zoologie věnuje otázce diverzity plžů středoevropských lesů v současném a historickém pohledu. Ráda by přispěla k udržení druhové bohatosti smrkových monokultur a pomohla rozšířit poznání přírody v Holocénu pomocí paleoekologických rekonstrukcí.`,
+    researchgate: ``,
+    is: `https://is.muni.cz/auth/osoba/470305`,
+    img: svobodova,
   },
   {
     id: `prochazkova`,
