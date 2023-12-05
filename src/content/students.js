@@ -113,6 +113,15 @@ export const studentsCz = [
     img: svobodova,
   },
   {
+    id: `coufal`,
+    name: `Radovan Coufal`,
+    email: `241288@mail.muni.cz`,
+    description: `Radovan Coufal vystudoval bakalářský obor Ekologie a ochrana životního prostředí na Katedře ekologie Univerzity Palackého v Olomouci a následně magisterské studium Hydrobiologie (2014-2019). Ve své magisterské práci se věnoval společenstvům slatiništních měkkýšů na Českomoravské Vrchovině. V současné době je doktorandem na Ústavu botaniky a zoologie a ve své dizertační práci se zabývá vlivem fragmentace a sukcese na slatiništní měkkýší společenstva s důrazem na glaciální relikty.`,
+    researchgate: `https://www.researchgate.net/profile/Radovan_Coufal2`,
+    is: `https://is.muni.cz/auth/osoba/470305`,
+    img: coufal,
+  },
+  {
     id: `prochazkova`,
     name: `Jana „malunka“ Procházková`,
     email: `jana.prochazkova@mail.muni.cz`,
@@ -122,7 +131,7 @@ export const studentsCz = [
       lesního hospodářství) na strukturu společenstev epifytických mechorostů, je také výzkumným
       směrem jejího dizertačního projektu. V současné době se snaží zkombinovat vědu a mateřství :-).`,
     researchgate: `https://www.researchgate.net/profile/Jana_Prochazkova6`,
-    is: `https://is.muni.cz/auth/osoba/jana.prochazkova`,
+    is: `https://is.muni.cz/auth/osoba/241288`,
     img: prochazkova,
   },
   {
