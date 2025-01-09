@@ -42,6 +42,10 @@ export const databasesCz = [
 ];
 export const media = [
   {
+    name: `15/09/2024 Kampaň proti přírodě, Česká televize`,
+    link: `https://www.ceskatelevize.cz/porady/1095913550-nedej-se/224562248410022/`,
+  },
+  {
     name: `16/09/2023 Slatiniště - mizející paměť krajiny (Za oponou přírody 2/5), ČT2`,
     link: `https://www.ceskatelevize.cz/porady/13608570834-za-oponou-prirody/320298380160002/`,
   },

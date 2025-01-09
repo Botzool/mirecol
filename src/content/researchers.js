@@ -1,7 +1,17 @@
 ﻿import lorencova from "../images/people/lorencova.jpg";
 import nemec from "../images/people/nemec.jpg";
+import takumi from "../images/people/takumi.jpg";
 
 export const researchersEn = [
+  {
+    id: `takumi`,
+    name: `Takumi Saito`,
+    email: `saito.zef@gmail.com`,
+    description: `Takumi Saito received his Ph.D. in 2019 at the Graduate School of Life Sciences, Tohoku University in Tokyo, Japan. Then, he worked at Toho University in Chiba, Japan, as a Postdoctoral Fellowship of Japan Society for the Promotion of Science (JSPS) and also worked at Tohoku University as Postdoctoral Researcher. He has focused on the diversification process of non-marine mollusks in Japan, which is a biodiversity hotspot of non-marine mollusks. In particular, using freshwater mollusks as model systems, he clarified the importance of geographic barriers and dispersal over the barriers to diversification. He is also interested in studying the taxonomy and conservation of Japanese freshwater mollusks, and the spread of non-native species. At Masaryk University, he is studying the biogeography of non-marine mollusks widely distributed in the Northern Hemisphere, particularly the relationship between climate change and diversification.`,
+    researchgate: `https://www.researchgate.net/profile/Takumi-Saito-5`,
+    is: `https://is.muni.cz/osoba/saito`,
+    img: takumi,
+  },
   {
     id: `nemec`,
     name: `Tomáš Němec`,
@@ -35,6 +45,15 @@ export const researchersEn = [
 ];
 
 export const researchersCz = [
+  {
+    id: `takumi`,
+    name: `Takumi Saito`,
+    email: `saito.zef@gmail.com`,
+    description: `Takumi Saito získal titul Ph.D. v roce 2019 na Graduate School of Life Sciences, Tohoku University v Tokiu (Japonsko). Později pracoval na University in Chiba (Japonsko) v rámci postgraduálního programu “Postdoctoral Fellowship of Japan Society for the Promotion of Science (JSPS)” a dále na Tohoku University jako odborný postgraduální pracovník. Zabývá se procesem diverzifikace měkkýšů (vyjma mořských) na území Japonska, které patří mezi místa s extrémně vysokou diverzitou měkkýšů. S využitím sladkovodních měkkýšů jakožto modelových organizmů poukázal na význam geografických bariér a šíření přes tyto bariéry pro diverzifikaci měkkýšů. Zajímá se také o taxonomii a ochranu sladkovodních měkkýšů Japonska a šíření nepůvodních druhů. Na Masarykově Univerzitě se věnuje biogeografii kontinentálních měkkýšů severní polokoule, s důrazem na vztah mezi klimatickou změnou a diverzifikací.`,
+    researchgate: `https://www.researchgate.net/profile/Takumi-Saito-54`,
+    is: `https://is.muni.cz/osoba/saito`,
+    img: takumi,
+  },
   {
     id: `nemec`,
     name: `Tomáš Němec`,

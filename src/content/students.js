@@ -1,6 +1,5 @@
 ﻿import simova from "../images/people/simova.jpg";
 import prochazkova from "../images/people/prochazkova.jpg";
-import coufal from "../images/people/coufal.jpg";
 import winterova from "../images/people/winterova.jpg";
 import kafimola from "../images/people/kafimola.jpg";
 import slachova from "../images/people/slachova.jpg";
@@ -33,15 +32,6 @@ export const studentsEn = [
     researchgate: ``,
     is: `https://is.muni.cz/auth/osoba/470305`,
     img: svobodova,
-  },
-  {
-    id: `coufal`,
-    name: `Radovan Coufal`,
-    email: `241288@mail.muni.cz`,
-    description: `Radovan Coufal studied Ecology bachelors program and Hydrobiology masters program at the Department of Ecology, Palacký University, Olomouc (2014-2019). In his masters thesis, he studied fen mollusc communities on Bohemian-Moravian Highlands. Currently, he is a PhD student at the Department of Botany and Zoology, Masaryk university and in his PhD thesis he is studying effect of fragmentation and succession on fen mollusc communities with attention to glacial relics.`,
-    researchgate: `https://www.researchgate.net/profile/Radovan_Coufal2`,
-    is: `https://is.muni.cz/auth/osoba/241288`,
-    img: coufal,
   },
   {
     id: `prochazkova`,

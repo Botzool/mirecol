@@ -1,9 +1,51 @@
-﻿import nuclearDNA from "../images/projects/nuclearDNA.jpg";
+﻿import biodiv from "../images/projects/biodiv.jpg";
+import stability from "../images/projects/stability.jpg";
+import frag from "../images/projects/frag.jpg";
 import calibrations from "../images/projects/calibrations.jpg";
 
 export const projectsEn = {
   
   currentProjectsList: [
+    {
+      title: `Understanding the current threats to wetland biodiversity: from micro- to macroorganisms, and fossils to population genetics`,
+      identification: `GA25-15831S`,
+      applicant: `Mgr. Veronika Horsáková, Ph.D.`,
+      duration: `1/2025 — 12/2027`,
+      investor: `Czech Science Foundation – Standard Projects`,
+      abstract: `The current acceleration of ecosystem deterioration and biodiversity loss is vividly debated but poorly understood. Some sensitive insular habitats such as Central European fens are declining at an unprecedented rate. This requires an analysis of the interactions between abiotic factors, and an evaluation of taxon-specific responses, including those of microscopic and short-lived organisms. In this project, we will repeat a survey of 60 Western Carpathian fens that were studied 20-25 years ago by essentially the same team for abiotic factors and communities of diatoms, bryophytes, vascular plants, and molluscs. The ecosystem conditions on a longer time scale (ca. 150 years) will be reconstructed using radiocarbon-dated sediments from the same sites. For six species of three taxonomic groups, the ddRAD method will be used to associate the population genetics with ecosystem stability. This unique integration will enable us to quantify the rate of recent changes, reveal time-lags in the responses of biodiversity components, and bring new insights into fen management and conservation.`,
+      link: `https://www.muni.cz/vyzkum/projekty/73470`,
+      img: biodiv
+    },
+    {
+      title: `Biodiversity related to environmental stability: A novel test based on boreal oceanic land-snail communities and their genetics`,
+      identification: `GA25-15569S`,
+      applicant: `doc. Jeffrey Nekola, Ph.D.`,
+      duration: `1/2025 — 12/2027`,
+      investor: `Czech Science Foundation – Standard Projects`,
+      abstract: `The stability of environmental conditions is considered one of the main factors determining the
+distribution of diversity on Earth. However, it is difficult to remove the simultaneous influence of
+other factors such as temperature which impacts metabolic and mutation rate. A clean test of
+the hypothesis therefore requires control of climate among areas with different stability during
+the glacial-interglacial cycle. Based on a preliminary analysis from land snails, between current
+and LGM conditions the three regions of boreal-oceanic climate differ in their stability, ranging
+from highly (north Pacific) to moderately stable (Europe) to unstable (eastern North America).
+Preliminary analyses of their land snail genetic and species diversity allow us to hypothesize
+that this system does provide unique perspectives into biodiversity drivers, with stable zones
+having higher genetic diversity and higher community richness and species turnover.
+`,
+      link: `https://www.muni.cz/en/research/projects/73617`,
+      img: stability
+    },
+    {
+      title: `How do communities of different organisms respond to insularity in a fragmented mire habitat?`,
+      identification: `GA24-10844S`,
+      applicant: `Prof. Mgr. Michal Hájek Ph.D.`,
+      duration: `1/2024 - 12/2026`,
+      investor: `Czech Science Foundation – Standard Projects`,
+      abstract: `Fens are naturally insular habitats that have recently experienced rapid deterioration. To effectively protect and restore them, we need to know which processes of island biogeography are essential for their key biotic communities. Our goal is to test the position of communities of eight contrasting groups of fen micro- and macroorganisms on the gradient of insularity, using original data collected on the same fen patches, and to quantify the dependence of fen habitat remnants on connectivity or isolation. The groups of organisms were selected based on known life-history traits. They represent different dispersal and persistence strategies, life spans, and degrees of habitat specialisation. Four are commonly fossilised in fens. Thus we will consider the legacy effects examined for individual fens using radiocarbon dating and subfossil biotic compositions. We will work with poor and rich fens at a regional scale, with exploratory scaling up to a European scale for plants. Besides theoretical outputs, we expect the application of results in habitat conservancy and restoration.`,
+      link: `https://www.muni.cz/en/research/projects/71557`,
+      img: frag
+    },
     {
       title: `New calibration and indicator systems for reconstruction of Holocene climate corrected by local habitat development`,
       identification: `GA23-05132S`,
@@ -13,20 +55,17 @@ export const projectsEn = {
       abstract: `Holocene climate changes are among the most important drivers of modern ecosystems. Data on ecosystem responses to climate change provide important information for modelling their future responses and optimising conservation strategies. This project will develop some new and validate the conventional calibration and indicator systems for climate reconstruction based on various biotic and abiotic proxies. The methods used include (i) transfer functions of modern calibration datasets applied to the species composition of fossil samples; (ii) stable isotope analyses from different fossil materials; and (iii) global circulation model simulations with decadal temporal resolution (CCSM3 model). They will be applied and tested on selected precise fossil records in the Western Carpathians. The main objectives of the project are both the reconstruction of Holocene climate parameters and the comparison of reconstruction consistency between individual methods and proxies. By validating their applicability and limitations, we will make recommendations of general value.`,
       link: `https://www.muni.cz/en/research/projects/69459`,
       img: calibrations
-    },
-    {
-      title: `Identifying and optimizing novel nuclear DNA regions for species-level phylogenetic signal in pulmonate snails`,
-      identification: `GA22-23005S`,
-      applicant: `doc. Jeffrey Nekola, Ph.D.`,
-      duration: `1/2022 - 12/2024`,
-      investor: `Czech Science Foundation – Standard Projects`,
-      abstract: `This project’s aim is to employ a novel search strategy to locate additional nDNA regions for species-scale taxonomic revision in land snails, the second largest terrestrial invertebrate group. Targets will be identified by locating Ultra Conserved Elements (UCEs) which flank introns or analogous non-coding regions. We used this strategy to find, design universal primers, amplify product, obtain and align sequence from Intron 8 in the ELAV gene. This region provided the same amount of phylogentic information as previously used species-scale nDNA signals but without multiple copy variation issues in an amplicon of half the size. We will repeat this process at least an additional 24-36 times. Developing multiple nDNA species-scale targets will allow land snail taxonomists across a wide array of budget capacities the ability to empirically confront taxonomic hypotheses. Publication of this general search strategy will also allow other taxonomists the ability to locate empirical species-scale signal across all groups.`,
-      link: `https://www.muni.cz/en/research/projects/64148`,
-      img: nuclearDNA
     }
   ],
 
   completedProjectsList: [
+   {
+      title: `Identifying and optimizing novel nuclear DNA regions for species-level phylogenetic signal in pulmonate snails`,
+      identification: `GA22-23005S`,
+      applicant: `doc. Jeffrey Nekola, Ph.D.`,
+      duration: `1/2022 - 12/2024`,
+      link: `https://www.muni.cz/en/research/projects/64148`
+    },
     {
       title: `Boreal land snail diversification promoted by isolation in space and time`,
       identification: `GA20-18827S`,
@@ -208,6 +247,49 @@ export const projectsCz = {
   
   currentProjectsList: [
 {
+      title: `Porozumění současným hrozbám pro biodiverzitu mokřadů: od mikro- po makroorganismy, od fosilií po populační genetiku `,
+      identification: `GA25-15831S`,
+      applicant: `Mgr. Veronika Horsáková, Ph.D.`,
+      duration: `1/2025 - 12/2027`,
+      investor: `Grantová agentura ČR - Standardní projekty`,
+      abstract: `Současné zrychlování degradace ekosystémů a ztráty biodiverzity je aktuální téma, které vyžaduje intenzivní výzkum. Ohrožená ostrovní stanoviště, jako slatiniště střední Evropy, ubývají dříve nepozorovanou rychlostí. Pochopení těchto změn vyžaduje analýzu interakcí mezi abiotickými faktory a vyhodnocení odpovědí specifických pro jednotlivé taxony, včetně mikroskopických a krátkověkých organismů. V tomto projektu zopakujeme průzkum abiotických faktorů a společenstev rozsivek, mechů, cévnatých rostlin a měkkýšů na 60 slatiništích Západních Karpat, která byla poprvé studována před 20-25 lety takřka stejným týmem. Stanovištní podmínky na delší časové škále (ca. 150 let) budou rekonstruovány pomocí radiokarbonově datovaných sedimentů z modelových lokalit. U šesti druhů tří taxonomických skupin bude s využitím metody ddRAD propojena populační genetika se stanovištní stabilitou. Tato unikátní syntéza umožní kvantifikovat rychlost současných změn, odhalit časové prodlevy v odpovědi jednotlivých složek biodiverzity a poskytnout nový pohled na efektivní ochranu a management těchto stanovišť.
+`,
+      link: `https://www.muni.cz/vyzkum/projekty/73470`,
+      img: biodiv
+    },
+{
+      title: `Biodiverzita v souvislosti se stabilitou podmínek: test založený na společenstvech a genetice plžů boreálních oceanických oblastí `,
+      identification: `GA25-15569S`,
+      applicant: `doc. Jeffrey Nekola, Ph.D.`,
+      duration: `1/2025 - 12/2027`,
+      investor: `Grantová agentura ČR - Standardní projekty`,
+      abstract: `Stabilita podmínek prostředí je považována za jeden z hlavních faktorů určujících rozmístění
+diverzity na Zemi. Obecně je složité odstranit souběžný vliv dalších faktorů, podmiňujících vyšší
+biodiverzitu, jako je teplota, ovlivňující metabolismus a mutační rychlost. Vhodným modelem by
+proto byly oblasti stejného klimatu, ale rozdílné stability podmínek během glaciálníhointerglaciálního
+cyklu. Takovými se podle předběžné analýzy diverzity suchozemských plžů jeví
+tři oblasti boreálně oceanického klimatu severní polokoule. Jejich podmínky se při srovnání
+současného klimatu a klimatu posledního glaciálního maxima jeví od velmi stabilních
+(severního Pacifiku), přes středně stabilní (Evropa), až po nestabilní (východní Severní
+Amerika). Na základě předběžných analýz fylogeneze a ekologie společenstev suchozemských
+plžů předpokládáme, že studium těchto oblastí může poskytnout nový vhled do procesů
+formujících biodiverzitu napříč jejími úrovněmi, kdy stabilní zóny mají vyšší genetickou diverzitu,
+rychlejší nasycení jednotlivými druhy, a vyšší bohatost a druhovou obměnu společenstev.
+`,
+      link: `https://www.muni.cz/en/research/projects/73617`,
+      img: stability
+    },
+{
+      title: `Jak odpovídají společenstva různých organizmů na ostrovnost fragmentovaného rašeliništního biotopu?`,
+identification: `GA24-10844S `,
+      applicant: `Prof. Mgr. Michal Hájek Ph.D.`,
+      duration: `1/2024 - 12/2026`,
+      investor: `Grantová agentura ČR - Standardní projekty`,
+      abstract: `Rašeliniště jsou přirozeně ostrovními biotopy, které v současnosti degradují. Abychom je mohli účinně chránit a obnovovat, potřebujeme vědět, které ostrovně-biogeografické procesy jsou důležité pro jejich klíčová biotická společenstva. Našim cílem je testovat pozici společenstev osmi různých skupin rašeliništních organismů na gradientu ostrovnosti pomocí původních dat, sbíraných na stejných místech, a kvantifikovat závislost společenstev posledních zbytků rašelinišť v krajině na jejich konektivitě a izolaci. Studované skupiny jsme vybrali na základě jejich biologických vlastností. Reprezentují různé strategie šíření a perzistence, různou délku života a různý stupeň specializace. Zbytky čtyř z nich se ukládají v rašelině a lze je určit, proto můžeme do testování zahrnout i vliv historie lokalit, zjišťovaný datováním a analýzou subfosilních společenstev. Budeme pracovat s přechodovými rašeliništi a nevápnitými slatiništi na regionální škále, ale pro rostliny přesáhneme i do evropské škály. Kromě teoretických výstupů očekáváme aplikace výsledků do ochrany biotopů a ekologické obnovy.`,
+      link: `https://www.muni.cz/en/research/projects/71557`,
+      img: frag
+    },
+{
       title: `Nové kalibrační a indikační systémy pro rekonstrukci holocenního klimatu zohledňující lokální vývoj`,
 identification: `GA23-05132S`,
       applicant: `Mgr. Petra Hájková, Ph.D.`,
@@ -216,20 +298,17 @@ identification: `GA23-05132S`,
       abstract: `Změny klimatu během holocénu jsou jedním z klíčových faktorů, které formovaly složení dnešních ekosystémů. Znalost míry schopnosti ekosystémů odolávat nebo se přizpůsobovat změnám klimatu je důležitá pro modelování jejich budoucího vývoje a pro plánování strategií v ochraně přírody a krajiny. V tomto projektu chceme vyvinout nové a testovat konvenční kalibrační a indikační systémy pro rekonstrukci klimatu. Ty zahrnují (i) recentní kalibrační soubory aplikované na fosilní druhová data pomocí tzv. přenosových funkcí, (ii) analýzy stabilních izotopů v různých fosilních materiálech a (iii) simulace globálních cirkulačních modelů s časovým rozlišením desítek let (CCSM3 model). Budou aplikovány na referenční profily s precizním fosilním záznamem v Západních Karpatech. Cílem projektu bude jak rekonstruovat holocenní změny klimatu, tak také porovnat rekonstrukce založené na různých proxy metodách a na základě toho dát obecná doporučení o použitelnosti těchto metod, jejich spolehlivosti či možných omezení v paleoekologickém výzkumu.`,
       link: `https://www.muni.cz/vyzkum/projekty/69459`,
       img: calibrations
-    },
-{
-      title: `Identifikace a optimalizace nových úseků jaderné DNA pro fylogenetickou analýzu plicnatých plžů na druhové úrovni `,
-      identification: `GA22-23005S`,
-      applicant: `doc. Jeffrey Nekola, Ph.D.`,
-      duration: `1/2022 - 12/2024`,
-      investor: `Grantová agentura ČR - Standardní projekty`,
-      abstract: `Cílem tohoto projektu je zavedení nové strategie vyhledávání úseků jaderné DNA pro taxonomickou revizi suchozemských plžů, druhé nejpočetnější skupiny terestrických bezobratlých, na druhové úrovni. Markery budou identifikovány pomocí vyhledávání Ultra Conserved Elements (UCEs), které ohraničují některé introny nebo jiné nekódující sekvence. Tento postup jsme použili pro nalezení, návrh univerzálních primerů, amplifikaci produktu, získání a přiložení sekvence intronu 8 genu ELAV. Tento region poskytl stejné množství fylogenetické informace jako dva dříve používané jaderné markery, avšak bez problémů spojených s nežádoucími vícečetnými kopiemi, navíc při poloviční délce fragmentu. Tento postup budeme opakovat nejméně 24-36krát. Vývoj sady jaderných markerů pro druhové rozlišení umožní taxonomům suchozemských plžů po celém světě finančně dostupným způsobem empiricky konfrontovat taxonomické hypotézy. Publikace tohoto obecného schématu jej umožní aplikovat při detekci druhově specifického signálu také u ostatních skupin organizmů.`,
-      link: `https://www.muni.cz/en/research/projects/64148`,
-      img: nuclearDNA
     }
   ],
   
   completedProjectsList: [
+   {
+      title: `Identifikace a optimalizace nových úseků jaderné DNA pro fylogenetickou analýzu plicnatých plžů na druhové úrovni`,
+      identification: `GA22-23005S`,
+      applicant: `doc. Jeffrey Nekola, Ph.D`,
+      duration: `1/2022 - 12/2024`,
+      link: `https://www.muni.cz/en/research/projects/64148`
+    }, 
     {
       title: `Diverzifikace boreálních suchozemských plžů podmíněná izolací v prostoru a čase`,
       identification: `GA20-18827S`,
