@@ -17,7 +17,6 @@ import chattova from "../images/people/chattova.jpg";
 import pleskova from "../images/people/pleskova.jpg";
 import coufal from "../images/people/coufal.jpg";
 
-
 export const staffEn = [
   {
     id: `hajek`,
@@ -458,5 +457,4 @@ export const staffCz = [
     is: `https://is.muni.cz/auth/osoba/470305`,
     img: coufal,
   },
-
 ];
