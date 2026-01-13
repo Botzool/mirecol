@@ -9,7 +9,7 @@ export const projectsEn = {
       title: `Climate-driven future ecosystem loss and range shift in ombrotrophic bogs and implications for conservation, restoration, and carbon storage`,
       identification: `GN25-17288O`,
       applicant: `Mgr. Patrícia Singh, Ph.D.`,
-      duration: `9/2025 - 8/2028`,
+      duration: `9/2025 — 8/2028`,
       investor: `Czech Science Foundation – Outgoing Postdoctoral Fellowship`,
       abstract: `This project highlights the critical importance of addressing the impact of climate change on ecosystems, focusing specifically on ombrotrophic peatlands - bogs. It emphasizes the urgent need for conservation and restoration efforts to mitigate carbon emissions and preserve biodiversity, as various researchers and organizations outlined. The proposal suggests using Ecological Niche Modeling (ENM) to predict future shifts in bog distribution under different climate change scenarios, acknowledging the limitations of current ENM approaches and proposing innovative solutions to enhance prediction accuracy. Historical climate data and hierarchical modelling are suggested to address these limitations effectively. The project aims to provide accessible forecasts of habitat loss and shifts in distribution through user-friendly web applications, enabling informed decision-making for bog protection and restoration efforts. The proposal demonstrates a comprehensive approach to addressing climate change's challenges on bog ecosystems.`,
       link: `https://www.muni.cz/vyzkum/projekty/74767`,
@@ -40,8 +40,7 @@ and LGM conditions the three regions of boreal-oceanic climate differ in their s
 from highly (north Pacific) to moderately stable (Europe) to unstable (eastern North America).
 Preliminary analyses of their land snail genetic and species diversity allow us to hypothesize
 that this system does provide unique perspectives into biodiversity drivers, with stable zones
-having higher genetic diversity and higher community richness and species turnover.
-`,
+having higher genetic diversity and higher community richness and species turnover.`,
       link: `https://www.muni.cz/en/research/projects/73617`,
       img: stability,
     },
@@ -49,7 +48,7 @@ having higher genetic diversity and higher community richness and species turnov
       title: `How do communities of different organisms respond to insularity in a fragmented mire habitat?`,
       identification: `GA24-10844S`,
       applicant: `Prof. Mgr. Michal Hájek Ph.D.`,
-      duration: `1/2024 - 12/2026`,
+      duration: `1/2024 — 12/2026`,
       investor: `Czech Science Foundation – Standard Projects`,
       abstract: `Fens are naturally insular habitats that have recently experienced rapid deterioration. To effectively protect and restore them, we need to know which processes of island biogeography are essential for their key biotic communities. Our goal is to test the position of communities of eight contrasting groups of fen micro- and macroorganisms on the gradient of insularity, using original data collected on the same fen patches, and to quantify the dependence of fen habitat remnants on connectivity or isolation. The groups of organisms were selected based on known life-history traits. They represent different dispersal and persistence strategies, life spans, and degrees of habitat specialisation. Four are commonly fossilised in fens. Thus we will consider the legacy effects examined for individual fens using radiocarbon dating and subfossil biotic compositions. We will work with poor and rich fens at a regional scale, with exploratory scaling up to a European scale for plants. Besides theoretical outputs, we expect the application of results in habitat conservancy and restoration.`,
       link: `https://www.muni.cz/en/research/projects/71557`,
@@ -87,7 +86,7 @@ having higher genetic diversity and higher community richness and species turnov
       link: `https://www.muni.cz/vyzkum/projekty/51247`,
     },
     {
-      title: `Current and future diversity of European fens in a changing worlds`,
+      title: `Current and future diversity of European fens in a changing world`,
       identification: `GA19-01775S`,
       applicant: `doc. Mgr. Michal Hájek, Ph.D.`,
       duration: `1/2019 - 12/2021`,
@@ -136,24 +135,21 @@ having higher genetic diversity and higher community richness and species turnov
       link: `https://www.muni.cz/vyzkum/projekty/31765`,
     },
     {
-      title: `Environmental gradients, vegetation dynamics and landscape changes in the West Carpathians from the
-Late Glacial up to the present time`,
+      title: `Environmental gradients, vegetation dynamics and landscape changes in the West Carpathians from the Late Glacial up to the present time`,
       identification: `GAP504/11/0429`,
       applicant: `Mgr. Petra Hájková, Ph.D.`,
       duration: `1/2011 - 12/2015`,
       link: `https://www.muni.cz/vyzkum/projekty/13843`,
     },
     {
-      title: `Biodiversity change during the Pleistocene-Holocene transition: modern analogues in relict ecosystems of
-Siberia`,
+      title: `Biodiversity change during the Pleistocene-Holocene transition: modern analogues in relict ecosystems of Siberia`,
       identification: `GAP504/11/0454`,
       applicant: `prof. RNDr. Milan Chytrý, Ph.D.`,
       duration: `1/2011 - 12/2015`,
       link: `https://www.muni.cz/vyzkum/projekty/13893`,
     },
     {
-      title: `Calcium tolerance in Sphagnum, its physiological and genetic backgrounds, and consequences in mire
-ecology`,
+      title: `Calcium tolerance in Sphagnum, its physiological and genetic backgrounds, and consequences in mire ecology`,
       identification: `GAP505/10/0638`,
       coapplicant: `doc. Mgr. Michal Hájek, Ph.D.`,
       duration: `1/2010 - 12/2014`,
@@ -255,7 +251,7 @@ export const projectsCz = {
       title: `Budoucí úbytek a změna rozšíření ekosystému ombrotrofních vrchovišť způsobený klimatem a důsledky pro ochranu, obnovu a ukládání uhlíku (BogShift)`,
       identification: `GN25-17288O`,
       applicant: `Mgr. Patrícia Singh, Ph.D.`,
-      duration: `9/2025 - 8/2028`,
+      duration: `9/2025 — 8/2028`,
       investor: `Grantová agentura ČR -  Outgoing Postdoctoral Fellowship`,
       abstract: ` Klimatická změna a antropogenní změny krajiny vedou k významným změnám rozšíření
 ekosystémů na celém světě, což představuje výzvy pro zachování biologické rozmanitosti a
@@ -277,7 +273,7 @@ obnovy přírody.`,
       title: `Porozumění současným hrozbám pro biodiverzitu mokřadů: od mikro- po makroorganismy, od fosilií po populační genetiku `,
       identification: `GA25-15831S`,
       applicant: `Mgr. Veronika Horsáková, Ph.D.`,
-      duration: `1/2025 - 12/2027`,
+      duration: `1/2025 — 12/2027`,
       investor: `Grantová agentura ČR - Standardní projekty`,
       abstract: `Současné zrychlování degradace ekosystémů a ztráty biodiverzity je aktuální téma, které vyžaduje intenzivní výzkum. Ohrožená ostrovní stanoviště, jako slatiniště střední Evropy, ubývají dříve nepozorovanou rychlostí. Pochopení těchto změn vyžaduje analýzu interakcí mezi abiotickými faktory a vyhodnocení odpovědí specifických pro jednotlivé taxony, včetně mikroskopických a krátkověkých organismů. V tomto projektu zopakujeme průzkum abiotických faktorů a společenstev rozsivek, mechů, cévnatých rostlin a měkkýšů na 60 slatiništích Západních Karpat, která byla poprvé studována před 20-25 lety takřka stejným týmem. Stanovištní podmínky na delší časové škále (ca. 150 let) budou rekonstruovány pomocí radiokarbonově datovaných sedimentů z modelových lokalit. U šesti druhů tří taxonomických skupin bude s využitím metody ddRAD propojena populační genetika se stanovištní stabilitou. Tato unikátní syntéza umožní kvantifikovat rychlost současných změn, odhalit časové prodlevy v odpovědi jednotlivých složek biodiverzity a poskytnout nový pohled na efektivní ochranu a management těchto stanovišť.
 `,
@@ -288,12 +284,12 @@ obnovy přírody.`,
       title: `Biodiverzita v souvislosti se stabilitou podmínek: test založený na společenstvech a genetice plžů boreálních oceanických oblastí `,
       identification: `GA25-15569S`,
       applicant: `doc. Jeffrey Nekola, Ph.D.`,
-      duration: `1/2025 - 12/2027`,
+      duration: `1/2025 — 12/2027`,
       investor: `Grantová agentura ČR - Standardní projekty`,
       abstract: `Stabilita podmínek prostředí je považována za jeden z hlavních faktorů určujících rozmístění
 diverzity na Zemi. Obecně je složité odstranit souběžný vliv dalších faktorů, podmiňujících vyšší
 biodiverzitu, jako je teplota, ovlivňující metabolismus a mutační rychlost. Vhodným modelem by
-proto byly oblasti stejného klimatu, ale rozdílné stability podmínek během glaciálníhointerglaciálního
+proto byly oblasti stejného klimatu, ale rozdílné stability podmínek během glaciálního interglaciálního
 cyklu. Takovými se podle předběžné analýzy diverzity suchozemských plžů jeví
 tři oblasti boreálně oceanického klimatu severní polokoule. Jejich podmínky se při srovnání
 současného klimatu a klimatu posledního glaciálního maxima jeví od velmi stabilních
@@ -310,7 +306,7 @@ rychlejší nasycení jednotlivými druhy, a vyšší bohatost a druhovou obměn
       title: `Jak odpovídají společenstva různých organizmů na ostrovnost fragmentovaného rašeliništního biotopu?`,
       identification: `GA24-10844S `,
       applicant: `Prof. Mgr. Michal Hájek Ph.D.`,
-      duration: `1/2024 - 12/2026`,
+      duration: `1/2024 — 12/2026`,
       investor: `Grantová agentura ČR - Standardní projekty`,
       abstract: `Rašeliniště jsou přirozeně ostrovními biotopy, které v současnosti degradují. Abychom je mohli účinně chránit a obnovovat, potřebujeme vědět, které ostrovně-biogeografické procesy jsou důležité pro jejich klíčová biotická společenstva. Našim cílem je testovat pozici společenstev osmi různých skupin rašeliništních organismů na gradientu ostrovnosti pomocí původních dat, sbíraných na stejných místech, a kvantifikovat závislost společenstev posledních zbytků rašelinišť v krajině na jejich konektivitě a izolaci. Studované skupiny jsme vybrali na základě jejich biologických vlastností. Reprezentují různé strategie šíření a perzistence, různou délku života a různý stupeň specializace. Zbytky čtyř z nich se ukládají v rašelině a lze je určit, proto můžeme do testování zahrnout i vliv historie lokalit, zjišťovaný datováním a analýzou subfosilních společenstev. Budeme pracovat s přechodovými rašeliništi a nevápnitými slatiništi na regionální škále, ale pro rostliny přesáhneme i do evropské škály. Kromě teoretických výstupů očekáváme aplikace výsledků do ochrany biotopů a ekologické obnovy.`,
       link: `https://www.muni.cz/en/research/projects/71557`,
@@ -376,8 +372,7 @@ rychlejší nasycení jednotlivými druhy, a vyšší bohatost a druhovou obměn
       link: `https://www.muni.cz/vyzkum/projekty/36141`,
     },
     {
-      title: `Koexistence vodních bezobratlých na prameništních slatiništích: úloha abiotické
-        heterogenity a biotických interakcí na regionální a lokální škále`,
+      title: `Koexistence vodních bezobratlých na prameništních slatiništích: úloha abiotické heterogenity a biotických interakcí na regionální a lokální škále`,
       identification: `GA16-03881S`,
       applicant: `prof. RNDr. Michal Horsák, Ph.D.`,
       duration: `1/2016 - 12/2018`,
@@ -414,7 +409,7 @@ rychlejší nasycení jednotlivými druhy, a vyšší bohatost a druhovou obměn
       link: `https://www.muni.cz/vyzkum/projekty/13893`,
     },
     {
-      title: `Kalcitolerance rašeliníků, její fyziologické a genetické pozadí a kosekvence v ekologii rašelinišť`,
+      title: `Kalcitolerance rašeliníků, její fyziologické a genetické pozadí a konsekvence v ekologii rašelinišť`,
       identification: `GAP505/10/0638`,
       coapplicant: `doc. Mgr. Michal Hájek, Ph.D.`,
       duration: `1/2010 - 12/2014`,
