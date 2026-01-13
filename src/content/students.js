@@ -6,6 +6,15 @@ import slachova from "../images/people/slachova.jpg";
 import svobodova from "../images/people/svobodova.jpg";
 
 export const studentsEn = [
+ {
+    id: `klobusicka`,
+    name: `Viktorie Klobušická`,
+    email: `505491@mail.muni.cz`,
+    description: `Viktorie Klobušická completed her studies in Ecological and Evolutionary Biology and Zoology at Masaryk University (2020–2025). Her research focuses on the taxonomy of freshwater molluscs using molecular and morphological approaches. She is currently a PhD student specializing in Balkan lakes and their endemic species, with an emphasis on phylogenetic relationships and evolutionary diversity.`,
+    researchgate: `https://www.researchgate.net/profile/Viktorie-Klobusicka`,
+    is: `https://is.muni.cz/auth/osoba/505491`,
+    img: viky,
+  },
   {
     id: `slachova`,
     name: `Karolína Slachová`,
@@ -34,36 +43,6 @@ export const studentsEn = [
     img: svobodova,
   },
   {
-    id: `prochazkova`,
-    name: `Jana „malunka“ Procházková`,
-    email: `jana.prochazkova@mail.muni.cz`,
-    description: `Jana Procházková studied Botany at Masaryk University, Brno. She graduated in 2014. Her
-    master thesis was focused on ecology of epiphytic bryophytes. This topic, particularly
-    relationship between human impact (air pollution, forest management) and structure of
-    communities of epiphytic bryophytes is the main issue of her PhD project. She tries to combine
-    science with maternity currently :-).`,
-    researchgate: `https://www.researchgate.net/profile/Jana_Prochazkova6`,
-    is: `https://is.muni.cz/auth/osoba/jana.prochazkova`,
-    img: prochazkova,
-  },
-  {
-    id: `simova`,
-    name: `Anna Šímová`,
-    email: `simova39@gmail.com`,
-    description: `Anna Šímová studied Ecological and Evolutionary Biology at the Faculty of Science, Masaryk
-    University in Brno. In her bachelor&#39;s thesis, which she defended in 2013, she examined the
-    relationships between species composition of testate amoebae assemblages and environmental
-    factors in mires of the Western Carpathians. Her master&#39;s thesis, defended in 2016, dealt with
-    Holocene development of the Kotelnice mire in the Slezské Beskydy Mts, which was
-    reconstructed on the basis of fossil testate amoebae analysis. Currently she is a doctoral student
-    (field Ecology) at the Department of Botany and Zoology, Faculty of Science, MU and her PhD
-    thesis focuses on reconstructions of Holocene moisture changes in Carpathian mires with the
-    help of testate amoebae.`,
-    researchgate: `https://www.researchgate.net/profile/Anna_Simova`,
-    is: `https://is.muni.cz/auth/osoba/376226`,
-    img: simova,
-  },
-  {
     id: `winterova`,
     name: `Barbora Winterová`,
     email: `423852@mail.muni.cz`,
@@ -74,7 +53,15 @@ export const studentsEn = [
   },
 ];
 
-export const studentsCz = [
+export const studentsCz = [  {
+    id: `klobusicka`,
+    name: `Viktorie Klobušická`,
+    email: `505491@mail.muni.cz`,
+    description: `Viktorie Klobušická vystudovala na Masarykově univerzitě bakalářský obor Ekologická a evoluční biologie a následně i navazující magisterský obor Zoologie (2020–2025). Ve svém studiu se zaměřuje na taxonomii sladkovodních měkkýšů s využitím molekulárních a morfologických metod. V současnosti se v rámci doktorského studia specializuje na balkánská jezera a jejich endemické druhy, se zaměřením na jejich fylogenetické vztahy a evoluční diverzitu.`,
+    researchgate: `https://www.researchgate.net/profile/Viktorie-Klobusicka`,
+    is: `https://is.muni.cz/auth/osoba/505491`,
+    img: viky,
+  },
   {
     id: `slachova`,
     name: `Karolína Slachová`,
@@ -101,35 +88,6 @@ export const studentsCz = [
     researchgate: ``,
     is: `https://is.muni.cz/auth/osoba/470305`,
     img: svobodova,
-  },
-  {
-    id: `prochazkova`,
-    name: `Jana „malunka“ Procházková`,
-    email: `jana.prochazkova@mail.muni.cz`,
-    description: `Jana Procházková studovala obor Botanika, směr Ekologie rostlin, na Přírodovědecké fakultě
-      Masarykovy univerzity v Brně. Absolvovala v roce 2014. Její diplomová práce byla zaměřena na
-      ekologii epifytických mechorostů. Toto téma, zejména pak vliv člověka (znečištění ovzduší,
-      lesního hospodářství) na strukturu společenstev epifytických mechorostů, je také výzkumným
-      směrem jejího dizertačního projektu. V současné době se snaží zkombinovat vědu a mateřství :-).`,
-    researchgate: `https://www.researchgate.net/profile/Jana_Prochazkova6`,
-    is: `https://is.muni.cz/auth/osoba/241288`,
-    img: prochazkova,
-  },
-  {
-    id: `simova`,
-    name: `Anna Šímová`,
-    email: `simova39@gmail.com`,
-    description: `Anna Šímová studovala Ekologickou a evoluční biologii na Přírodovědecké fakultě Masarykovy
-      Univerzity v Brně. Ve své bakalářské práci, kterou obhájila v roce 2013, se zabývala vztahem
-      druhového složení společenstev krytenek k faktorům prostředí na rašeliništích v Západních
-      Karpatech. Její diplomová práce, obhájena v roce 2016, pojednávala o holocenním vývoji
-      rašeliniště Kotelnice ve Slezských Beskydech, jenž byl rekonstruován na základě analýzy
-      fosilních skupin krytenek. Nyní je studentkou doktorského studia (obor Ekologie) na Ústavu
-      botaniky a zoologie, PřF MU a tématem její dizertační práce je rekonstrukce holocenních změn
-      vlhkosti na karpatských rašeliništích pomocí krytenek.`,
-    researchgate: `https://www.researchgate.net/profile/Anna_Simova`,
-    is: `https://is.muni.cz/auth/osoba/376226`,
-    img: simova,
   },
   {
     id: `winterova`,

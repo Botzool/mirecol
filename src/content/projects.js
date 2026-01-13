@@ -5,6 +5,16 @@ import calibrations from "../images/projects/calibrations.jpg";
 
 export const projectsEn = {
   currentProjectsList: [
+     {
+      title: `Climate-driven future ecosystem loss and range shift in ombrotrophic bogs and implications for conservation, restoration, and carbon storage`,
+      identification: `GN25-17288O`,
+      applicant: `Mgr. Patrícia Singh, Ph.D.`,
+      duration: `9/2025 - 8/2028`,
+      investor: `Czech Science Foundation – Outgoing Postdoctoral Fellowship`,
+      abstract: `This project highlights the critical importance of addressing the impact of climate change on ecosystems, focusing specifically on ombrotrophic peatlands - bogs. It emphasizes the urgent need for conservation and restoration efforts to mitigate carbon emissions and preserve biodiversity, as various researchers and organizations outlined. The proposal suggests using Ecological Niche Modeling (ENM) to predict future shifts in bog distribution under different climate change scenarios, acknowledging the limitations of current ENM approaches and proposing innovative solutions to enhance prediction accuracy. Historical climate data and hierarchical modelling are suggested to address these limitations effectively. The project aims to provide accessible forecasts of habitat loss and shifts in distribution through user-friendly web applications, enabling informed decision-making for bog protection and restoration efforts. The proposal demonstrates a comprehensive approach to addressing climate change's challenges on bog ecosystems.`,
+      link: `https://www.muni.cz/vyzkum/projekty/74767`,
+      img: bogshift,
+    },
     {
       title: `Understanding the current threats to wetland biodiversity: from micro- to macroorganisms, and fossils to population genetics`,
       identification: `GA25-15831S`,
@@ -45,19 +55,16 @@ having higher genetic diversity and higher community richness and species turnov
       link: `https://www.muni.cz/en/research/projects/71557`,
       img: frag,
     },
-    {
+  ],
+
+  completedProjectsList: [
+     {
       title: `New calibration and indicator systems for reconstruction of Holocene climate corrected by local habitat development`,
       identification: `GA23-05132S`,
       applicant: `Mgr. Petra Hájková, PhD.`,
       duration: `1/2023 - 12/2025`,
-      investor: `Czech Science Foundation – Standard Projects`,
-      abstract: `Holocene climate changes are among the most important drivers of modern ecosystems. Data on ecosystem responses to climate change provide important information for modelling their future responses and optimising conservation strategies. This project will develop some new and validate the conventional calibration and indicator systems for climate reconstruction based on various biotic and abiotic proxies. The methods used include (i) transfer functions of modern calibration datasets applied to the species composition of fossil samples; (ii) stable isotope analyses from different fossil materials; and (iii) global circulation model simulations with decadal temporal resolution (CCSM3 model). They will be applied and tested on selected precise fossil records in the Western Carpathians. The main objectives of the project are both the reconstruction of Holocene climate parameters and the comparison of reconstruction consistency between individual methods and proxies. By validating their applicability and limitations, we will make recommendations of general value.`,
       link: `https://www.muni.cz/en/research/projects/69459`,
-      img: calibrations,
     },
-  ],
-
-  completedProjectsList: [
     {
       title: `Identifying and optimizing novel nuclear DNA regions for species-level phylogenetic signal in pulmonate snails`,
       identification: `GA22-23005S`,
@@ -244,6 +251,28 @@ for biodiversity`,
 
 export const projectsCz = {
   currentProjectsList: [
+     {
+      title: `Budoucí úbytek a změna rozšíření ekosystému ombrotrofních vrchovišť způsobený klimatem a důsledky pro ochranu, obnovu a ukládání uhlíku (BogShift)`,
+      identification: `GN25-17288O`,
+      applicant: `Mgr. Patrícia Singh, Ph.D.`,
+      duration: `9/2025 - 8/2028`,
+      investor: `Grantová agentura ČR -  Outgoing Postdoctoral Fellowship`,
+      abstract: ` Klimatická změna a antropogenní změny krajiny vedou k významným změnám rozšíření
+ekosystémů na celém světě, což představuje výzvy pro zachování biologické rozmanitosti a
+ekosystémových služeb. Ombrotrofní rašeliniště, klíčová pro ukládání uhlíku, čelí hrozbám
+degradace. Jejich obnova je zásadní pro uhlíkovou neutralitu a biologickou rozmanitost.
+Omezené zdroje brání ochraně a vyžadují optimální identifikaci oblasti. Tento projekt využívá
+ekologické modelování niky (ENM) k předpovídání budoucích posunů rozšíření vrchovišť podle
+scénářů změny klimatu v holarktických oblastech. Zlepšení předpokladů ENM má za cíl
+upřednostnit predikce. Výsledky prezentované prostřednictvím webové aplikace budou
+vodítkem pro ochranu a obnovu vrchovišť. Projekt se skládá ze čtyř pracovních balíčků:
+hodnocení vlivu historického klimatu na rozšíření vrchovišť, hodnocení niky vrchovišť, zkoumání
+účinků změny klimatu na typy vrchovišť a vývoj webové aplikace pro implementaci modelu a
+rozhodování v ochraně. Projekt poskytuje cenné nástroje pro odborníky z oblasti ochrany a
+obnovy přírody.`,
+      link: `https://www.muni.cz/vyzkum/projekty/74767`,
+      img: bogshift,
+    },
     {
       title: `Porozumění současným hrozbám pro biodiverzitu mokřadů: od mikro- po makroorganismy, od fosilií po populační genetiku `,
       identification: `GA25-15831S`,
@@ -287,19 +316,16 @@ rychlejší nasycení jednotlivými druhy, a vyšší bohatost a druhovou obměn
       link: `https://www.muni.cz/en/research/projects/71557`,
       img: frag,
     },
-    {
+  ],
+
+  completedProjectsList: [
+      {
       title: `Nové kalibrační a indikační systémy pro rekonstrukci holocenního klimatu zohledňující lokální vývoj`,
       identification: `GA23-05132S`,
       applicant: `Mgr. Petra Hájková, Ph.D.`,
       duration: `1/2023 - 12/2025`,
-      investor: `Grantová agentura ČR - Standardní projekty`,
-      abstract: `Změny klimatu během holocénu jsou jedním z klíčových faktorů, které formovaly složení dnešních ekosystémů. Znalost míry schopnosti ekosystémů odolávat nebo se přizpůsobovat změnám klimatu je důležitá pro modelování jejich budoucího vývoje a pro plánování strategií v ochraně přírody a krajiny. V tomto projektu chceme vyvinout nové a testovat konvenční kalibrační a indikační systémy pro rekonstrukci klimatu. Ty zahrnují (i) recentní kalibrační soubory aplikované na fosilní druhová data pomocí tzv. přenosových funkcí, (ii) analýzy stabilních izotopů v různých fosilních materiálech a (iii) simulace globálních cirkulačních modelů s časovým rozlišením desítek let (CCSM3 model). Budou aplikovány na referenční profily s precizním fosilním záznamem v Západních Karpatech. Cílem projektu bude jak rekonstruovat holocenní změny klimatu, tak také porovnat rekonstrukce založené na různých proxy metodách a na základě toho dát obecná doporučení o použitelnosti těchto metod, jejich spolehlivosti či možných omezení v paleoekologickém výzkumu.`,
       link: `https://www.muni.cz/vyzkum/projekty/69459`,
-      img: calibrations,
     },
-  ],
-
-  completedProjectsList: [
     {
       title: `Identifikace a optimalizace nových úseků jaderné DNA pro fylogenetickou analýzu plicnatých plžů na druhové úrovni`,
       identification: `GA22-23005S`,

@@ -3,7 +3,7 @@ import nemec from "../images/people/nemec.jpg";
 import takumi from "../images/people/takumi.jpg";
 
 export const researchersEn = [
-  {
+   {
     id: `takumi`,
     name: `Takumi Saito`,
     email: `saito.zef@gmail.com`,

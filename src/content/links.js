@@ -42,6 +42,22 @@ export const databasesCz = [
 ];
 export const media = [
   {
+    name: `09/12/2025 Na koberečku #61: Co nám plži říkají o českých lesích? Hnutí Duha podcast`,
+    link: `https://www.youtube.com/watch?v=vA1ya_Fidtg`,
+  },
+  {
+    name: `03/07/2025 Recept na zdravější lesy? Méně úklidu, více padlého dřeva.: SCI MUNI, Živa, Novinky.cz, Sylvarium, Listy jižní Moravy`,
+    link: `https://ziva.avcr.cz/2025-4/kolik-padleho-dreva-potrebuji-plzi-v-hospodarskych-smrcinach.html`,
+  },
+  {
+    name: `22/10/2024 Správný přístup k výuce zahrnuje empatii a lidskost, Magazín M`,
+    link: `https://www.em.muni.cz/udalosti/17654-spravny-pristup-k-vyuce-zahrnuje-empatii-a-lidskost`,
+  },
+  {
+    name: `09/10/2024 Cenu rektora pro vynikající pedagogy převzala Barbora Hutňan Chattová, SCI MUNI`,
+    link: `https://www.sci.muni.cz/clanky/cenu-rektora-pro-vynikajici-pedagogy-prevzala-barbora-hutnan-chattova`,
+  },
+  {
     name: `15/09/2024 Kampaň proti přírodě, Česká televize`,
     link: `https://www.ceskatelevize.cz/porady/1095913550-nedej-se/224562248410022/`,
   },

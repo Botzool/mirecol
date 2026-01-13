@@ -240,6 +240,30 @@ export const staffEn = [
     is: `https://is.muni.cz/auth/osoba/241288`,
     img: coufal,
   },
+   {
+    id: `farshad`,
+    name: `Farshad Nejat`,
+    position: `Researcher`,
+    description: `Farshad Nejat studied his bachelor’s degree in environmental science at Isfahan University of Technology (2008–2013, Iran). He then completed a master’s degree in Ecology and Ecosystem Management at Shahid Beheshti University (2014–2017, Iran), where his research focused on the impacts of invasive species on native fish fauna.
+He pursued his Ph.D. in Ecology and Evolutionary Biology at Masaryk University, graduating in 2025. His doctoral research investigated the current and historical contacts between cyprinoid fishes and their monogenean parasites in the Middle East. During his Ph.D. studies, he also developed a strong interest in the biodiversity and biogeography of land snails.
+He is currently a research assistant in the Department of Botany and Zoology at Masaryk University. His scientific interests include the biogeography and biodiversity of selected land snail taxa, as well as the molecular and morphological variability of selected freshwater monogeneans.`,
+    email: `farshad.nejat@mail.muni.cz`,
+    phoneNumber: ``,
+    researchgate: `https://www.researchgate.net/profile/Farshad-Nejat`,
+    is: `https://is.muni.cz/auth/osoba/517718`,
+    img: farshad,
+  },  
+   {
+    id: `sarhanova`,
+    name: `Petra Šarhanová`,
+    position: `Researcher`,
+    description: ``,
+    email: `sarhanova@gmail.com`,
+    phoneNumber: ``,
+    researchgate: `https://www.researchgate.net/profile/Petra-Sarhanova`,
+    is: `https://is.muni.cz/auth/osoba/43249`,
+    img: sarhanova,
+  },
 ];
 
 export const staffCz = [
@@ -456,5 +480,27 @@ export const staffCz = [
     researchgate: `https://www.researchgate.net/profile/Radovan_Coufal2`,
     is: `https://is.muni.cz/auth/osoba/470305`,
     img: coufal,
+  },
+  {
+    id: `farshad`,
+    name: `Farshad Nejat`,
+    position: `Výzkumník`,
+    description: `Farshad Nejat studoval bakalářský program v oboru environmentálních věd na Isfahan University of Technology (2008–2013, Írán). Následně dokončil magisterské studium v oboru Ekologie a management ekosystémů na Shahid Beheshti University (2014–2017, Írán), kde se jeho výzkum zaměřoval na dopady invazních druhů na původní rybí faunu. Titul Ph.D. v oboru Ekologie a evoluční biologie získal na Masarykově univerzitě v roce 2025. Jeho disertační práce se zabývala současnými a historickými kontakty mezi kaprovitými rybami a jejich parazity ze skupiny Monogenea na Blízkém východě. Během doktorátu se začal zajímat také o biodiverzitu a biogeografii suchozemských plžů. V současnosti působí jako výzkumník na Ústavu botaniky a zoologie Masarykovy univerzity. Mezi jeho vědecké zájmy patří biogeografie a biodiverzita vybraných taxonů suchozemských plžů, stejně jako molekulární a morfologická variabilita vybraných sladkovodních parazitů skupiny Monogenea.`,
+    email: `farshad.nejat@mail.muni.cz`,
+    phoneNumber: ``,
+    researchgate: `https://www.researchgate.net/profile/Farshad-Nejat`,
+    is: `https://is.muni.cz/auth/osoba/517718`,
+    img: farshad,
+  },
+    {
+    id: `sarhanova`,
+    name: `Petra Šarhanová`,
+    position: `Výzkumnice`,
+    description: ``,
+    email: `sarhanova@gmail.com`,
+    phoneNumber: ``,
+    researchgate: `https://www.researchgate.net/profile/Petra-Sarhanova`,
+    is: `https://is.muni.cz/auth/osoba/43249`,
+    img: sarhanova,
   },
 ];
