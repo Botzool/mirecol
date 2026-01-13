@@ -57,14 +57,11 @@
       link: `https://is.muni.cz/th/v60d7/?lang=en`
     },
     {
-      name: `Review of dated fosil records of mire plant specialists in the Bohemian-Moravian Highlands,
-    bachelor's thesis, Žaneta Blahová, 20. 6. 2013`,
+      name: `Review of dated fosil records of mire plant specialists in the Bohemian-Moravian Highlands, bachelor's thesis, Žaneta Blahová, 20. 6. 2013`,
       link: `https://is.muni.cz/th/av2jf/`
     },
     {
-      name: `Relationships between testate amoebae species composition and environmental factors in mires of the
-      West Carpathians,
-    bachelor's thesis, Anna Šímová, 12. 6. 2013`,
+      name: `Relationships between testate amoebae species composition and environmental factors in mires of the West Carpathians, bachelor's thesis, Anna Šímová, 12. 6. 2013`,
       link: `https://is.muni.cz/th/lbbyg/`
     },
     {
@@ -139,8 +136,7 @@
       link: `https://is.muni.cz/th/du7m1/`
     },
     {
-      name: `Small-scale distribution of testate amoebae at minerotrophic mires: the effect of habitat heterogeneity and sample size, master's thesis, Zuzana Lizoňová, 18. 2. 2016
-    `,
+      name: `Small-scale distribution of testate amoebae at minerotrophic mires: the effect of habitat heterogeneity and sample size, master's thesis, Zuzana Lizoňová, 18. 2. 2016`,
       link: `https://is.muni.cz/th/awgtm/`
     },
     {
@@ -314,21 +310,17 @@ export const thesesCz = {
       link: `https://is.muni.cz/th/du7m1/`
     },
     {
-      name: `Maloškálová distribuce krytenek na minerotrofních rašeliništích: vliv heterogenity prostředí a velikosti
-    vzorku, diplomová práce, Zuzana Lizoňová, 18. 2. 2016`,
+      name: `Maloškálová distribuce krytenek na minerotrofních rašeliništích: vliv heterogenity prostředí a velikosti vzorku, diplomová práce, Zuzana Lizoňová, 18. 2. 2016`,
       link: `https://is.muni.cz/th/awgtm/`
     },
     {
-      name: `Holocenní vývoj kyselého rašeliniště ve vnitřních Západních Karpatech rekonstruovaný za pomoci
-    analýzy fosilních krytenek, diplomová práce,Zuzana Jermanová, 15. 6. 2015`,
+      name: `Holocenní vývoj kyselého rašeliniště ve vnitřních Západních Karpatech rekonstruovaný za pomoci analýzy fosilních krytenek, diplomová práce, Zuzana Jermanová, 15. 6. 2015`,
       link: `https://is.muni.cz/th/csg60/`
     },
     {
-      name: `Paleomalakologická analýza sedimentů pěnovcového slatiniště holocenního stáří: vliv velikosti vzorků,
-    členění vrstev a prostorové variability, diplomová práce, Jitka Frodlová, 11. 2. 2015`,
+      name: `Paleomalakologická analýza sedimentů pěnovcového slatiniště holocenního stáří: vliv velikosti vzorků, členění vrstev a prostorové variability, diplomová práce, Jitka Frodlová, 11. 2. 2015`,
       link: `https://is.muni.cz/th/slrdy/`
     },
-
     {
       name: `Variabilita společenstev měkkýšů bazických slatinišť Polska a jižní Skandinávie, diplomová práce, Veronika Horsáková, 11. 6. 2012`,
       link: `https://is.muni.cz/th/pktq5/`

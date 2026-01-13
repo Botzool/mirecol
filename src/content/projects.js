@@ -1,7 +1,7 @@
 ﻿import biodiv from "../images/projects/biodiv.jpg";
 import stability from "../images/projects/stability.jpg";
 import frag from "../images/projects/frag.jpg";
-import calibrations from "../images/projects/calibrations.jpg";
+import bogshift from "../images/projects/bogshift.jpg";
 
 export const projectsEn = {
   currentProjectsList: [

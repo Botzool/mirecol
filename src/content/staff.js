@@ -16,6 +16,8 @@ import petr from "../images/people/petr.jpg";
 import chattova from "../images/people/chattova.jpg";
 import pleskova from "../images/people/pleskova.jpg";
 import coufal from "../images/people/coufal.jpg";
+import farshad from "../images/people/farshad.jpg";
+import sarhanova from "../images/people/sarhanova.jpg";
 
 export const staffEn = [
   {

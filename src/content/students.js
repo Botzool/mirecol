@@ -1,9 +1,8 @@
-﻿import simova from "../images/people/simova.jpg";
-import prochazkova from "../images/people/prochazkova.jpg";
-import winterova from "../images/people/winterova.jpg";
+﻿import winterova from "../images/people/winterova.jpg";
 import kafimola from "../images/people/kafimola.jpg";
 import slachova from "../images/people/slachova.jpg";
 import svobodova from "../images/people/svobodova.jpg";
+import viky from "../images/people/viky.jpg";
 
 export const studentsEn = [
  {
