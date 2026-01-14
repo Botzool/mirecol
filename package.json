@@ -8,7 +8,7 @@
     "build:app": "npm run clean && gatsby build --prefix-paths && npm run move",
     "move": "cd public && mkdir mirecol | mv * mirecol",
     "serve": "gatsby serve",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "preinstall": "npx npm-force-resolutions"
   },
   "dependencies": {
