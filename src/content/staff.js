@@ -334,7 +334,7 @@ export const staffCz = [
   {
     id: `horsakova`,
     name: `Veronika Horsáková`,
-    position: `Odborná pracovnice`,
+    position: `Výzkumnice`,
     description: `Veronika Horsáková studovala bakalářský a magisterský stupeň v oboru Systematická biologie a ekologie na Přírodovědecké fakultě Masarykovy univerzity (2007–2012). Poté pokračovala se studiem PhD na téže instituci, a v r. 2017 obhájila svou dizertační práci, ve které se zabývala faktory ovlivňujícími druhovou bohatost a skladbu společenstev měkkýšů na slatiništích kontinentální Evropy. V současnosti je odbornou pracovnicí na Ústavu botaniky a zoologie (MU) a ve svém aktuálním výzkumu se věnuje především ekologii společenstev měkkýšů se zaměřením na prameništní slatiniště, výzkumu glaciálně reliktních druhů suchozemských plžů, a také molekulární fylogenezi vybraných taxonů měkkýšů.`,
     email: `veronika.horsakova@seznam.cz`,
     phoneNumber: `549495163`,
@@ -345,7 +345,7 @@ export const staffCz = [
   {
     id: `jamrichova`,
     name: `Eva Jamrichová`,
-    position: `Odborná pracovnice`,
+    position: `Výzkumnice`,
     description: `Študovala odbor biológia-chémia na Univerzite Konštantína Filozofa v Nitre (UKF, Nitra, Slovensko), ktorý ukončila v roku 2005. V následnom postgraduálnom štúdiu (2005-2009) na UKF v Nitre sa venovala vzťahom medzi pravekým osídlením a prírodným prostredím na juhozápadnom Slovensku. V roku 2016 obhájila PhD na Univerzite Karlovej v Prahe a téma jej dizertačnej práce bola antropogénny vplyv na zmeny krajiny a vegetácie odrážajúce sa v peľových spektrách strednej Európy. V súčasnosti pracuje v Paleoekologické laboratoři BÚ AVČR v Brne a UBZ na Masarykovej Univerzite, kde sa zaoberá zmenami krajiny a vegetácie v priebehu neskorého glaciálu a holocénu v severnej časti Panónskej nížiny a Západných Karpatoch.`,
     email: `111594@mail.muni.cz`,
     phoneNumber: `541126217`,
@@ -356,7 +356,7 @@ export const staffCz = [
   {
     id: `jirousek`,
     name: `Martin Jiroušek`,
-    position: `Odborný pracovník`,
+    position: `Výzkumník`,
     description: `Martin Jiroušek studoval obor Systematická biologie a ekologie na Přírodovědecké fakultě Masarykovy Univerzity v Brně. Na stejném pracovišti v roce 2012 obhájil i dizertační práci v oboru Botanika na téma Ekologie vrchovišť v pohořích Sudetské soustavy. Výzkumu vrchovišť českého pohraničí se věnuje nejvíce i doposud, v poslední době se však zabýval i výzkumem slatiništních rašelinišť či vrchovišť jiných oblastí, především střední Evropy. Nyní se spolu s T. Peterkou, M. Hájkem a ostatními kolegy nejen z rašeliništní pracovní skupiny zabývá syntézami fytocenologických databází s rašeliništními daty a klasifikacemi evropské vegetace rašelinišť pro projekt PLADIAS. Specializace: vegetace rašelinišť, ekologie rašelinišť, vegetační změny, biologie rašeliníků, produkce a dekompozice rašeliníků, vztahy mezi různými skupinami vrchovištních organismů, klasifikace rašeliništní vegetace. Mimo rašeliništní skupinu ÚBZ pracuje také na Ústavu biologie rostlin Agronomické fakulty Mendelovy univerzity v Brně.`,
     email: `merlin.mann@seznam.cz`,
     phoneNumber: `549498266`,
@@ -367,7 +367,7 @@ export const staffCz = [
   {
     id: `kosuthova`,
     name: `Alica Košuthová`,
-    position: `Odborná pracovnice`,
+    position: `Výzkumnice`,
     description: `Alica Košuthová pracuje jako externí odborná pracovnice na Katedře botaniky Masarykovy university v Brně. Studovala odbor Environmentalistika na Přírodovědecké fakultě na Univerzitě Komenského v Bratislavě. Diplomovou práci o vlivu úprav sjezdovek na diverzitu lišejníků v NP Nízke Tatry obhájila v roce 2005. Doktorská práce se zabývala změnami v synuziích terestrických lišejníků na kyselých píscích Borské nížiny (Slovensko) ve vztahu k ekologickým a klimatickým faktorům a byla obhájena v roce 2013. Od roku 2013 pracuje na Ústavu botaniky a zoologie Masarykovy university a úvazek má i na Botanickém ústavu Akademie Věd SR. Její vědecký výzkum je zaměřen na: (1) diverzitu lišejníků v celosvětovém měřítku, zejména na terestrické lišejníky rodu Cladonia a saxikolní rod Placynthium, (2) moderní přístupy v oblasti genetiky (DNA-barcoding, NGS) a ekologii (studium mycobionta a fotobionta, co-evoluce), (3) ochranu přírody.`,
     email: `kosuthova.alica@gmail.com`,
     phoneNumber: `549498494`,
@@ -378,7 +378,7 @@ export const staffCz = [
   {
     id: `liznarova`,
     name: `Eva Líznarová`,
-    position: `Odborná pracovnice`,
+    position: `Výzkumnice`,
     description: `Eva Líznarová vystudovala bakalářský i magisterský obor na Ústavu botaniky a zoologie na Přírodovědecké fakultě Masarykovy univerzity. Na stejném pracovišti v roce 2016 absolvovala doktorské studium v oboru Ekologie. Během bakalářského studia se zabývala behaviorální ekologií pavouků se zaměřením na jejich predační strategie a na toto téma následně navázala během magisterského i doktorského studia. V současné době je zaměstnaná jako odborná pracovnice na Ústavu botaniky a zoologie Masarykovy univerzity. V poslední době se rovněž zabývá evolucí velikosti genomu u pavouků, složením společenstev pavouků na horských loukách a spolupracuje na výzkumu potravních nároků suchozemských plžů pomocí analýzy stabilních izotopů.`,
     email: `liznarovaeva@centrum.cz`,
     phoneNumber: `549498577`,
@@ -389,7 +389,7 @@ export const staffCz = [
   {
     id: `mikulaskova`,
     name: `Eva Mikulášková`,
-    position: `Odborná pracovnice`,
+    position: `Výzkumnice`,
     description: `Eva Mikulášková studovala obor Odborná biologie na Katedře botaniky PřF Univerzity Karlovy v Praze, absolvovala v roce 2004. Ve své diplomové práci se zabývala biodiverzitou a ekologií mechorostů ve vybraných I. zónách NP Šumava. Poté na PřF UK navázala doktorským oborem Botanika s tématem disertační práce Biologie a ekologie mechu Campylopus introflexus. Absolvovala v roce 2012. Během let 2005-2009 pracovala jako bryolog na Správě CHKO a NP Šumava, kde se zaměřovala převážně na výzkum mokřadních a epifytických mechorostů a celkovou bryofloristiku. Od roku 2006 pracuje na Ústavu botaniky a zoologie PřF Masarykovy Univerzity v Brně, kde vede kurz Obecné bryologie, zabývá se populační genetikou rodu Sphagnum, mokřadními a epifytickými mechorosty a příležitostně se věnuje bryofloristice jiných biotopů. V současné době pracuje ve vědě pouze částečně a zbytek času je na rodičovské dovolené.`,
     email: `klicek@mail.muni.cz`,
     phoneNumber: `549498474`,
@@ -400,7 +400,7 @@ export const staffCz = [
   {
     id: `novakova`,
     name: `Markéta Nováková`,
-    position: `Odborná pracovnice`,
+    position: `Výzkumnice`,
     description: `Markéta Nováková absolvovala bakalářský a magisterský obor Mikrobiologie na Přírodovědecké fakultě Masarykovy univerzity (2007-2012). Během svého studia Ph.D. na Ústavu biologie a chorob volně žijících zvířat Veterinární univerzity Brno se zabývala molekulární diverzitou a biologií rickettsiálních endosymbiontů přenášených ornitofilními klíšťaty (2012-2016). Během svého působení na Biologickém ústavu Lékařské fakulty Masarykovy univerzity se věnovala genomice a molekulární fylogenezi humánně a veterinárně patogenních spirochét rodu Treponema a Borrelia (2017-2021). V současnosti se Markéta zabývá molekulární fylogenezí suchozemských plžů na Ústavu botaniky a zoologie Přírodovědecké fakulty Masarykovy univerzity a vybranými skupinami bakteriálních endosymbiontů klíšťat na pracovišti CEITEC Veterinární univerzity Brno.`,
     email: `novakova.marke@gmail.com`,
     phoneNumber: `549495163`,
@@ -411,6 +411,7 @@ export const staffCz = [
   {
     id: `peterka`,
     name: `Tomáš Peterka`,
+	position: `Výzkumník`,
     description: `Tomáš Peterka studoval obor Botanika, směr Ekologie rostlin na Přírodovědecké fakultě
       Masarykovy univerzity v Brně. Absolvoval v roce 2013 obhajobou diplomové práce o rašeliništní
       a mokřadní vegetaci severozápadní části Žďárských vrchů, které do té doby stály spíše na okraji
@@ -427,7 +428,7 @@ export const staffCz = [
   {
     id: `petr`,
     name: `Libor Petr`,
-    position: `Odborný pracovník`,
+    position: `Výzkumník`,
     description: `Libor Petr vystudoval botaniku na Přírodovědecké fakultě Univerzity Karlovy v Praze. V roce 2013 obhájil doktorskou práci na téma Diverzita životního prostředí v pozdním glaciálu ve střední Evropě. Na Masarykově univerzitě pracuje od roku 2012. Jeho specializací je palynologie a paleoekologie. Zabývá se změnami vegetace a životního prostředí v posledním glaciálu a holocénu způsobených klimatickými oscilacemi a činností člověka v oblasti střední Evropy.`,
     email: `115762@mail.muni.cz`,
     phoneNumber: `549498485`,
@@ -438,7 +439,7 @@ export const staffCz = [
   {
     id: `pleskova`,
     name: `Zuzana Plesková`,
-    position: `Odborná pracovnice`,
+    position: `Výzkumnice`,
     description: `Zuzana Plesková vystudovala Systematickou biologii a ekologii se zaměřením na botaniku a ve své bakalářské i diplomové práci se věnovala sukcesi zarůstajících bělokarpatských luk. V současné době se věnuje ekologii rašelinišť, především tématu realizovaných nik kalcitolerantních rašeliništních rostlin. Zároveň pracuje na Masarykově univerzitě jako odborný asistent na různých grantových projektech.`,
     email: `pleskovicova@gmail.com`,
     phoneNumber: `549498487`,
@@ -449,7 +450,7 @@ export const staffCz = [
   {
     id: `smerdova`,
     name: `Eva Šmerdová (Hettenbergerová)`,
-    position: `Odborná pracovnice`,
+    position: `Výzkumnice`,
     description: `Eva Hettenbergerová získala bakalářský titul na Ostravské Univerzitě, její práce se zaměřovala na flóru a vegetaci hald. Magisterské studium botaniky ukončila v roce 2006 na PřF Masarykovy Univerzity v Brně diplomovou prací zabývající se vlivem kontaktních společenstev na druhové složení lučních pramenišť. Doktorskou práci na téma druhová bohatost a variabilita rostlin a měkkýšů na vlhkostním gradientu obhájila v roce 2013. V současné době se mimo jiné zabývá tvorbou databáze rostlinných makrozbytků České a Slovenské republiky a doplňováním vegetačních snímků a jiných údajů pro projekt PLADIAS. Ráda cestuje s kolegy po rodné vlasti i do zahraničí a sbírá terénní data k dalšímu výzkumu ekologie mokřadů i jiných biotopů.`,
     email: `eva.hette@centrum.cz`,
     phoneNumber: `549498487`,
@@ -460,7 +461,7 @@ export const staffCz = [
   {
     id: `singh`,
     name: `Patrícía Singh`,
-    position: `Odborná pracovnice`,
+    position: `Výzkumnice`,
     description: `Patrícia Ďurčanová absolvovala bakalářské a magisterské studium na Přírodovědecké fakultě
       Univerzity Konštantína Filozofa v Nitře obor Biologie v roce 2015 a obhájila diplomovou práci
       zabývající se vegetací mokřadů Kysuc na Slovensku. Dizertační práci obhájila v roce 2022 na 
