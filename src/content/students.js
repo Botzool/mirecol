@@ -50,6 +50,15 @@ export const studentsEn = [
     is: `https://is.muni.cz/auth/osoba/423852`,
     img: winterova,
   },
+   {
+    id: `zorana`,
+    name: `Zorana Kostadinović`,
+    email: `500280@mail.muni.cz`,
+    description: `Zorana Kostadinović completed her Bachelor's degree in Ecological and Evolutionary Biology and a subsequent Master's degree in Botany with a specialization in Phycology and Mycology at Masaryk University, graduating in 2026. Her research focused on changes in diatom communities in spring fen habitats of the Western Carpathians. In her doctoral studies, she continues in the same research direction, expanding it to include molecular analyses of cryptic species and investigations of changes in the functional diversity of diatom assemblages.`,
+    researchgate: ``,
+    is: `https://is.muni.cz/auth/osoba/500280`,
+    img: zorana,
+  },
 ];
 
 export const studentsCz = [  {
@@ -96,5 +105,14 @@ export const studentsCz = [  {
     researchgate: `https://www.researchgate.net/profile/Barbora_Winterova2`,
     is: `https://is.muni.cz/auth/osoba/423852`,
     img: winterova,
+  },
+   {
+    id: `zorana`,
+    name: `Zorana Kostadinović`,
+    email: `500280@mail.muni.cz`,
+    description: `Zorana Kostadinović vystudovala na Masarykově univerzitě bakalářský obor Ekologická a evoluční biologie a navazující magisterský obor Botanika se zaměřením na fykologii a mykologii, který ukončila v roce 2026. Ve svém studiu se zaměřila na změny rozsivkových společenstev ve slatiništích Západních Karpat. V doktorském studiu pokračuje ve stejném výzkumném zaměření, které rozšiřuje o molekulární analýzu kryptických druhů a studium změn ve funkční diverzitě rozsivkových společenstev.`,
+    researchgate: ``,
+    is: `https://is.muni.cz/auth/osoba/500280`,
+    img: zorana,
   },
 ];
