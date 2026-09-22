@@ -3,6 +3,7 @@ import kafimola from "../images/people/kafimola.jpg";
 import slachova from "../images/people/slachova.jpg";
 import svobodova from "../images/people/svobodova.jpg";
 import viky from "../images/people/viky.jpg";
+import zorana from "../images/people/zorana.jpg";
 
 export const studentsEn = [
  {
